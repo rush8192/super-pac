@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+text {
+  font: 10px sans-serif;
+}
+
+</style>
+<body>
+
+<div id="pac" style="position: absolute;left: 0px; top: 0px; display: none; "></div>
+<div id="ind" style="position: absolute;left: 0px; top: 0px; display: block; "></div>
+
+
+<script src="https://s3.amazonaws.com/www.buyingyourfuture.org/js/d3.js"></script>
+<script src="https://s3.amazonaws.com/www.buyingyourfuture.org/js/colorbrewer.v1.min.js"></script>
+
+<script>
+
+var w_width = (window.innerWidth > 320 ? window.innerWidth : 400);
+
+var diameterC = w_width,
+    format = d3.format(",d"),
+    colorC = d3.scale.category20c();
+
+var bubbleC = d3.layout.pack()
+    .sort(null)
+    .size([diameterC, diameterC])
+    .padding(1.5);
+
+var svgC = d3.select("#ind").append("svg")
+    .attr("width", diameterC)
+    .attr("height", diameterC)
+    .attr("class", "bubble");
+
+d3.json("https://s3.amazonaws.com/www.buyingyourfuture.org/data/sampleIndData.json", function(error, root) {
+  if (error) throw error;
+
+  var node = svgC.selectAll(".node")
+      .data(bubbleC.nodes(getContributors(root))
+      .filter(function(d) { return !d.children; }))
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+  node.append("title")
+      .text(function(d) { return d.name + " (" + d.city + ", " + d.state + "): $" + format(d.amount); });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; })
+      .style("fill", function(d) { return colorC(d.state); });
+
+  node.append("text")
+      .attr("dy", ".3em")
+      .style("text-anchor", "middle")
+      .text(function(d) { return d.name.substring(0, d.r / 3); });
+      
+   d3.select("#ind").on('click', function() { 
+      	document.getElementById("pac").style.display = "block"; 
+      	document.getElementById("ind").style.display = "none";  
+      });
+});
+
+
+
+// Returns a flattened hierarchy containing all leaf nodes under the root.
+function getContributors(root) {
+  var contributors = [];
+  
+  function addContributors(rootObj) {
+  	rootObj.contributors.forEach(function(contributor) { contributor.value = contributor.amount;
+  										 contributor.name = contributor.name.replace(/\w\S*/g, function(txt) {
+  										 	  return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  										 }); 
+  										 contributors.push(contributor); });
+  }
+  
+  addContributors(root);
+  return {children: contributors};
+}
+
+d3.select(self.frameElement).style("height", diameterC + "px");
+
+
+
+</script>
+</body>
+</html>

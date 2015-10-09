@@ -1,0 +1,10713 @@
+{"pacs":[
+{
+	"id":"C00571372",
+	"name":"RIGHT TO RISE USA",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900485126",
+	"type":"O",
+	"affiliation":80,
+	"association":"Jeb Bush",
+	"funds":103516275,
+	"contributors": [
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":10385507
+},
+{
+	"name":"FERNANDEZ, MIGUEL B.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331344522",
+	"amount":3015520
+},
+{
+	"name":"ROONEY HOLDINGS, INC.",
+	"city":"TULSA",
+	"state":"OK",
+	"zip":"74146",
+	"amount":2001706
+},
+{
+	"name":"OBERNDORF, WILLIAM E.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"94111",
+	"amount":1511896
+},
+{
+	"name":"SCHWAB, HELEN O.S.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941192861",
+	"amount":1500000
+},
+{
+	"name":"AMERICAN PACIFIC INTERNATIONAL CAPITAL INC.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941342501",
+	"amount":1300000
+},
+{
+	"name":"NEXTERA ENERGY",
+	"city":"JUNO BEACH",
+	"state":"FL",
+	"zip":"33408",
+	"amount":1025000
+},
+{
+	"name":"STEPHENSON, THOMAS F. AMBASSADOR",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940273032",
+	"amount":1004677
+},
+{
+	"name":"KINDER, NANCY G.S.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"772190776",
+	"amount":1004329
+},
+{
+	"name":"HOFFMAN, ALFRED AMBASSADOR JR.",
+	"city":"NORTH PALM BEACH",
+	"state":"FL",
+	"zip":"334082534",
+	"amount":1003067
+},
+{
+	"name":"HUNT, NANCY ANNS.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752012300",
+	"amount":1000000
+},
+{
+	"name":"ANSARY, HUSHANG AMBASSADOR",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770025005",
+	"amount":1000000
+},
+{
+	"name":"ANSARY, SHAHLAS.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770025014",
+	"amount":1000000
+},
+{
+	"name":"DAY, ROBERT",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900773005",
+	"amount":1000000
+},
+{
+	"name":"RODRIGUEZ, RAUL",
+	"city":"MIAMI LAKES",
+	"state":"FL",
+	"zip":"330165823",
+	"amount":1000000
+},
+{
+	"name":"BACON, LOUIS M.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100201104",
+	"amount":1000000
+},
+{
+	"name":"JOHNSON, CHARLES B",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"33480",
+	"amount":1000000
+},
+{
+	"name":"JASPER RESERVES L.L.C.",
+	"city":"CHARLESTON",
+	"state":"WV",
+	"zip":"253012210",
+	"amount":1000000
+},
+{
+	"name":"REES-JONES, JANS.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752258026",
+	"amount":1000000
+},
+{
+	"name":"MARCUS, BERNARD",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303272306",
+	"amount":1000000
+},
+{
+	"name":"ROBERTSON, JULIAN H. JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101780002",
+	"amount":1000000
+},
+{
+	"name":"FREEMAN, BRADFORD M.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900250525",
+	"amount":1000000
+},
+{
+	"name":"HUNT, RAY L.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752012300",
+	"amount":1000000
+},
+{
+	"name":"KINDER, RICHARD D.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770191301",
+	"amount":1000000
+},
+{
+	"name":"REES-JONES, TREVOR D.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752258026",
+	"amount":1000000
+},
+{
+	"name":"FOSHEE, DOUGLAS L.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770276038",
+	"amount":750000
+},
+{
+	"name":"HUNTER GLOBAL INVESTORS L.P.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334801543",
+	"amount":700000
+},
+{
+	"name":"JACKSON HEALTHCARE LLC",
+	"city":"ALPHARETTA",
+	"state":"GA",
+	"zip":"300092280",
+	"amount":552011
+},
+{
+	"name":"SATTER, MUNEER A.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606112883",
+	"amount":550000
+},
+{
+	"name":"BOUCHARD, MORTON S. III",
+	"city":"MELVILLE",
+	"state":"NY",
+	"zip":"117472342",
+	"amount":525000
+},
+{
+	"name":"UNITED STATES SUGAR CORP",
+	"city":"CLEWISTON",
+	"state":"FL",
+	"zip":"334403032",
+	"amount":505000
+},
+{
+	"name":"JOHNSON, ROBERT W. IV",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100202403",
+	"amount":501604
+},
+{
+	"name":"WEXNER, LESLIE H.",
+	"city":"COLUMBUS",
+	"state":"OH",
+	"zip":"432301467",
+	"amount":500000
+},
+{
+	"name":"PLUMERI, JOSEPH J.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"102812604",
+	"amount":500000
+},
+{
+	"name":"SHERMAN, BRUCE S.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341032822",
+	"amount":500000
+},
+{
+	"name":"ANWAR, S. JAVAID",
+	"city":"MIDLAND",
+	"state":"TX",
+	"zip":"797057433",
+	"amount":500000
+},
+{
+	"name":"STERN, MARC I.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900172593",
+	"amount":500000
+},
+{
+	"name":"NAU, JOHN L. III",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"772190130",
+	"amount":500000
+},
+{
+	"name":"DUCHOSSOIS, CRAIG J.",
+	"city":"ELMHURST",
+	"state":"IL",
+	"zip":"601261114",
+	"amount":500000
+},
+{
+	"name":"MCNAIR, ROBERT C. SR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77054",
+	"amount":500000
+},
+{
+	"name":"COX, HOWARD E. JR.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804617",
+	"amount":500000
+},
+{
+	"name":"LOEB, DAN S.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100224608",
+	"amount":500000
+},
+{
+	"name":"SAROFIM, FAYEZ",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770101024",
+	"amount":500000
+},
+{
+	"name":"JOHNSON, BETTY W.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100202403",
+	"amount":500000
+},
+{
+	"name":"ARISON, MICKY",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331782418",
+	"amount":500000
+},
+{
+	"name":"PERELMAN, RONALD O.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10065",
+	"amount":500000
+},
+{
+	"name":"JACKSON, RICHARD L.",
+	"city":"ALPHARETTA",
+	"state":"GA",
+	"zip":"300092280",
+	"amount":500000
+},
+{
+	"name":"TE, CHEN SHU",
+	"city":"HONG KONG",
+	"state":"",
+	"zip":"99999",
+	"amount":499137
+},
+{
+	"name":"BECKER, R. WILLIAM",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"329631758",
+	"amount":350000
+},
+{
+	"name":"EDWARDS, WILLIAM L.",
+	"city":"SAINT PETERSBURG",
+	"state":"FL",
+	"zip":"337013343",
+	"amount":350000
+},
+{
+	"name":"KOJAIAN MANAGEMENT CORPORATION",
+	"city":"BLOOMFIELD HILLS",
+	"state":"MI",
+	"zip":"483045155",
+	"amount":310123
+},
+{
+	"name":"CUSHMAN, JOHN C. III",
+	"city":"PASADENA",
+	"state":"CA",
+	"zip":"911015084",
+	"amount":300000
+},
+{
+	"name":"LESSING, STEPHEN M.",
+	"city":"COLD SPRING HARBOR",
+	"state":"NY",
+	"zip":"117241105",
+	"amount":276761
+},
+{
+	"name":"GRAY, C. BOYDEN AMBASSADOR",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200073058",
+	"amount":275000
+},
+{
+	"name":"GALVIN, CHRISTOPHER B.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606064610",
+	"amount":265000
+},
+{
+	"name":"TROTT, BYRON",
+	"city":"WINNETKA",
+	"state":"IL",
+	"zip":"600932321",
+	"amount":260178
+},
+{
+	"name":"MILLER, DAVID B.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752194443",
+	"amount":260000
+},
+{
+	"name":"JENKINS, HOWARD M.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336114747",
+	"amount":260000
+},
+{
+	"name":"NAVAB, ALEXANDER",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100192707",
+	"amount":250571
+},
+{
+	"name":"NCL AMERICA INC.",
+	"city":"HONOLULU",
+	"state":"HI",
+	"zip":"968192071",
+	"amount":250000
+},
+{
+	"name":"CUNNINGHAM, FRED II",
+	"city":"ARTHUR",
+	"state":"NE",
+	"zip":"691210225",
+	"amount":250000
+},
+{
+	"name":"TUTTLE, ROBERT H. AMBASSADOR",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900773009",
+	"amount":250000
+},
+{
+	"name":"CREAMER, GLENN",
+	"city":"BARRINGTON",
+	"state":"RI",
+	"zip":"028063300",
+	"amount":250000
+},
+{
+	"name":"CORR, THOMAS L.",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"329631992",
+	"amount":250000
+},
+{
+	"name":"GUNN, JOHN A.",
+	"city":"PALO ALTO",
+	"state":"CA",
+	"zip":"943013644",
+	"amount":250000
+},
+{
+	"name":"BISHOP, ROBERT J.",
+	"city":"NEW CANAAN",
+	"state":"CT",
+	"zip":"068402513",
+	"amount":250000
+},
+{
+	"name":"STEELE, BRANDON T.",
+	"city":"TYLER",
+	"state":"TX",
+	"zip":"757030103",
+	"amount":250000
+},
+{
+	"name":"HILDEBRAND, JEFFREY D.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770025606",
+	"amount":250000
+},
+{
+	"name":"FOX, SAM AMBASSADOR",
+	"city":"SAINT LOUIS",
+	"state":"MO",
+	"zip":"631051875",
+	"amount":250000
+},
+{
+	"name":"FLORES, JAMES",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"772511083",
+	"amount":250000
+},
+{
+	"name":"TEPPER, DAVID A.",
+	"city":"SHORT HILLS",
+	"state":"NJ",
+	"zip":"070782704",
+	"amount":250000
+},
+{
+	"name":"PENSKE, ROGER",
+	"city":"BLOOMFIELD HILLS",
+	"state":"MI",
+	"zip":"483020912",
+	"amount":250000
+},
+{
+	"name":"PEREZ, JORGE",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331312380",
+	"amount":245000
+},
+{
+	"name":"KISLAK, JAY I.",
+	"city":"MIAMI LAKES",
+	"state":"FL",
+	"zip":"330165816",
+	"amount":218000
+},
+{
+	"name":"SCHAR, DWIGHT C.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804737",
+	"amount":204000
+},
+{
+	"name":"WORKMAN, RICHARD E. DR.",
+	"city":"WINDERMERE",
+	"state":"FL",
+	"zip":"347868907",
+	"amount":201958
+},
+{
+	"name":"CORBETT, RICHARD A.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336135235",
+	"amount":200000
+},
+{
+	"name":"THAIN, JOHN A.",
+	"city":"RYE",
+	"state":"NY",
+	"zip":"105801809",
+	"amount":200000
+},
+{
+	"name":"FEINBERG, STEPHEN A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100656120",
+	"amount":200000
+},
+{
+	"name":"COCAR LENDING L.L.C.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331567055",
+	"amount":200000
+},
+{
+	"name":"ROTHMAN, ROBERT",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336025179",
+	"amount":200000
+},
+{
+	"name":"WAHID, MASUDUL RON",
+	"city":"MCLEAN",
+	"state":"VA",
+	"zip":"221022809",
+	"amount":200000
+},
+{
+	"name":"SUBURBAN AUTOMOTIVE CONSULTANTS INC.",
+	"city":"TROY",
+	"state":"MI",
+	"zip":"480990909",
+	"amount":200000
+},
+{
+	"name":"CURRIE, NEILL A.",
+	"city":"WILMINGTON",
+	"state":"NC",
+	"zip":"284055287",
+	"amount":155510
+},
+{
+	"name":"MCINERNEY, THOMAS E",
+	"city":"WESTPORT",
+	"state":"CT",
+	"zip":"06880",
+	"amount":150000
+},
+{
+	"name":"MEDINA, MANUEL D.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331312611",
+	"amount":150000
+},
+{
+	"name":"KEDRICK CERRY INC.",
+	"city":"PANAMA CITY BEACH",
+	"state":"FL",
+	"zip":"324086218",
+	"amount":150000
+},
+{
+	"name":"SEGALL, GREGORY L.",
+	"city":"GLADWYNE",
+	"state":"PA",
+	"zip":"190351276",
+	"amount":150000
+},
+{
+	"name":"BRIERLEY, HAROL",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75205",
+	"amount":150000
+},
+{
+	"name":"KELLNER, TED",
+	"city":"MILWAUKEE",
+	"state":"WI",
+	"zip":"532024110",
+	"amount":150000
+},
+{
+	"name":"BAKER, JOHN D. II",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322059426",
+	"amount":150000
+},
+{
+	"name":"BERKOWITZ, BRUCE R.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331436540",
+	"amount":150000
+},
+{
+	"name":"TROUTT, KENNY A.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752295424",
+	"amount":150000
+},
+{
+	"name":"CHAE, MICHAEL S.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101281350",
+	"amount":150000
+},
+{
+	"name":"TOLLESON, JOHN C.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752051241",
+	"amount":150000
+},
+{
+	"name":"MCCAW, SUSAN R. AMBASSADOR",
+	"city":"SANTA BARBARA",
+	"state":"CA",
+	"zip":"931081419",
+	"amount":150000
+},
+{
+	"name":"TREAD STANDARD LLC",
+	"city":"INFO REQUESTED",
+	"state":"",
+	"zip":"99999",
+	"amount":150000
+},
+{
+	"name":"W.S. FARISH & CO. AGENCY",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770025227",
+	"amount":131250
+},
+{
+	"name":"STENSTROM, KARL G.",
+	"city":"KEY BISCAYNE",
+	"state":"FL",
+	"zip":"331491710",
+	"amount":130100
+},
+{
+	"name":"CONARD, EDWARD W.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100281439",
+	"amount":127617
+},
+{
+	"name":"PETWAY, THOMAS F. III",
+	"city":"ATLANTIC BEACH",
+	"state":"FL",
+	"zip":"322335840",
+	"amount":126000
+},
+{
+	"name":"KELLY, JAMES",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100201309",
+	"amount":125000
+},
+{
+	"name":"CHARTRAND, GARY R.",
+	"city":"PONTE VEDRA BEACH",
+	"state":"FL",
+	"zip":"320821313",
+	"amount":125000
+},
+{
+	"name":"HOFFMAN, GABE",
+	"city":"NORTH PALM BEACH",
+	"state":"FL",
+	"zip":"334082515",
+	"amount":125000
+},
+{
+	"name":"PERKINS-LEONE, PATRICIAS.",
+	"city":"LOS ALTOS HILLS",
+	"state":"CA",
+	"zip":"940223490",
+	"amount":125000
+},
+{
+	"name":"RUMMELL, PETER S.",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322074019",
+	"amount":125000
+},
+{
+	"name":"FARISH, WILLIAM AMBASSADOR",
+	"city":"VERSAILLES",
+	"state":"KY",
+	"zip":"403830626",
+	"amount":125000
+},
+{
+	"name":"KLEIN, GEORGE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100224214",
+	"amount":125000
+},
+{
+	"name":"BROWN, MICHAEL D.",
+	"city":"NORTHPORT",
+	"state":"NY",
+	"zip":"117681467",
+	"amount":125000
+},
+{
+	"name":"ABESSINIO, MARY F.S.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334325066",
+	"amount":125000
+},
+{
+	"name":"BUSH, GEORGE H.W. PRESIDENT",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770243422",
+	"amount":125000
+},
+{
+	"name":"ROOD, JOHN D. AMBASSADOR",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322578213",
+	"amount":125000
+},
+{
+	"name":"MARION, ANNE W.S.",
+	"city":"FORT WORTH",
+	"state":"TX",
+	"zip":"761026881",
+	"amount":125000
+},
+{
+	"name":"LEONE, DOUGLAS",
+	"city":"LOS ALTOS HILLS",
+	"state":"CA",
+	"zip":"940223490",
+	"amount":125000
+},
+{
+	"name":"ABESSINIO, ROCCO A.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334325066",
+	"amount":125000
+},
+{
+	"name":"PICKETT, JOHN",
+	"city":"SYOSSET",
+	"state":"NY",
+	"zip":"117911709",
+	"amount":125000
+},
+{
+	"name":"WARD, MICHAEL J.",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322073904",
+	"amount":125000
+},
+{
+	"name":"FISCH, MICHAEL G.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101710002",
+	"amount":125000
+},
+{
+	"name":"HOBSON, H. LEE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752053715",
+	"amount":115000
+},
+{
+	"name":"KIRTLEY, JOHN FOSTER",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336062770",
+	"amount":112037
+},
+{
+	"name":"WILSEY, DIANE B.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941151121",
+	"amount":111824
+},
+{
+	"name":"FORD, GERALD J.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752016988",
+	"amount":111499
+},
+{
+	"name":"CENTURY HOMEBUILDERS GROUP LLC",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331260024",
+	"amount":110000
+},
+{
+	"name":"STEEL, ROBERT K.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100120042",
+	"amount":110000
+},
+{
+	"name":"SOUTHERN STRATEGY GROUP",
+	"city":"TALLAHASSEE",
+	"state":"FL",
+	"zip":"323017719",
+	"amount":107844
+},
+{
+	"name":"DIAMOND, ROBERT E. JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100237719",
+	"amount":103937
+},
+{
+	"name":"DRUCKENMILLER, STANLEY F.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":103375
+},
+{
+	"name":"SPILKER, MARC",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100280325",
+	"amount":102637
+},
+{
+	"name":"TICHENOR, WARREN W. AMBASSADOR",
+	"city":"SAN ANTONIO",
+	"state":"TX",
+	"zip":"782165833",
+	"amount":102131
+},
+{
+	"name":"LANGMAN, STEVEN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101280123",
+	"amount":101033
+},
+{
+	"name":"AGOSTINELLI, ROBERT FRANK",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101110100",
+	"amount":101033
+},
+{
+	"name":"MANSUR, E. BARRY",
+	"city":"CAPTIVA",
+	"state":"FL",
+	"zip":"339246022",
+	"amount":101000
+},
+{
+	"name":"HURLEY, JOHN K.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941114005",
+	"amount":100779
+},
+{
+	"name":"BEN HILL GRIFFIN INC.",
+	"city":"FROSTPROOF",
+	"state":"FL",
+	"zip":"338430127",
+	"amount":100608
+},
+{
+	"name":"JM FAMILY ENTERPRISES INC.",
+	"city":"DEERFIELD BEACH",
+	"state":"FL",
+	"zip":"334421702",
+	"amount":100250
+},
+{
+	"name":"WALL, THOMAS R. IV",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101281200",
+	"amount":100000
+},
+{
+	"name":"SHEFFIELD, SCOTT",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"750385933",
+	"amount":100000
+},
+{
+	"name":"BUSCH, AUGUST A. III",
+	"city":"ST PETERS",
+	"state":"MO",
+	"zip":"633764320",
+	"amount":100000
+},
+{
+	"name":"MUMA, PAMELA S.S.",
+	"city":"BELLEAIR",
+	"state":"FL",
+	"zip":"337561428",
+	"amount":100000
+},
+{
+	"name":"HIGGINS, BRIAN J.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100210036",
+	"amount":100000
+},
+{
+	"name":"HEATHER OAKS LLC",
+	"city":"BIRMINGHAM",
+	"state":"AL",
+	"zip":"352433507",
+	"amount":100000
+},
+{
+	"name":"MCNA HEALTH CARE HOLDINGS",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"33309",
+	"amount":100000
+},
+{
+	"name":"SEMBLER, MELVIN HON.",
+	"city":"SAINT PETERSBURG",
+	"state":"FL",
+	"zip":"337071720",
+	"amount":100000
+},
+{
+	"name":"MOGHADAM, HAMID",
+	"city":"IRVINE",
+	"state":"CA",
+	"zip":"926193335",
+	"amount":100000
+},
+{
+	"name":"LEE, DAVID DR.",
+	"city":"SAN MARINO",
+	"state":"CA",
+	"zip":"911081025",
+	"amount":100000
+},
+{
+	"name":"GIDWITZ, RONALD J.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606065821",
+	"amount":100000
+},
+{
+	"name":"SCHNABEL, MARNAS.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900492642",
+	"amount":100000
+},
+{
+	"name":"O'MALLEY, THOMAS D.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804719",
+	"amount":100000
+},
+{
+	"name":"FUQUA, JEFFRY B.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328051009",
+	"amount":100000
+},
+{
+	"name":"BROWN & BROWN INC.",
+	"city":"DAYTONA BEACH",
+	"state":"FL",
+	"zip":"321152412",
+	"amount":100000
+},
+{
+	"name":"LANCE, HOWARD",
+	"city":"PALM BEACH GARDENS",
+	"state":"FL",
+	"zip":"334181561",
+	"amount":100000
+},
+{
+	"name":"ROSANIA, RUTHS.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100212852",
+	"amount":100000
+},
+{
+	"name":"MACDOUGALD, JAMES E.",
+	"city":"SAINT PETERSBURG",
+	"state":"FL",
+	"zip":"337013075",
+	"amount":100000
+},
+{
+	"name":"SIMMONS, ANNETTE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752253006",
+	"amount":100000
+},
+{
+	"name":"EVANS PROPERTIES INC.",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"329631708",
+	"amount":100000
+},
+{
+	"name":"STEWARD, DAVID L.",
+	"city":"MARYLAND HEIGHTS",
+	"state":"MO",
+	"zip":"63043",
+	"amount":100000
+},
+{
+	"name":"ROSE, MATTHEW K.",
+	"city":"WESTLAKE",
+	"state":"TX",
+	"zip":"762629013",
+	"amount":100000
+},
+{
+	"name":"BOYER INVESTMENT GROUP LLC",
+	"city":"LENEXA",
+	"state":"KS",
+	"zip":"662191232",
+	"amount":100000
+},
+{
+	"name":"STERNLICHT, BARRY S.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068306005",
+	"amount":100000
+},
+{
+	"name":"MELIX CORPORATION",
+	"city":"WINDERMERE",
+	"state":"FL",
+	"zip":"347868411",
+	"amount":100000
+},
+{
+	"name":"PICKENS, T. BOONE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752256321",
+	"amount":100000
+},
+{
+	"name":"SCHWARZMANN, STEPHEN A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10154",
+	"amount":100000
+},
+{
+	"name":"FETTER, TREVOR",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752052808",
+	"amount":100000
+},
+{
+	"name":"SULLIVAN, CHRIS T.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336091335",
+	"amount":100000
+},
+{
+	"name":"KAYNE, RICHARD",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900674201",
+	"amount":100000
+},
+{
+	"name":"WEAVER, J. WAYNE",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322024940",
+	"amount":100000
+},
+{
+	"name":"LAS AMERICAS MULTIMEDIA GROUP",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331312913",
+	"amount":100000
+},
+{
+	"name":"BLACK, LEON D.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100192700",
+	"amount":100000
+},
+{
+	"name":"CARUSO, HENRY J.",
+	"city":"BEVERLY HILLS",
+	"state":"CA",
+	"zip":"902102817",
+	"amount":100000
+},
+{
+	"name":"PRESSURE VESSEL SERVICE CHEMICALS INC.",
+	"city":"DETROIT",
+	"state":"MI",
+	"zip":"482133364",
+	"amount":100000
+},
+{
+	"name":"MACLEAN-FOGG COMPANY",
+	"city":"MUNDELEIN",
+	"state":"IL",
+	"zip":"600603804",
+	"amount":100000
+},
+{
+	"name":"SUNSHINE GASOLINE DISTRIBUTORS INC.",
+	"city":"DORAL",
+	"state":"FL",
+	"zip":"331722614",
+	"amount":100000
+},
+{
+	"name":"FORST, EDWARD CODD",
+	"city":"BRONXVILLE",
+	"state":"NY",
+	"zip":"107082211",
+	"amount":100000
+},
+{
+	"name":"COUCH, THEODORE J. SR.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336827978",
+	"amount":100000
+},
+{
+	"name":"THOMPSON, JERE W. JR.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752255122",
+	"amount":100000
+},
+{
+	"name":"THIRD LAKE CAPITAL LLC",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336025842",
+	"amount":100000
+},
+{
+	"name":"INTERVEST CONSTRUCTION INC.",
+	"city":"DAYTONA BEACH",
+	"state":"FL",
+	"zip":"321198720",
+	"amount":100000
+},
+{
+	"name":"LEACH, HOWARD H. AMBASSADOR",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804308",
+	"amount":100000
+},
+{
+	"name":"HILL, ROBERT E.",
+	"city":"PONTE VEDRA BEACH",
+	"state":"FL",
+	"zip":"320826209",
+	"amount":100000
+},
+{
+	"name":"SENEFF, JAMES M. JR.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328023349",
+	"amount":100000
+},
+{
+	"name":"PEACE RIVER CITRUS PRODUCTS INC.",
+	"city":"ARCADIA",
+	"state":"FL",
+	"zip":"342668262",
+	"amount":100000
+},
+{
+	"name":"J.T.S. ENTERPRISES OF TAMPA LTD.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336073827",
+	"amount":100000
+},
+{
+	"name":"REYNOLDS, ROBERT L.",
+	"city":"CONCORD",
+	"state":"MA",
+	"zip":"017424905",
+	"amount":100000
+},
+{
+	"name":"DE NICOLA, ANTHONY J.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100226815",
+	"amount":100000
+},
+{
+	"name":"PERENCHIO, JERROLD A.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900674613",
+	"amount":100000
+},
+{
+	"name":"CHAN, RONNIE C.",
+	"city":"HONG KONG",
+	"state":"",
+	"zip":"99999",
+	"amount":100000
+},
+{
+	"name":"SCHWARTZ, TED",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606062839",
+	"amount":100000
+},
+{
+	"name":"BURR, EDWARD E.",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322569666",
+	"amount":100000
+},
+{
+	"name":"THE GEO GROUP INC. POLITICAL CONTRIBUTION ACCOUNT",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334878242",
+	"amount":100000
+},
+{
+	"name":"KEEN, ALLAN E.",
+	"city":"WINTER PARK",
+	"state":"FL",
+	"zip":"327893861",
+	"amount":100000
+},
+{
+	"name":"HEISTAND, JAMES R.",
+	"city":"WINDERMERE",
+	"state":"FL",
+	"zip":"347868934",
+	"amount":100000
+},
+{
+	"name":"LONG, MEREDITH J.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770027900",
+	"amount":100000
+},
+{
+	"name":"ESTEY, CRAIG",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"891074540",
+	"amount":100000
+},
+{
+	"name":"FAIRBANKS, JONATHAN B.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770193125",
+	"amount":100000
+},
+{
+	"name":"SULLIVAN, THOMAS C.",
+	"city":"BAL HARBOUR",
+	"state":"FL",
+	"zip":"331542209",
+	"amount":100000
+},
+{
+	"name":"DALTON, MARK F.",
+	"city":"SCARSDALE",
+	"state":"NY",
+	"zip":"105832805",
+	"amount":100000
+},
+{
+	"name":"FRALIN, W. HEYWOOD",
+	"city":"ROANOKE",
+	"state":"VA",
+	"zip":"240180796",
+	"amount":100000
+},
+{
+	"name":"STEPHENS, WARREN",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72201",
+	"amount":100000
+},
+{
+	"name":"DELANEY, ROBERT V.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100658029",
+	"amount":100000
+},
+{
+	"name":"ALICO INC.",
+	"city":"FORT MYERS",
+	"state":"FL",
+	"zip":"339137876",
+	"amount":100000
+},
+{
+	"name":"PARK, RAYMOND",
+	"city":"CLEVELAND",
+	"state":"OH",
+	"zip":"441353132",
+	"amount":100000
+},
+{
+	"name":"PETWAY REAL ESTATE LLC",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322564434",
+	"amount":100000
+},
+{
+	"name":"BARRETO GROUP INC.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331346704",
+	"amount":100000
+},
+{
+	"name":"SINE, JEFFREY A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100283221",
+	"amount":100000
+},
+{
+	"name":"BRYANT, DONALD L. JR.",
+	"city":"SAINT LOUIS",
+	"state":"MO",
+	"zip":"631011858",
+	"amount":100000
+},
+{
+	"name":"HORRIGAN, D. GREGORY",
+	"city":"NORTH PALM BEACH",
+	"state":"FL",
+	"zip":"334083421",
+	"amount":100000
+},
+{
+	"name":"ALLEN, HERBERT A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100223111",
+	"amount":100000
+},
+{
+	"name":"GOODWIN, WILLIAM H. JR.",
+	"city":"RICHMOND",
+	"state":"VA",
+	"zip":"232194042",
+	"amount":100000
+},
+{
+	"name":"STRONG, WILLIAM H.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606112156",
+	"amount":100000
+},
+{
+	"name":"BUSH, JONATHAN JR.",
+	"city":"CAMBRIDGE",
+	"state":"MA",
+	"zip":"021384730",
+	"amount":100000
+},
+{
+	"name":"KATZ, EZRA",
+	"city":"COCONUT GROVE",
+	"state":"FL",
+	"zip":"331335468",
+	"amount":100000
+},
+{
+	"name":"WALKER, GEORGE H. IV",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100035962",
+	"amount":100000
+},
+{
+	"name":"HOUGH, WILLIAM R.",
+	"city":"ST. PETERSBURG",
+	"state":"FL",
+	"zip":"337012031",
+	"amount":100000
+},
+{
+	"name":"KOVACEVICH, RICHARD M.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941041207",
+	"amount":100000
+},
+{
+	"name":"KAPNICK, SCOTT B.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214112",
+	"amount":100000
+},
+{
+	"name":"MONTAG, THOMAS K.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100213502",
+	"amount":100000
+},
+{
+	"name":"MCDERMOTT, JEFFREY A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214271",
+	"amount":100000
+},
+{
+	"name":"GOLDBLOOM, GARY",
+	"city":"COCONUT GROVE",
+	"state":"FL",
+	"zip":"331335438",
+	"amount":100000
+},
+{
+	"name":"YORK INVESTMENT LP",
+	"city":"FAIRFAX",
+	"state":"VA",
+	"zip":"220333804",
+	"amount":100000
+},
+{
+	"name":"PEREDA, ARIEL I.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331322458",
+	"amount":100000
+},
+{
+	"name":"BEZNOS, HAROLD",
+	"city":"FARMINGTON HILLS",
+	"state":"MI",
+	"zip":"483341668",
+	"amount":100000
+},
+{
+	"name":"CLICK, JAMES H. JR.",
+	"city":"TUCSON",
+	"state":"AZ",
+	"zip":"85715",
+	"amount":100000
+},
+{
+	"name":"HUFF, CRAIG A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100280105",
+	"amount":100000
+},
+{
+	"name":"KENNEY, JOHN J.",
+	"city":"BRONXVILLE",
+	"state":"NY",
+	"zip":"107084934",
+	"amount":100000
+},
+{
+	"name":"DIMENNA, JOSEPH A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100655805",
+	"amount":100000
+},
+{
+	"name":"ANNENBERG, WALLIS",
+	"city":"WESTLAKE VILLAGE",
+	"state":"CA",
+	"zip":"913625603",
+	"amount":100000
+},
+{
+	"name":"SELDIN, DAVID M.",
+	"city":"ST. PETERSBURG",
+	"state":"FL",
+	"zip":"337152538",
+	"amount":100000
+},
+{
+	"name":"SHAPIRO, MICKEY",
+	"city":"FARMINGTON HILLS",
+	"state":"MI",
+	"zip":"483342532",
+	"amount":100000
+},
+{
+	"name":"TH HOLDINGS LLC",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101580180",
+	"amount":100000
+},
+{
+	"name":"TICHENOR, JEANS.",
+	"city":"PARADISE VALLEY",
+	"state":"AZ",
+	"zip":"85253",
+	"amount":100000
+},
+{
+	"name":"HEYMAN, WILLIAM H.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100657076",
+	"amount":100000
+},
+{
+	"name":"BRADY, NICHOLAS F. HON.",
+	"city":"EASTON",
+	"state":"MD",
+	"zip":"216018425",
+	"amount":100000
+},
+{
+	"name":"JEFFRIES, LISAS.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331313427",
+	"amount":100000
+},
+{
+	"name":"ARCANUM GLOBAL INC.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200363025",
+	"amount":100000
+},
+{
+	"name":"DYER, DAVID F.",
+	"city":"FORT MYERS",
+	"state":"FL",
+	"zip":"339661206",
+	"amount":100000
+},
+{
+	"name":"QUAMME, STEVEN J.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200062402",
+	"amount":100000
+},
+{
+	"name":"THARANI, HARESH T.",
+	"city":"MIAMI BEACH",
+	"state":"FL",
+	"zip":"331404020",
+	"amount":100000
+},
+{
+	"name":"A. DUDA & SONS INC.",
+	"city":"OVIEDO",
+	"state":"FL",
+	"zip":"327620257",
+	"amount":100000
+},
+{
+	"name":"REYES, J. CHRISTOPHER",
+	"city":"DES PLAINES",
+	"state":"IL",
+	"zip":"600185211",
+	"amount":100000
+},
+{
+	"name":"WALKER INVESTMENTS LLC",
+	"city":"POUND RIDGE",
+	"state":"NY",
+	"zip":"105761421",
+	"amount":100000
+},
+{
+	"name":"DASBURG, JOHN H.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331563181",
+	"amount":100000
+},
+{
+	"name":"SNOW, IAN K.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100658029",
+	"amount":100000
+},
+{
+	"name":"LYLE, BOBBY B.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752063927",
+	"amount":100000
+},
+{
+	"name":"FRIEDMAN, JOSHUA S.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900674732",
+	"amount":100000
+},
+{
+	"name":"FALCONE, ARTHUR J.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334317344",
+	"amount":100000
+},
+{
+	"name":"GRIFFIN, KENNETH C.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"60603",
+	"amount":100000
+},
+{
+	"name":"THOMA, CARL D.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606112190",
+	"amount":100000
+},
+{
+	"name":"DAVIS, RAY",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752256535",
+	"amount":100000
+},
+{
+	"name":"LOUDERMILK, ROBERT C.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303054066",
+	"amount":100000
+},
+{
+	"name":"SILVERMAN INVESTMENTS L.L.C.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606114959",
+	"amount":100000
+},
+{
+	"name":"PFAUTCH, ROY",
+	"city":"SAINT LOUIS",
+	"state":"MO",
+	"zip":"631081242",
+	"amount":100000
+},
+{
+	"name":"MILLER, STUART A.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331723161",
+	"amount":100000
+},
+{
+	"name":"SHERRILL, STEPHEN C.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100223691",
+	"amount":100000
+},
+{
+	"name":"MERLIN, WILLIAM F. JR.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336025975",
+	"amount":100000
+},
+{
+	"name":"RIESCHEL, GARY",
+	"city":"SHANGHAI",
+	"state":"",
+	"zip":"20012",
+	"amount":100000
+},
+{
+	"name":"GOODNIGHT, JAMES H. DR.",
+	"city":"CARY",
+	"state":"NC",
+	"zip":"275133000",
+	"amount":100000
+},
+{
+	"name":"WEEKLEY, DAVID M.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770557310",
+	"amount":100000
+},
+{
+	"name":"LASER SPINE INSTITUTE",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336075805",
+	"amount":100000
+},
+{
+	"name":"FAIN, RICHARD D.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331322028",
+	"amount":100000
+},
+{
+	"name":"WHITE, MICHAEL D.",
+	"city":"HERMOSA BEACH",
+	"state":"CA",
+	"zip":"902543460",
+	"amount":100000
+},
+{
+	"name":"SNYDER, DANIEL M.",
+	"city":"ASHBURN",
+	"state":"VA",
+	"zip":"201476100",
+	"amount":100000
+},
+{
+	"name":"COMMERCIAL WAREHOUSING INC.",
+	"city":"AUBURNDALE",
+	"state":"FL",
+	"zip":"338230067",
+	"amount":100000
+},
+{
+	"name":"BEST, RANDY",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752017967",
+	"amount":100000
+},
+{
+	"name":"JEFFRIES, CHRIS",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331313427",
+	"amount":100000
+},
+{
+	"name":"O'REILLY, DAVID",
+	"city":"SAN RAMON",
+	"state":"CA",
+	"zip":"945832324",
+	"amount":100000
+},
+{
+	"name":"MCARTHUR, WILLIAM A. SR.",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322055332",
+	"amount":100000
+},
+{
+	"name":"RYAN, PATRICK G. SR.",
+	"city":"WINNETKA",
+	"state":"IL",
+	"zip":"600931721",
+	"amount":100000
+},
+{
+	"name":"AYRES, CHARLES",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214249",
+	"amount":100000
+},
+{
+	"name":"BREYER, JAMES",
+	"city":"PALO ALTO",
+	"state":"CA",
+	"zip":"94301",
+	"amount":100000
+},
+{
+	"name":"RAYMOND JAMES FINANCIAL",
+	"city":"ST. PETERSBURG",
+	"state":"FL",
+	"zip":"337161102",
+	"amount":100000
+},
+{
+	"name":"HCC TAMAYA RESIDENTIAL LLC",
+	"city":"DAYTONA BEACH",
+	"state":"FL",
+	"zip":"321198720",
+	"amount":100000
+},
+{
+	"name":"SPEYER, JERRY I.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101110100",
+	"amount":100000
+},
+{
+	"name":"POWERS, WILLIAM C.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90025",
+	"amount":100000
+},
+{
+	"name":"KOHLER, HERBERT V. JR.",
+	"city":"KOHLER",
+	"state":"WI",
+	"zip":"530441406",
+	"amount":100000
+},
+{
+	"name":"KEISER, MICHAEL L.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606142878",
+	"amount":100000
+},
+{
+	"name":"D&D FUNDING II",
+	"city":"TALLAHASSEE",
+	"state":"FL",
+	"zip":"323123999",
+	"amount":100000
+},
+{
+	"name":"CARSON, RUSSELL L",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10022",
+	"amount":100000
+},
+{
+	"name":"SHAHEEN, THERESE M.S.",
+	"city":"POTOMAC",
+	"state":"MD",
+	"zip":"208544541",
+	"amount":100000
+},
+{
+	"name":"KRONGOLD, MARSHALL RONALD",
+	"city":"MIAMI BEACH",
+	"state":"FL",
+	"zip":"331395130",
+	"amount":100000
+},
+{
+	"name":"MASSEY, PAUL J. JR.",
+	"city":"LARCHMONT",
+	"state":"NY",
+	"zip":"105383834",
+	"amount":100000
+},
+{
+	"name":"BEHAR-YBARRA, ELIAS",
+	"city":"SAN JUAN",
+	"state":"PR",
+	"zip":"009204251",
+	"amount":100000
+},
+{
+	"name":"PALMISANO, SAMUEL J.",
+	"city":"SOUTHPORT",
+	"state":"CT",
+	"zip":"068901416",
+	"amount":100000
+},
+{
+	"name":"SWARTZ, JAMES R.",
+	"city":"PARK CITY",
+	"state":"UT",
+	"zip":"840602816",
+	"amount":100000
+},
+{
+	"name":"MARTIN, CAROL E.S.",
+	"city":"TARPON SPRINGS",
+	"state":"FL",
+	"zip":"346881291",
+	"amount":100000
+},
+{
+	"name":"BRADBURY, CURTIS F.",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72207",
+	"amount":100000
+},
+{
+	"name":"SHAPER, CHARLES PARK",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770561403",
+	"amount":100000
+},
+{
+	"name":"DFX LLC",
+	"city":"PHOENIX",
+	"state":"AZ",
+	"zip":"850182343",
+	"amount":100000
+},
+{
+	"name":"REYES, M. JUDE",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334016157",
+	"amount":100000
+},
+{
+	"name":"HUNTSMAN, JON SR.",
+	"city":"SALT LAKE CITY",
+	"state":"UT",
+	"zip":"841081235",
+	"amount":100000
+},
+{
+	"name":"ELTRICH, MARTIN C. III",
+	"city":"BEDFORD",
+	"state":"NY",
+	"zip":"105061058",
+	"amount":100000
+},
+{
+	"name":"WHITE, BRUCE W.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606115274",
+	"amount":100000
+},
+{
+	"name":"MCDERMOTT, EDWARD H.",
+	"city":"MILL VALLEY",
+	"state":"CA",
+	"zip":"949416006",
+	"amount":100000
+},
+{
+	"name":"NOBLE, ANTHONY SCOTT",
+	"city":"ADDISON",
+	"state":"TX",
+	"zip":"75001",
+	"amount":100000
+},
+{
+	"name":"ROGERS, JOHN D.",
+	"city":"GARDEN CITY",
+	"state":"NY",
+	"zip":"115305808",
+	"amount":100000
+},
+{
+	"name":"HUBBARD, ALLAN B. HON.",
+	"city":"INDIANAPOLIS",
+	"state":"IN",
+	"zip":"462281446",
+	"amount":100000
+},
+{
+	"name":"BREED, ALAN",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068314441",
+	"amount":100000
+},
+{
+	"name":"DEFOSSET, DON",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336298103",
+	"amount":100000
+},
+{
+	"name":"DIMARE MANAGEMENT CORPORATION",
+	"city":"HOMESTEAD",
+	"state":"FL",
+	"zip":"330900460",
+	"amount":100000
+},
+{
+	"name":"BENSON, TOM",
+	"city":"METAIRIE",
+	"state":"LA",
+	"zip":"70003",
+	"amount":100000
+},
+{
+	"name":"HILLIARD BROTHERS OF FLORIDA LLLP",
+	"city":"CLEWISTON",
+	"state":"FL",
+	"zip":"334407771",
+	"amount":100000
+},
+{
+	"name":"DIVOSTA, OTTO",
+	"city":"NORTH PALM BEACH",
+	"state":"FL",
+	"zip":"334083351",
+	"amount":100000
+},
+{
+	"name":"BARNETT, HOYT BARNEY",
+	"city":"LAKELAND",
+	"state":"FL",
+	"zip":"338133082",
+	"amount":100000
+},
+{
+	"name":"MAGUIRE, CARY M",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75225",
+	"amount":100000
+},
+{
+	"name":"O'CONNOR, RALPH S.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770561006",
+	"amount":97300
+},
+{
+	"name":"WAUD, REEVE B.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606543422",
+	"amount":97002
+},
+{
+	"name":"DRAPER, WILLIAM H. III",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940276431",
+	"amount":95000
+},
+{
+	"name":"BUSH, GEORGE W. PRESIDENT",
+	"city":"MIDLAND",
+	"state":"TX",
+	"zip":"797023362",
+	"amount":95000
+},
+{
+	"name":"HENRY, JIM C.",
+	"city":"MIDLAND",
+	"state":"TX",
+	"zip":"797035056",
+	"amount":95000
+},
+{
+	"name":"DONOVAN, JAMES H.",
+	"city":"UPPERVILLE",
+	"state":"VA",
+	"zip":"201841733",
+	"amount":95000
+},
+{
+	"name":"EZRATTI, MAXIE",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333230902",
+	"amount":90000
+},
+{
+	"name":"FRIEDBERG, BARRY S",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10021",
+	"amount":90000
+},
+{
+	"name":"PEZESHKAN, FRED",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341027934",
+	"amount":90000
+},
+{
+	"name":"HAVENS, JOHN P.",
+	"city":"LOCUST VALLEY",
+	"state":"NY",
+	"zip":"115602617",
+	"amount":90000
+},
+{
+	"name":"COBB, CHARLES E. AMBASSADOR JR.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"33114",
+	"amount":85000
+},
+{
+	"name":"EASTON, EDWARD W. JR.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331722529",
+	"amount":85000
+},
+{
+	"name":"MOZART INVESTMENTS INC.",
+	"city":"ROANOKE",
+	"state":"VA",
+	"zip":"240183541",
+	"amount":80000
+},
+{
+	"name":"HASLAM, JAMES A. III",
+	"city":"KNOXVILLE",
+	"state":"TN",
+	"zip":"379093221",
+	"amount":75000
+},
+{
+	"name":"WASHINGTON, DENNIS",
+	"city":"MISSOULA",
+	"state":"MT",
+	"zip":"598086630",
+	"amount":75000
+},
+{
+	"name":"COBB, SUE MCCOURT AMBASSADOR",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"33114",
+	"amount":75000
+},
+{
+	"name":"THOMAS, RUSSELL",
+	"city":"PONTE VEDRA BEACH",
+	"state":"FL",
+	"zip":"320821818",
+	"amount":75000
+},
+{
+	"name":"CHIAPELAS, ELIZABETHS.",
+	"city":"ST. LOUIS",
+	"state":"MO",
+	"zip":"631224761",
+	"amount":75000
+},
+{
+	"name":"GRUSHKIN, JAY",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101280102",
+	"amount":75000
+},
+{
+	"name":"COMMITTEE FOR A STRONGER FLORIDA",
+	"city":"TALLAHASSEE",
+	"state":"FL",
+	"zip":"323017701",
+	"amount":75000
+},
+{
+	"name":"HELIOS HOLDINGS",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303393362",
+	"amount":75000
+},
+{
+	"name":"DEBBANE, RAYMOND F.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068313369",
+	"amount":75000
+},
+{
+	"name":"HOLLAND & KNIGHT LLP",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336025131",
+	"amount":75000
+},
+{
+	"name":"BERNSTEIN, SETH",
+	"city":"LONGWOOD",
+	"state":"FL",
+	"zip":"32779",
+	"amount":75000
+},
+{
+	"name":"FROST, PHILLIP DR. M.D.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331373212",
+	"amount":75000
+},
+{
+	"name":"SEMBLER, BRENT W.",
+	"city":"SAINT PETERSBURG",
+	"state":"FL",
+	"zip":"337071720",
+	"amount":74000
+},
+{
+	"name":"MOSLER, BRUCE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101040101",
+	"amount":70000
+},
+{
+	"name":"ROBERTSON, ALEX T.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100657380",
+	"amount":60000
+},
+{
+	"name":"EZRATTI, MISHA",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333230902",
+	"amount":60000
+},
+{
+	"name":"VOLPERT, BARRY",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101281316",
+	"amount":57596
+},
+{
+	"name":"PHIPPS, OGDEN M.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803031",
+	"amount":57511
+},
+{
+	"name":"BRAUER, STEPHEN F. AMBASSADOR",
+	"city":"BRIDGETON",
+	"state":"MO",
+	"zip":"630442306",
+	"amount":56047
+},
+{
+	"name":"PEROT, HENRY ROSS JR.",
+	"city":"PLANO",
+	"state":"TX",
+	"zip":"750269014",
+	"amount":55000
+},
+{
+	"name":"PEROT, SARAHS.",
+	"city":"PLANO",
+	"state":"TX",
+	"zip":"750269014",
+	"amount":55000
+},
+{
+	"name":"TREASURE COAST ALLIANCE",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334072032",
+	"amount":51000
+},
+{
+	"name":"O'MALLEY, PETER",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900713311",
+	"amount":50000
+},
+{
+	"name":"TAYLOR, JACK C.",
+	"city":"SAINT LOUIS",
+	"state":"MO",
+	"zip":"631242008",
+	"amount":50000
+},
+{
+	"name":"MEDEL, ROGER DR.",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333232843",
+	"amount":50000
+},
+{
+	"name":"121 ALHAMBRA TOWER LLC",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331344541",
+	"amount":50000
+},
+{
+	"name":"BUCHAN, HANNAH F.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334801486",
+	"amount":50000
+},
+{
+	"name":"INTERNATIONAL RISK MANAGEMENT INSTITUTE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752512266",
+	"amount":50000
+},
+{
+	"name":"SILVERMAN, BARRY J. DR. M.D.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331802570",
+	"amount":50000
+},
+{
+	"name":"LAMBERT TRUST",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900243708",
+	"amount":50000
+},
+{
+	"name":"KOVNER, BRUCE",
+	"city":"HOBE SOUND",
+	"state":"FL",
+	"zip":"33455",
+	"amount":50000
+},
+{
+	"name":"SCHWARTZ, ERIC",
+	"city":"SAN BRUNO",
+	"state":"CA",
+	"zip":"940663054",
+	"amount":50000
+},
+{
+	"name":"ROBBINS, LARRY",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101530003",
+	"amount":50000
+},
+{
+	"name":"BROCK, JOHN F. III",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303051444",
+	"amount":50000
+},
+{
+	"name":"TICHENOR, MCHENRY T. JR.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752012112",
+	"amount":50000
+},
+{
+	"name":"SIERING, THOMAS",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341032763",
+	"amount":50000
+},
+{
+	"name":"QUEALLY, PAUL B.",
+	"city":"NEW CANAAN",
+	"state":"CT",
+	"zip":"068404227",
+	"amount":50000
+},
+{
+	"name":"GUS MACHADO ENTERPRISES",
+	"city":"HIALEAH",
+	"state":"FL",
+	"zip":"330123217",
+	"amount":50000
+},
+{
+	"name":"MEZZALINGUA, DANIEL",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"021962049",
+	"amount":50000
+},
+{
+	"name":"IAFF FIREPAC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200065301",
+	"amount":50000
+},
+{
+	"name":"STANARD, JAMES",
+	"city":"CHATHAM",
+	"state":"NJ",
+	"zip":"079281623",
+	"amount":50000
+},
+{
+	"name":"AVANESSIANS, ARMEN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"102822102",
+	"amount":50000
+},
+{
+	"name":"BAUMANN, MICHAEL",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331292516",
+	"amount":50000
+},
+{
+	"name":"LINDNER, CARL H. III",
+	"city":"CINCINNATI",
+	"state":"OH",
+	"zip":"452431648",
+	"amount":50000
+},
+{
+	"name":"HOLTON, JAMES W.",
+	"city":"SAINT PETERSBURG",
+	"state":"FL",
+	"zip":"337022462",
+	"amount":50000
+},
+{
+	"name":"MCINTYRE, WILLIAM",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752513212",
+	"amount":50000
+},
+{
+	"name":"FRIST, WILLIAM H. HON. M.D.",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372031312",
+	"amount":50000
+},
+{
+	"name":"BRUNO, FRANK W.",
+	"city":"WESTPORT",
+	"state":"CT",
+	"zip":"068806317",
+	"amount":50000
+},
+{
+	"name":"WHITE, ALAN B.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752197695",
+	"amount":50000
+},
+{
+	"name":"JACKSON, R. SHANE",
+	"city":"ALPHARETTA",
+	"state":"GA",
+	"zip":"300092280",
+	"amount":50000
+},
+{
+	"name":"VIRTUE, DANIELLE S.S.",
+	"city":"RYE",
+	"state":"NY",
+	"zip":"105801826",
+	"amount":50000
+},
+{
+	"name":"OUDT, JOHN",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752095512",
+	"amount":50000
+},
+{
+	"name":"ANDERSON, DWIGHT",
+	"city":"GARDEN CITY",
+	"state":"NY",
+	"zip":"11530",
+	"amount":50000
+},
+{
+	"name":"HEALEY, KERRY MURPHY HON.",
+	"city":"WELLESLEY",
+	"state":"MA",
+	"zip":"024816734",
+	"amount":50000
+},
+{
+	"name":"AINSLIE, LEE S. III",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752011876",
+	"amount":50000
+},
+{
+	"name":"BARLICK, ROBERT T. JR.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331563477",
+	"amount":50000
+},
+{
+	"name":"BRINKER, NANCY G. AMBASSADOR",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803638",
+	"amount":50000
+},
+{
+	"name":"STITZER, MARK",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068313360",
+	"amount":50000
+},
+{
+	"name":"MINSKOFF, EDWARD",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214945",
+	"amount":50000
+},
+{
+	"name":"HILLSBOROUGH COUNTY ASSOCIATES IV LLLP",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333232890",
+	"amount":50000
+},
+{
+	"name":"YORK, W. TUCKER JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100656112",
+	"amount":50000
+},
+{
+	"name":"NAHMAD, ALBERT H.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331436540",
+	"amount":50000
+},
+{
+	"name":"STUART, ALEXANDER D.",
+	"city":"LAKE FOREST",
+	"state":"IL",
+	"zip":"600452326",
+	"amount":50000
+},
+{
+	"name":"PHILLIPS PROPERTY COMPANY",
+	"city":"HIGH POINT",
+	"state":"NC",
+	"zip":"272604950",
+	"amount":50000
+},
+{
+	"name":"RAVICHANDRAN, HARI",
+	"city":"LEXINGTON",
+	"state":"MA",
+	"zip":"024202426",
+	"amount":50000
+},
+{
+	"name":"HAMAMOTO, DAVID",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100224968",
+	"amount":50000
+},
+{
+	"name":"RHODES, WILLIAM",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101280144",
+	"amount":50000
+},
+{
+	"name":"DIAZ-OLIVER, REMEDIOSS.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331782519",
+	"amount":50000
+},
+{
+	"name":"PATTERSON, MICHAEL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100658093",
+	"amount":50000
+},
+{
+	"name":"VANACORE, MARK",
+	"city":"DARIEN",
+	"state":"CT",
+	"zip":"06820",
+	"amount":50000
+},
+{
+	"name":"CROW, HARLAN",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752193913",
+	"amount":50000
+},
+{
+	"name":"BW AUTO VENTURES LLC",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"891195163",
+	"amount":50000
+},
+{
+	"name":"LINDNER, S. CRAIG JR.",
+	"city":"CINCINNATI",
+	"state":"OH",
+	"zip":"452431605",
+	"amount":50000
+},
+{
+	"name":"SHARP, CHARLES STANTON JR.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752296647",
+	"amount":50000
+},
+{
+	"name":"PARKER, DAVID R.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100177111",
+	"amount":50000
+},
+{
+	"name":"DOMINGUEZ, MICHAEL J.",
+	"city":"BARRINGTON",
+	"state":"RI",
+	"zip":"028064923",
+	"amount":50000
+},
+{
+	"name":"FAISON, JAY W",
+	"city":"CHARLOTTE",
+	"state":"NC",
+	"zip":"28204",
+	"amount":50000
+},
+{
+	"name":"SOUTH FLORIDA VENTURE GROUP LLLP",
+	"city":"DAYTONA BEACH",
+	"state":"FL",
+	"zip":"321142265",
+	"amount":50000
+},
+{
+	"name":"BRAUER, CAMILLAS.",
+	"city":"SAINT LOUIS",
+	"state":"MO",
+	"zip":"631241311",
+	"amount":50000
+},
+{
+	"name":"FRIST, THOMAS III",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372054520",
+	"amount":50000
+},
+{
+	"name":"LEWIS, BEN DR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100280325",
+	"amount":50000
+},
+{
+	"name":"CITICOMMUNITIES LLC",
+	"city":"CELEBRATION",
+	"state":"FL",
+	"zip":"347474310",
+	"amount":50000
+},
+{
+	"name":"SMITH, HAROLD B.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804917",
+	"amount":50000
+},
+{
+	"name":"GALVIN, MARY B.",
+	"city":"BARRINGTON",
+	"state":"IL",
+	"zip":"600109399",
+	"amount":50000
+},
+{
+	"name":"LACY, ANDRE B.",
+	"city":"INDIANAPOLIS",
+	"state":"IN",
+	"zip":"462042942",
+	"amount":50000
+},
+{
+	"name":"TRAINA, TREVOR D.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941151060",
+	"amount":50000
+},
+{
+	"name":"SPOGLI, RONALD P.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900250525",
+	"amount":50000
+},
+{
+	"name":"LINDNER, KEITH",
+	"city":"PONTE VEDRA BEACH",
+	"state":"FL",
+	"zip":"320041365",
+	"amount":50000
+},
+{
+	"name":"VERDE INVESTMENTS INC.",
+	"city":"PHOENIX",
+	"state":"AZ",
+	"zip":"850185220",
+	"amount":50000
+},
+{
+	"name":"LIN, JAMES",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100173904",
+	"amount":50000
+},
+{
+	"name":"FOURNIER, ALAN",
+	"city":"FAR HILLS",
+	"state":"NJ",
+	"zip":"079312402",
+	"amount":50000
+},
+{
+	"name":"KAIAFAS, ANDREW A.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331312310",
+	"amount":50000
+},
+{
+	"name":"MARTIN, EFF W.",
+	"city":"WOODSIDE",
+	"state":"CA",
+	"zip":"940621205",
+	"amount":50000
+},
+{
+	"name":"JOHNS, JOHN",
+	"city":"BIRMINGHAM",
+	"state":"AL",
+	"zip":"352231228",
+	"amount":50000
+},
+{
+	"name":"LINDNER, EDYTH B.",
+	"city":"CINCINNATI",
+	"state":"OH",
+	"zip":"452433314",
+	"amount":50000
+},
+{
+	"name":"SPECTOR, ARTHUR B.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100237135",
+	"amount":50000
+},
+{
+	"name":"BECKWITH, GEORGE NICHOLAS III",
+	"city":"PITTSBURGH",
+	"state":"PA",
+	"zip":"152151552",
+	"amount":50000
+},
+{
+	"name":"AKIN, THOMAS B.",
+	"city":"TIBURON",
+	"state":"CA",
+	"zip":"949202076",
+	"amount":50000
+},
+{
+	"name":"MCCAW, CRAIG",
+	"city":"KIRKLAND",
+	"state":"WA",
+	"zip":"980337317",
+	"amount":50000
+},
+{
+	"name":"JUDLAU ENTERPRISES LLC",
+	"city":"COLLEGE POINT",
+	"state":"NY",
+	"zip":"11354",
+	"amount":50000
+},
+{
+	"name":"CAPOCCIA, DONALD",
+	"city":"BROOKLYN",
+	"state":"NY",
+	"zip":"112035424",
+	"amount":50000
+},
+{
+	"name":"YEARY, AARON W.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100283228",
+	"amount":50000
+},
+{
+	"name":"MAYNARD, JOSIES.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100116286",
+	"amount":50000
+},
+{
+	"name":"MORRISON, JOHN M.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341027920",
+	"amount":50000
+},
+{
+	"name":"KARP, DAVID C.",
+	"city":"SCARSDALE",
+	"state":"NY",
+	"zip":"105831107",
+	"amount":50000
+},
+{
+	"name":"GARCIA, MARTIN L.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336093639",
+	"amount":50000
+},
+{
+	"name":"WITTICH, PETER",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"333162124",
+	"amount":50000
+},
+{
+	"name":"KRISTINE-KLEPPER, CONNIES.",
+	"city":"FRANKLIN LAKES",
+	"state":"NJ",
+	"zip":"074172707",
+	"amount":50000
+},
+{
+	"name":"FRANCE, JAMES C.",
+	"city":"DAYTONA BEACH",
+	"state":"FL",
+	"zip":"321141252",
+	"amount":50000
+},
+{
+	"name":"SCHREIBER, ZACHARY J.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100280136",
+	"amount":50000
+},
+{
+	"name":"RYAN, PATRICK G. JR.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606075400",
+	"amount":50000
+},
+{
+	"name":"DAVIS, CHARLES M. DR. JR.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336297043",
+	"amount":50000
+},
+{
+	"name":"SHAFRAN, STEVEN",
+	"city":"KETCHUM",
+	"state":"ID",
+	"zip":"83340",
+	"amount":50000
+},
+{
+	"name":"PRINCE, SCOTT S.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"105834501",
+	"amount":50000
+},
+{
+	"name":"GERBER, SANDER",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100171407",
+	"amount":50000
+},
+{
+	"name":"ALVAREZ, ANTONIO II",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100221615",
+	"amount":50000
+},
+{
+	"name":"CHACHAS, JOHN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100246020",
+	"amount":50000
+},
+{
+	"name":"CLICK, JIM JR.",
+	"city":"TUCSON",
+	"state":"AZ",
+	"zip":"857153118",
+	"amount":50000
+},
+{
+	"name":"KNAKAL, ROBERT",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100161101",
+	"amount":50000
+},
+{
+	"name":"DUCHOSSOIS, KIMBERLY T.",
+	"city":"OAK BROOK",
+	"state":"IL",
+	"zip":"605232026",
+	"amount":50000
+},
+{
+	"name":"TWO RIVERS RANCH INC.",
+	"city":"THONOTOSASSA",
+	"state":"FL",
+	"zip":"335922301",
+	"amount":50000
+},
+{
+	"name":"MURGADO, MARIO",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"33130",
+	"amount":50000
+},
+{
+	"name":"CHILDS, JOHN",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"32963",
+	"amount":50000
+},
+{
+	"name":"CURRY, RAVENEL B. III",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100226445",
+	"amount":50000
+},
+{
+	"name":"CHARLTON, CHRIS T.",
+	"city":"GROSSE POINTE FARMS",
+	"state":"MI",
+	"zip":"482362959",
+	"amount":50000
+},
+{
+	"name":"INHEALTH MD ALLIANCE LLC",
+	"city":"WINDERMERE",
+	"state":"FL",
+	"zip":"347865429",
+	"amount":50000
+},
+{
+	"name":"DYER, HARRIET E.S.",
+	"city":"SAINT PETERSBURG",
+	"state":"FL",
+	"zip":"337013468",
+	"amount":50000
+},
+{
+	"name":"GILLIAM, JOHN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100217098",
+	"amount":50000
+},
+{
+	"name":"BARDIS, JOHN A.",
+	"city":"JOHNS CREEK",
+	"state":"GA",
+	"zip":"300225191",
+	"amount":50000
+},
+{
+	"name":"ABRAMSON, LEIGH",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100280318",
+	"amount":50000
+},
+{
+	"name":"ROTHFELDT, MARC",
+	"city":"KEY BISCAYNE",
+	"state":"FL",
+	"zip":"331491731",
+	"amount":50000
+},
+{
+	"name":"IUPE, CHARLES S. JR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770103044",
+	"amount":50000
+},
+{
+	"name":"TROTT, TINA L.S.",
+	"city":"WINNETKA",
+	"state":"IL",
+	"zip":"600932321",
+	"amount":50000
+},
+{
+	"name":"UNITED DISTRIBUTORS INC.",
+	"city":"SMYRNA",
+	"state":"GA",
+	"zip":"300824755",
+	"amount":50000
+},
+{
+	"name":"DOLL, DIXON R.",
+	"city":"MENLO PARK",
+	"state":"CA",
+	"zip":"940256942",
+	"amount":50000
+},
+{
+	"name":"CRICHTON, FLORA C.S.",
+	"city":"SAN ANTONIO",
+	"state":"TX",
+	"zip":"782095653",
+	"amount":50000
+},
+{
+	"name":"BENDITA LLC",
+	"city":"REDONDO BEACH",
+	"state":"CA",
+	"zip":"902781205",
+	"amount":50000
+},
+{
+	"name":"HUNT, WOODY L.",
+	"city":"EL PASO",
+	"state":"TX",
+	"zip":"799130220",
+	"amount":50000
+},
+{
+	"name":"BERGER, HARVEY",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"021111018",
+	"amount":50000
+},
+{
+	"name":"FULTON STREET L.L.C.",
+	"city":"WILMINGTON",
+	"state":"DE",
+	"zip":"198081645",
+	"amount":50000
+},
+{
+	"name":"HASKELL, PRESTON H.",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322024905",
+	"amount":50000
+},
+{
+	"name":"GHOSAL, ANJAN K.",
+	"city":"MELBOURNE",
+	"state":"FL",
+	"zip":"329401955",
+	"amount":50000
+},
+{
+	"name":"ELLIS, JAMES",
+	"city":"SAN MARINO",
+	"state":"CA",
+	"zip":"911081004",
+	"amount":50000
+},
+{
+	"name":"DONAHUE, THOMAS R.",
+	"city":"PITTSBURGH",
+	"state":"PA",
+	"zip":"152223714",
+	"amount":50000
+},
+{
+	"name":"SIEG, ANDREW M.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068313325",
+	"amount":50000
+},
+{
+	"name":"MINICUCCI, ROBERT",
+	"city":"DARIEN",
+	"state":"CT",
+	"zip":"068205815",
+	"amount":50000
+},
+{
+	"name":"FRANCE, BRIAN Z.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100223219",
+	"amount":50000
+},
+{
+	"name":"MILLER, SCOTT D.",
+	"city":"TINLEY PARK",
+	"state":"IL",
+	"zip":"604878669",
+	"amount":50000
+},
+{
+	"name":"LITTERMAN, ROBERT B.",
+	"city":"SHORT HILLS",
+	"state":"NJ",
+	"zip":"070782258",
+	"amount":50000
+},
+{
+	"name":"SANDLER, RICKY",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101281308",
+	"amount":50000
+},
+{
+	"name":"LANDON, JOSEPH",
+	"city":"REDMOND",
+	"state":"WA",
+	"zip":"980526714",
+	"amount":50000
+},
+{
+	"name":"FRIST, JULIE D.S.",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372054520",
+	"amount":50000
+},
+{
+	"name":"ALTSHULER, RUTH SHARP",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752296647",
+	"amount":50000
+},
+{
+	"name":"GHAFARI, YOUSIF B.",
+	"city":"DEARBORN",
+	"state":"MI",
+	"zip":"481262736",
+	"amount":50000
+},
+{
+	"name":"BARR, WILLIAM P. HON.",
+	"city":"MCLEAN",
+	"state":"VA",
+	"zip":"221021539",
+	"amount":50000
+},
+{
+	"name":"DONAHUE, JOHN F.",
+	"city":"PITTSBURGH",
+	"state":"PA",
+	"zip":"152223718",
+	"amount":50000
+},
+{
+	"name":"SHAFRAN, STEPHANIE BOOTHS.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900772911",
+	"amount":50000
+},
+{
+	"name":"AUTOMATED HEALTHCARE SOLUTIONS LLC",
+	"city":"MIRAMAR",
+	"state":"FL",
+	"zip":"330274153",
+	"amount":50000
+},
+{
+	"name":"PILOT CORPORATION",
+	"city":"KNOXVILLE",
+	"state":"TN",
+	"zip":"379093221",
+	"amount":50000
+},
+{
+	"name":"SCHWARTZ, BRIAN D.",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"333011406",
+	"amount":50000
+},
+{
+	"name":"RYAN ENTERPRISES GROUP",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606017559",
+	"amount":50000
+},
+{
+	"name":"SIEGEL, HERBERT J.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214370",
+	"amount":50000
+},
+{
+	"name":"DUCHOSSOIS, RICHARD L.",
+	"city":"BARRINGTON",
+	"state":"IL",
+	"zip":"600109636",
+	"amount":50000
+},
+{
+	"name":"ASPEN LODGING GROUP LLC",
+	"city":"PORTLAND",
+	"state":"OR",
+	"zip":"972043634",
+	"amount":50000
+},
+{
+	"name":"MARSHALL, DARCY",
+	"city":"BAKERSFIELD",
+	"state":"CA",
+	"zip":"933119425",
+	"amount":50000
+},
+{
+	"name":"SCHWARTZ, MICHAEL",
+	"city":"SAN BRUNO",
+	"state":"CA",
+	"zip":"94066",
+	"amount":50000
+},
+{
+	"name":"PRICE, MICHAEL F.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100212643",
+	"amount":50000
+},
+{
+	"name":"LEON, BENJAMIN JR.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331562332",
+	"amount":50000
+},
+{
+	"name":"SPECTRUM INVESTMENT ASSOCIATES",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"333097133",
+	"amount":50000
+},
+{
+	"name":"GALVIN, MICHAEL",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606064610",
+	"amount":50000
+},
+{
+	"name":"MCMAHON, PATRICK",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100219611",
+	"amount":50000
+},
+{
+	"name":"LUTGERT, SCOTT",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341033436",
+	"amount":50000
+},
+{
+	"name":"HERTOG, ROGER",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10151",
+	"amount":50000
+},
+{
+	"name":"OVERLANDER, CRAIG",
+	"city":"NEW CANAAN",
+	"state":"CT",
+	"zip":"068403404",
+	"amount":50000
+},
+{
+	"name":"RAYONIER OPERATING COMPANY LLC",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322025175",
+	"amount":50000
+},
+{
+	"name":"PACIFIC GROSERVICE INC.",
+	"city":"SAN JOSE",
+	"state":"CA",
+	"zip":"951102306",
+	"amount":50000
+},
+{
+	"name":"WOLFSON, MOSHE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100041561",
+	"amount":50000
+},
+{
+	"name":"MEZZALINGUA, KATHLEENS.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"021962049",
+	"amount":50000
+},
+{
+	"name":"FAIRBANKS, SHANNONS.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200371186",
+	"amount":50000
+},
+{
+	"name":"PAULSON, JOHN A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100201104",
+	"amount":50000
+},
+{
+	"name":"GRIMM MARSHALL, BARBARA",
+	"city":"BAKERSFIELD",
+	"state":"CA",
+	"zip":"933119425",
+	"amount":50000
+},
+{
+	"name":"DONAHUE, J. CHRISTOPHER",
+	"city":"PITTSBURGH",
+	"state":"PA",
+	"zip":"152223718",
+	"amount":50000
+},
+{
+	"name":"SLPR LLLP",
+	"city":"WINDERMERE",
+	"state":"FL",
+	"zip":"347868922",
+	"amount":50000
+},
+{
+	"name":"MANCHESTER, DOUG",
+	"city":"SAN DIEGO",
+	"state":"CA",
+	"zip":"921083003",
+	"amount":49675
+},
+{
+	"name":"STUZIN FAMILY PARTNERSHIP LTD.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331343128",
+	"amount":47500
+},
+{
+	"name":"RRC HOLDINGS LP",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331343128",
+	"amount":47500
+},
+{
+	"name":"MOORE, KEVIN P.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341131678",
+	"amount":45000
+},
+{
+	"name":"PALM BEACH WEST ASSOCIATES I LLLP",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333232890",
+	"amount":45000
+},
+{
+	"name":"SABIN, ANDREW E.",
+	"city":"EAST HAMPTON",
+	"state":"NY",
+	"zip":"119372630",
+	"amount":45000
+},
+{
+	"name":"FINLEY, JULIE HON.",
+	"city":"ARLINGTON",
+	"state":"VA",
+	"zip":"222091564",
+	"amount":45000
+},
+{
+	"name":"MARKEL, ANTHONY F.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341025931",
+	"amount":45000
+},
+{
+	"name":"ALVAREZ, CESAR L.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331312176",
+	"amount":45000
+},
+{
+	"name":"EVANS, DONALD L. HON.",
+	"city":"MIDLAND",
+	"state":"TX",
+	"zip":"797100990",
+	"amount":45000
+},
+{
+	"name":"CABRERA, MARCIO C.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331563230",
+	"amount":45000
+},
+{
+	"name":"MOORE, DONNA S.S.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341131678",
+	"amount":45000
+},
+{
+	"name":"GULF POWER COMPANY",
+	"city":"PENSACOLA",
+	"state":"FL",
+	"zip":"325200001",
+	"amount":44000
+},
+{
+	"name":"WAREHAM, JAMES D.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200042131",
+	"amount":41655
+},
+{
+	"name":"BOCA RATON ASSOCIATES VII LLLP",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333232890",
+	"amount":40000
+},
+{
+	"name":"CARUNCHO, JOSEPH LOUIS",
+	"city":"COCONUT GROVE",
+	"state":"FL",
+	"zip":"331336400",
+	"amount":40000
+},
+{
+	"name":"BROWN, J. HYATT",
+	"city":"DAYTONA BEACH",
+	"state":"FL",
+	"zip":"321152412",
+	"amount":39910
+},
+{
+	"name":"FOX, JOSEPH J.",
+	"city":"HEATH",
+	"state":"TX",
+	"zip":"750325921",
+	"amount":39000
+},
+{
+	"name":"RUNNELLS, CLIVE",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77024",
+	"amount":36400
+},
+{
+	"name":"VENETIAN PARC INVESTMENTS",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331444002",
+	"amount":35000
+},
+{
+	"name":"THE BRIDGES L.L.C.",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333232891",
+	"amount":35000
+},
+{
+	"name":"POLUNSKY, ALLAN B.",
+	"city":"SAN ANTONIO",
+	"state":"TX",
+	"zip":"78257",
+	"amount":35000
+},
+{
+	"name":"ATLAS PROPERTY I LLC",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331265547",
+	"amount":35000
+},
+{
+	"name":"SUNBELT BEVERAGE COMPANY LLC",
+	"city":"LINTHICUM",
+	"state":"MD",
+	"zip":"210902250",
+	"amount":35000
+},
+{
+	"name":"RENKER, GREG",
+	"city":"WOODLAND HILLS",
+	"state":"CA",
+	"zip":"913677513",
+	"amount":33695
+},
+{
+	"name":"CLARK, S. B. JOSEPH",
+	"city":"SEATTLE",
+	"state":"WA",
+	"zip":"981083806",
+	"amount":32259
+},
+{
+	"name":"PATEL, PIYUSH A.",
+	"city":"LAKELAND",
+	"state":"FL",
+	"zip":"338035410",
+	"amount":32256
+},
+{
+	"name":"FLORIDA EAST COAST INDUSTRIES INC. GOOD GOVT. COMMUNITEE",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331346612",
+	"amount":31000
+},
+{
+	"name":"EZRATTI, ITCHKO",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333230902",
+	"amount":30000
+},
+{
+	"name":"STUART, SCOTT",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068306378",
+	"amount":30000
+},
+{
+	"name":"RONZETTI, RICHARD K.",
+	"city":"GARDEN CITY",
+	"state":"NY",
+	"zip":"115301404",
+	"amount":30000
+},
+{
+	"name":"MOENS, LAWRENCE A.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"33480",
+	"amount":30000
+},
+{
+	"name":"ANDERSON, KEITH",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100234250",
+	"amount":30000
+},
+{
+	"name":"APS",
+	"city":"PHOENIX",
+	"state":"AZ",
+	"zip":"850723940",
+	"amount":30000
+},
+{
+	"name":"QUAZZO, DEBORAH",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"60610",
+	"amount":30000
+},
+{
+	"name":"QUINLAN, THOMAS J. III",
+	"city":"STATEN ISLAND",
+	"state":"NY",
+	"zip":"103013337",
+	"amount":30000
+},
+{
+	"name":"GRANT, MARGARET A.",
+	"city":"ARLINGTON",
+	"state":"VA",
+	"zip":"222074409",
+	"amount":30000
+},
+{
+	"name":"R.A. BEARD COMPANY",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336024391",
+	"amount":30000
+},
+{
+	"name":"GARCIA FAMILY FARM LLC",
+	"city":"VIRGINIA BEACH",
+	"state":"VA",
+	"zip":"234525619",
+	"amount":30000
+},
+{
+	"name":"YELLOWLEES, ROBERT A.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303551134",
+	"amount":30000
+},
+{
+	"name":"RING, WILLIAM T.",
+	"city":"PORTOLA VALLEY",
+	"state":"CA",
+	"zip":"940287929",
+	"amount":30000
+},
+{
+	"name":"BAYHILL ESTATES",
+	"city":"SUNRISE",
+	"state":"FL",
+	"zip":"333232891",
+	"amount":30000
+},
+{
+	"name":"CAPPO, JEFF",
+	"city":"ANN ARBOR",
+	"state":"MI",
+	"zip":"481039415",
+	"amount":28400
+},
+{
+	"name":"KAZAM, JOSHUA A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100282155",
+	"amount":28317
+},
+{
+	"name":"MONCRIEF, KIT T.S.",
+	"city":"FORT WORTH",
+	"state":"TX",
+	"zip":"761071532",
+	"amount":28267
+},
+{
+	"name":"COOPER, FRED E.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303550367",
+	"amount":28032
+},
+{
+	"name":"TRUMP, STEPHANIES.",
+	"city":"AVENTURA",
+	"state":"FL",
+	"zip":"331602540",
+	"amount":27500
+},
+{
+	"name":"JONES, RICHARD H.",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322230784",
+	"amount":27500
+},
+{
+	"name":"BROWN, C. DAVID II",
+	"city":"WINDERMERE",
+	"state":"FL",
+	"zip":"347868922",
+	"amount":27374
+},
+{
+	"name":"OCI ASSOCIATES INC",
+	"city":"MAITLAND",
+	"state":"FL",
+	"zip":"32751",
+	"amount":27000
+},
+{
+	"name":"VC ENERGY CORP",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606614567",
+	"amount":27000
+},
+{
+	"name":"GUNSTER",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334016121",
+	"amount":26845
+},
+{
+	"name":"SCHORR, PAUL C. III",
+	"city":"LINCOLN",
+	"state":"NE",
+	"zip":"685057310",
+	"amount":26250
+},
+{
+	"name":"CAPRIO, PHILIP JR.",
+	"city":"KEY BISCAYNE",
+	"state":"FL",
+	"zip":"331492200",
+	"amount":26000
+},
+{
+	"name":"REYNOLDS, BRIAN G.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303395989",
+	"amount":26000
+},
+{
+	"name":"TAYLOR, GREERS.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303054107",
+	"amount":25500
+},
+{
+	"name":"CONSENSUS COMMUNICATIONS",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328013472",
+	"amount":25500
+},
+{
+	"name":"REITER, HAROLD D.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100227639",
+	"amount":25000
+},
+{
+	"name":"TISCH, JAMES S.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100212602",
+	"amount":25000
+},
+{
+	"name":"NEXTGEN MANAGEMENT LLC",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100185469",
+	"amount":25000
+},
+{
+	"name":"KEAN, STEVEN J.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770274110",
+	"amount":25000
+},
+{
+	"name":"SATTERLEE, KENNETH R.",
+	"city":"AUSTIN",
+	"state":"TX",
+	"zip":"787465776",
+	"amount":25000
+},
+{
+	"name":"METHUSELAH ADVISORS",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100227649",
+	"amount":25000
+},
+{
+	"name":"DOOLEY, WILLIAM",
+	"city":"RED BANK",
+	"state":"NJ",
+	"zip":"077016365",
+	"amount":25000
+},
+{
+	"name":"MILLER, JOHN ROBINSON IV",
+	"city":"COLD SPRING HARBOR",
+	"state":"NY",
+	"zip":"117241106",
+	"amount":25000
+},
+{
+	"name":"SCHUTTER, EDWARD J.",
+	"city":"MARIETTA",
+	"state":"GA",
+	"zip":"300674646",
+	"amount":25000
+},
+{
+	"name":"CASTLE, JOHN",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"33480",
+	"amount":25000
+},
+{
+	"name":"SUN, DIANAS.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770422514",
+	"amount":25000
+},
+{
+	"name":"MEEKER, MARY",
+	"city":"MENLO PARK",
+	"state":"CA",
+	"zip":"940257020",
+	"amount":25000
+},
+{
+	"name":"JANNEY, STUART S. III",
+	"city":"BUTLER",
+	"state":"MD",
+	"zip":"21023",
+	"amount":25000
+},
+{
+	"name":"COLLINS, NORMAN W. J. JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100659314",
+	"amount":25000
+},
+{
+	"name":"HEVIA, JOSE",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331561808",
+	"amount":25000
+},
+{
+	"name":"WATTLES CAPITAL MANAGEMENT LLC",
+	"city":"PORTLAND",
+	"state":"OR",
+	"zip":"972041229",
+	"amount":25000
+},
+{
+	"name":"SECURITY FIRST INSURANCE COMPANY",
+	"city":"ORMOND BEACH",
+	"state":"FL",
+	"zip":"321766689",
+	"amount":25000
+},
+{
+	"name":"RUAN INC.",
+	"city":"DES MOINES",
+	"state":"IA",
+	"zip":"50309",
+	"amount":25000
+},
+{
+	"name":"SALOMON, RICHARD E.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100202403",
+	"amount":25000
+},
+{
+	"name":"DYKE, JAMES T.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804617",
+	"amount":25000
+},
+{
+	"name":"SHAFIROFF, MARTIN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100656546",
+	"amount":25000
+},
+{
+	"name":"RUAN, JANISS.",
+	"city":"DES MOINES",
+	"state":"IA",
+	"zip":"503122513",
+	"amount":25000
+},
+{
+	"name":"HUBER, GEORGE B.",
+	"city":"BELLEVUE",
+	"state":"WA",
+	"zip":"980046740",
+	"amount":25000
+},
+{
+	"name":"LESSINGS INC.",
+	"city":"GREAT RIVER",
+	"state":"NY",
+	"zip":"117391001",
+	"amount":25000
+},
+{
+	"name":"DEVOS, DOUG",
+	"city":"GRAND RAPIDS",
+	"state":"MI",
+	"zip":"495032882",
+	"amount":25000
+},
+{
+	"name":"BUNZEL, JEFFREY H.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100280324",
+	"amount":25000
+},
+{
+	"name":"LUCKEN, KENT A.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"021997685",
+	"amount":25000
+},
+{
+	"name":"STERN, ADAM B.",
+	"city":"MALIBU",
+	"state":"CA",
+	"zip":"902656628",
+	"amount":25000
+},
+{
+	"name":"SHALIT, ILAN",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606105081",
+	"amount":25000
+},
+{
+	"name":"TOSETTI, PAUL D.",
+	"city":"SAN MARINO",
+	"state":"CA",
+	"zip":"911081025",
+	"amount":25000
+},
+{
+	"name":"AUFHAUSER, DAVID D.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200165079",
+	"amount":25000
+},
+{
+	"name":"DANE, JOHN III",
+	"city":"GULFPORT",
+	"state":"MS",
+	"zip":"395036151",
+	"amount":25000
+},
+{
+	"name":"KEVIN WOLFF CAMPAIGN",
+	"city":"SAN ANTONIO",
+	"state":"TX",
+	"zip":"782460692",
+	"amount":25000
+},
+{
+	"name":"DOUGLASS, WILLIAM A. III",
+	"city":"STAMFORD",
+	"state":"CT",
+	"zip":"069013514",
+	"amount":25000
+},
+{
+	"name":"LEVY, ROBERT M.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606112160",
+	"amount":25000
+},
+{
+	"name":"ZUSCHLAG, RICHARD",
+	"city":"LAFAYETTE",
+	"state":"LA",
+	"zip":"705098000",
+	"amount":25000
+},
+{
+	"name":"MORAN, JOHN A.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804466",
+	"amount":25000
+},
+{
+	"name":"SONDLAND, GORDON D.",
+	"city":"PORTLAND",
+	"state":"OR",
+	"zip":"972043634",
+	"amount":25000
+},
+{
+	"name":"SAUL, ANDREW",
+	"city":"KATONAH",
+	"state":"NY",
+	"zip":"10536",
+	"amount":25000
+},
+{
+	"name":"ROEDER, RICHARD K.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900250528",
+	"amount":25000
+},
+{
+	"name":"KENYON, MARK",
+	"city":"CHAPPAQUA",
+	"state":"NY",
+	"zip":"105141923",
+	"amount":25000
+},
+{
+	"name":"KEENAN, W. HOWARD JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100296527",
+	"amount":25000
+},
+{
+	"name":"ROSENKRANZ, NICHOLAS QUINN PROFESSOR",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100133908",
+	"amount":25000
+},
+{
+	"name":"FISHER, JOHN J.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941113504",
+	"amount":25000
+},
+{
+	"name":"MISCHER INVESTMENTS L.P.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770460923",
+	"amount":25000
+},
+{
+	"name":"ALBAUGH, DENNIS",
+	"city":"ANKENY",
+	"state":"IA",
+	"zip":"500216754",
+	"amount":25000
+},
+{
+	"name":"EVANS, R. BRADFORD",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100213551",
+	"amount":25000
+},
+{
+	"name":"MILLER, PRISCILLA C.S.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803638",
+	"amount":25000
+},
+{
+	"name":"MRAZ, JASON",
+	"city":"BROOKLYN",
+	"state":"NY",
+	"zip":"112014506",
+	"amount":25000
+},
+{
+	"name":"FORE, HENRIETTA H.S.",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"891351526",
+	"amount":25000
+},
+{
+	"name":"HARRISON, WILLIAM B. JR.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068313714",
+	"amount":25000
+},
+{
+	"name":"THOMPSON TRACTOR",
+	"city":"BIRMINGHAM",
+	"state":"AL",
+	"zip":"352172051",
+	"amount":25000
+},
+{
+	"name":"HOINE, ANDREW",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100750282",
+	"amount":25000
+},
+{
+	"name":"DAVISON, JAMES JR.",
+	"city":"RUSTON",
+	"state":"LA",
+	"zip":"712730607",
+	"amount":25000
+},
+{
+	"name":"OURISMAN, MARY M. AMBASSADOR",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334805014",
+	"amount":25000
+},
+{
+	"name":"DEMING, CLAIBORNE P.",
+	"city":"EL DORADO",
+	"state":"AR",
+	"zip":"717304044",
+	"amount":25000
+},
+{
+	"name":"MOORE, ANAND",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100237614",
+	"amount":25000
+},
+{
+	"name":"CAPRIO, PHILLIP SR.",
+	"city":"OCEAN RIDGE",
+	"state":"FL",
+	"zip":"334353306",
+	"amount":25000
+},
+{
+	"name":"LACY, TERRIS.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770022929",
+	"amount":25000
+},
+{
+	"name":"CROCKETT, DAN",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372158187",
+	"amount":25000
+},
+{
+	"name":"DOMINION TECHNOLOGIES LLC",
+	"city":"IRVING",
+	"state":"TX",
+	"zip":"750622301",
+	"amount":25000
+},
+{
+	"name":"PORTER, GRANT",
+	"city":"LOCUST VALLEY",
+	"state":"NY",
+	"zip":"115601307",
+	"amount":25000
+},
+{
+	"name":"RUBIN, HOWARD A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100287552",
+	"amount":25000
+},
+{
+	"name":"ROWLING, ROBERT",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752193241",
+	"amount":25000
+},
+{
+	"name":"KADRE, MANUEL",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331562103",
+	"amount":25000
+},
+{
+	"name":"O'SHAUGHNESSY, J. PATRICK",
+	"city":"SPARTANBURG",
+	"state":"SC",
+	"zip":"293022716",
+	"amount":25000
+},
+{
+	"name":"CANNING, JOHN A. JR.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"60602",
+	"amount":25000
+},
+{
+	"name":"DIAMOND, DONALD",
+	"city":"TUCSON",
+	"state":"AZ",
+	"zip":"857186577",
+	"amount":25000
+},
+{
+	"name":"JACKSON, ALEXANDER E.",
+	"city":"RIVERSIDE",
+	"state":"CT",
+	"zip":"068782200",
+	"amount":25000
+},
+{
+	"name":"DUMKE, EDMUND W.",
+	"city":"SUN VALLEY",
+	"state":"ID",
+	"zip":"83353",
+	"amount":25000
+},
+{
+	"name":"BERK, HOWARD",
+	"city":"SCARSDALE",
+	"state":"NY",
+	"zip":"10583",
+	"amount":25000
+},
+{
+	"name":"CANIZARO, JOSEPH",
+	"city":"NEW ORLEANS",
+	"state":"LA",
+	"zip":"70112",
+	"amount":25000
+},
+{
+	"name":"OMAN, MARK C.",
+	"city":"WEST DES MOINES",
+	"state":"IA",
+	"zip":"502666607",
+	"amount":25000
+},
+{
+	"name":"TEJPAUL, BRETT",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068303823",
+	"amount":25000
+},
+{
+	"name":"CHARTER SCHOOLS USA",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"333343618",
+	"amount":25000
+},
+{
+	"name":"INGRAM, JOHN R.",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372052204",
+	"amount":25000
+},
+{
+	"name":"ZIETZ, SAM",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334962316",
+	"amount":25000
+},
+{
+	"name":"DAY, KELLY P.S.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900244232",
+	"amount":25000
+},
+{
+	"name":"CHRISTIANSEN, PATRICK T.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328046332",
+	"amount":25000
+},
+{
+	"name":"MACLIN, SAMUEL TODD",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752053708",
+	"amount":25000
+},
+{
+	"name":"RUBEN, RICHARD",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100221615",
+	"amount":25000
+},
+{
+	"name":"MACNEIL, DAVID",
+	"city":"HINSDALE",
+	"state":"IL",
+	"zip":"605214610",
+	"amount":25000
+},
+{
+	"name":"HORVATH, PAUL D.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200072702",
+	"amount":25000
+},
+{
+	"name":"FLORIDA EAST COAST RAILWAY LLC",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322563629",
+	"amount":25000
+},
+{
+	"name":"TIMKEN, WILLIAM ROBERT AMBASSADOR JR.",
+	"city":"CANTON",
+	"state":"OH",
+	"zip":"447081301",
+	"amount":25000
+},
+{
+	"name":"RECHTSCHAFFEN, ANDREW",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100288110",
+	"amount":25000
+},
+{
+	"name":"CIGARRAN, THOMAS G.",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"37205",
+	"amount":25000
+},
+{
+	"name":"CRUM, GARY T.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770461103",
+	"amount":25000
+},
+{
+	"name":"RONAN, PATRICK",
+	"city":"WINNETKA",
+	"state":"IL",
+	"zip":"600931925",
+	"amount":25000
+},
+{
+	"name":"ACQUAVELLA, DONNA JOS.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100657267",
+	"amount":25000
+},
+{
+	"name":"HANRAHAN, MARC P.",
+	"city":"BRONXVILLE",
+	"state":"NY",
+	"zip":"107081607",
+	"amount":25000
+},
+{
+	"name":"RUAN, JOHN III",
+	"city":"DES MOINES",
+	"state":"IA",
+	"zip":"503122513",
+	"amount":25000
+},
+{
+	"name":"VAN DEVENDER, BILLY J.",
+	"city":"JACKSON",
+	"state":"MS",
+	"zip":"392965327",
+	"amount":25000
+},
+{
+	"name":"LINTOTT, JAMES",
+	"city":"GREAT FALLS",
+	"state":"VA",
+	"zip":"220661908",
+	"amount":25000
+},
+{
+	"name":"BAILEY, ANN HASLAMS.",
+	"city":"KNOXVILLE",
+	"state":"TN",
+	"zip":"379197636",
+	"amount":25000
+},
+{
+	"name":"CARTER, SCOTT",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940274125",
+	"amount":25000
+},
+{
+	"name":"PATTERSON, KATHERYN C",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10022",
+	"amount":25000
+},
+{
+	"name":"KIRKLAND, DAVID S.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803624",
+	"amount":25000
+},
+{
+	"name":"IANNUZZI, SALVATORE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10017",
+	"amount":25000
+},
+{
+	"name":"BUSH, WESLEY G.",
+	"city":"FALLS CHURCH",
+	"state":"VA",
+	"zip":"220424511",
+	"amount":25000
+},
+{
+	"name":"LUTNICK, HOWARD W.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214102",
+	"amount":25000
+},
+{
+	"name":"THE UNITED COMPANY",
+	"city":"BRISTOL",
+	"state":"VA",
+	"zip":"242013473",
+	"amount":25000
+},
+{
+	"name":"BABSON, STEPHEN",
+	"city":"SEATTLE",
+	"state":"WA",
+	"zip":"981014530",
+	"amount":25000
+},
+{
+	"name":"ABRAMOWITZ, MARC",
+	"city":"ROSS",
+	"state":"CA",
+	"zip":"949571447",
+	"amount":25000
+},
+{
+	"name":"SHINN, JAMES",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214953",
+	"amount":25000
+},
+{
+	"name":"BEST PRACTICES OF MEDICAL PARTNERS LLC",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"333012047",
+	"amount":25000
+},
+{
+	"name":"IRANI, RAY DR.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900244369",
+	"amount":25000
+},
+{
+	"name":"KLUMP, MICHAEL A.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303052813",
+	"amount":25000
+},
+{
+	"name":"MCDADE, HERBERT H. III",
+	"city":"RYE",
+	"state":"NY",
+	"zip":"105804302",
+	"amount":25000
+},
+{
+	"name":"WIRTZ, W. ROCKWELL",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606114548",
+	"amount":25000
+},
+{
+	"name":"DURKIN, PATRICK J. SR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214267",
+	"amount":25000
+},
+{
+	"name":"COLLINS, RICHARD H.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752061872",
+	"amount":25000
+},
+{
+	"name":"LYONS, JASON",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334331012",
+	"amount":25000
+},
+{
+	"name":"EVANS, CHARLES R.",
+	"city":"ALPHARETTA",
+	"state":"GA",
+	"zip":"300043161",
+	"amount":25000
+},
+{
+	"name":"LEWIS BEAR COMPANY",
+	"city":"PENSACOLA",
+	"state":"FL",
+	"zip":"325051858",
+	"amount":25000
+},
+{
+	"name":"WEST, LANCE",
+	"city":"WATER MILL",
+	"state":"NY",
+	"zip":"119762417",
+	"amount":25000
+},
+{
+	"name":"HALVEY, JOHN K.",
+	"city":"SADDLE RIVER",
+	"state":"NJ",
+	"zip":"074582824",
+	"amount":25000
+},
+{
+	"name":"OURISMAN, FLORENZ R.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803638",
+	"amount":25000
+},
+{
+	"name":"PLAYA CALIENTE LLC",
+	"city":"WINTER PARK",
+	"state":"FL",
+	"zip":"327897107",
+	"amount":25000
+},
+{
+	"name":"LEVY, EDWARD C. JR.",
+	"city":"BIRMINGHAM",
+	"state":"MI",
+	"zip":"480093730",
+	"amount":25000
+},
+{
+	"name":"MCCALL, VIRGINIAS.",
+	"city":"CARTHAGE",
+	"state":"TN",
+	"zip":"370300564",
+	"amount":25000
+},
+{
+	"name":"RED APPLE GROUP",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100193557",
+	"amount":25000
+},
+{
+	"name":"FRIBOURG, PAUL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10153",
+	"amount":25000
+},
+{
+	"name":"BOLLINGER, DONALD",
+	"city":"HOUMA",
+	"state":"LA",
+	"zip":"703614097",
+	"amount":25000
+},
+{
+	"name":"BYRNE, TIM",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752053124",
+	"amount":25000
+},
+{
+	"name":"ROEPERS, ALEXANDER",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100213207",
+	"amount":25000
+},
+{
+	"name":"KLINSKY, STEVEN B.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100196018",
+	"amount":25000
+},
+{
+	"name":"GRANOFF, MICHAEL",
+	"city":"TENAFLY",
+	"state":"NJ",
+	"zip":"076703036",
+	"amount":25000
+},
+{
+	"name":"ARNOLD, TRUMAN",
+	"city":"TEXARKANA",
+	"state":"TX",
+	"zip":"755032388",
+	"amount":25000
+},
+{
+	"name":"KIRSHNER, ALAN",
+	"city":"DOSWELL",
+	"state":"VA",
+	"zip":"23047",
+	"amount":25000
+},
+{
+	"name":"HEARD, DANIEL B.",
+	"city":"BATON ROUGE",
+	"state":"LA",
+	"zip":"708106001",
+	"amount":25000
+},
+{
+	"name":"ROSSIGNOL, JEAN-FRANCOIS",
+	"city":"SAINT PETERSBURG",
+	"state":"FL",
+	"zip":"337106744",
+	"amount":25000
+},
+{
+	"name":"CHARBONNET, STOREY",
+	"city":"NEW ORLEANS",
+	"state":"LA",
+	"zip":"701137115",
+	"amount":25000
+},
+{
+	"name":"ULM, WILLIAM",
+	"city":"BOGART",
+	"state":"GA",
+	"zip":"306776972",
+	"amount":25000
+},
+{
+	"name":"ZALAZNICK, DAVID W.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100192701",
+	"amount":25000
+},
+{
+	"name":"SMITH, GORDON V.",
+	"city":"POTOMAC",
+	"state":"MD",
+	"zip":"208544547",
+	"amount":25000
+},
+{
+	"name":"MURLEY, ROBERT S.",
+	"city":"LAKE FOREST",
+	"state":"IL",
+	"zip":"600451428",
+	"amount":25000
+},
+{
+	"name":"COHEN, WILLIAM A.",
+	"city":"SHORT HILLS",
+	"state":"NJ",
+	"zip":"070781119",
+	"amount":25000
+},
+{
+	"name":"HAGER, FRANCIS",
+	"city":"BERKELEY HEIGHTS",
+	"state":"NJ",
+	"zip":"079222034",
+	"amount":25000
+},
+{
+	"name":"VECELLIO GROUP INC.",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334113670",
+	"amount":25000
+},
+{
+	"name":"WIESENECK, LARRY",
+	"city":"WEST ORANGE",
+	"state":"NJ",
+	"zip":"070524918",
+	"amount":25000
+},
+{
+	"name":"CRESSEY, BRYAN",
+	"city":"BARRINGTON",
+	"state":"IL",
+	"zip":"600109629",
+	"amount":25000
+},
+{
+	"name":"CROGHAN, JOHN W.",
+	"city":"WINNETKA",
+	"state":"IL",
+	"zip":"600933612",
+	"amount":25000
+},
+{
+	"name":"KELLY, EDWARD J. III",
+	"city":"CHARLOTTESVILLE",
+	"state":"VA",
+	"zip":"229019423",
+	"amount":25000
+},
+{
+	"name":"GOAD, ROBERT T.",
+	"city":"CARMEL",
+	"state":"IN",
+	"zip":"460329572",
+	"amount":25000
+},
+{
+	"name":"BATHGATE WEGENER & WOLF",
+	"city":"LAKEWOOD",
+	"state":"NJ",
+	"zip":"087016902",
+	"amount":25000
+},
+{
+	"name":"KIERNAN, PETER",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068312639",
+	"amount":25000
+},
+{
+	"name":"MANSFIELD, MICHAEL",
+	"city":"GAINESVILLE",
+	"state":"GA",
+	"zip":"305016813",
+	"amount":25000
+},
+{
+	"name":"SCANLON, RICHARD T.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100221755",
+	"amount":25000
+},
+{
+	"name":"GARVY, ROBERT A.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803018",
+	"amount":25000
+},
+{
+	"name":"RED APPLE DEVELOPMENT LLC",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"333343618",
+	"amount":25000
+},
+{
+	"name":"FRENCH, SCOT",
+	"city":"BAL HARBOUR",
+	"state":"FL",
+	"zip":"331542275",
+	"amount":25000
+},
+{
+	"name":"FLEMING, EUGENE C.",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372155800",
+	"amount":25000
+},
+{
+	"name":"ROGERS, LIN R.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303191116",
+	"amount":25000
+},
+{
+	"name":"GUTIERREZ, CARLOS M. HON.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200074456",
+	"amount":25000
+},
+{
+	"name":"IMMERGUT, MEL M.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101287681",
+	"amount":25000
+},
+{
+	"name":"PHILLIPS, JEANNE JOHNSON HON.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752095503",
+	"amount":25000
+},
+{
+	"name":"SMITH, GREG",
+	"city":"ORMOND BEACH",
+	"state":"FL",
+	"zip":"321741854",
+	"amount":25000
+},
+{
+	"name":"WEINBERG, PETER A.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068303511",
+	"amount":25000
+},
+{
+	"name":"SKINNER, SAMUEL K.",
+	"city":"WINNETKA",
+	"state":"IL",
+	"zip":"600933923",
+	"amount":25000
+},
+{
+	"name":"CASTLE ROCK VENTURES LLC",
+	"city":"HARBOR SPRINGS",
+	"state":"MI",
+	"zip":"497401547",
+	"amount":25000
+},
+{
+	"name":"ROONEY, PATRICK J. SR.",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334096317",
+	"amount":25000
+},
+{
+	"name":"JAMES, WILLIAM RANDY",
+	"city":"JACKSON",
+	"state":"MS",
+	"zip":"392012004",
+	"amount":25000
+},
+{
+	"name":"OBERNDORF, LOUIS",
+	"city":"SARASOTA",
+	"state":"FL",
+	"zip":"342368903",
+	"amount":25000
+},
+{
+	"name":"HNTB CORPORATION",
+	"city":"KANSAS CITY",
+	"state":"MO",
+	"zip":"641051310",
+	"amount":25000
+},
+{
+	"name":"PERKINS, MAURICE C.",
+	"city":"WELLINGTON",
+	"state":"FL",
+	"zip":"334147093",
+	"amount":25000
+},
+{
+	"name":"ANDREWS, BARRY",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752072308",
+	"amount":25000
+},
+{
+	"name":"CURT, TIMOTHY J.",
+	"city":"NEW CANAAN",
+	"state":"CT",
+	"zip":"068402334",
+	"amount":25000
+},
+{
+	"name":"CALLAHAN, DANIEL H.",
+	"city":"FAIRFIELD",
+	"state":"CT",
+	"zip":"068246639",
+	"amount":25000
+},
+{
+	"name":"KOROLOGOS, TOM C. AMBASSADOR",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200073578",
+	"amount":25000
+},
+{
+	"name":"KASS, DENNIS",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"329634774",
+	"amount":25000
+},
+{
+	"name":"HARRIS, JONATHAN",
+	"city":"WEST HARTFORD",
+	"state":"CT",
+	"zip":"061172757",
+	"amount":25000
+},
+{
+	"name":"MANCHESTER, GENIYAS.",
+	"city":"LAJOLLA",
+	"state":"CA",
+	"zip":"920374711",
+	"amount":25000
+},
+{
+	"name":"MCKENNA, ANDREW J. SR.",
+	"city":"MORTON GROVE",
+	"state":"IL",
+	"zip":"600533209",
+	"amount":25000
+},
+{
+	"name":"NAGPAL, AJAY",
+	"city":"SHORT HILLS",
+	"state":"NJ",
+	"zip":"070781303",
+	"amount":25000
+},
+{
+	"name":"WARREN, NANI S.",
+	"city":"PORTLAND",
+	"state":"OR",
+	"zip":"97205",
+	"amount":25000
+},
+{
+	"name":"E-Z RENT-A-CAR INC.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328097893",
+	"amount":25000
+},
+{
+	"name":"TANEN, DAVID",
+	"city":"FRANKLIN LAKES",
+	"state":"NJ",
+	"zip":"074171233",
+	"amount":25000
+},
+{
+	"name":"DIXON, DONALD R.",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940275429",
+	"amount":25000
+},
+{
+	"name":"LIPPER, KENNETH",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100201903",
+	"amount":25000
+},
+{
+	"name":"TIERRANUEVA L.L.C.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331313444",
+	"amount":25000
+},
+{
+	"name":"THE QUIKRETE COMPANY",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303051743",
+	"amount":25000
+},
+{
+	"name":"ALFONSO ARCHITECTS CORPORATION",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336053723",
+	"amount":25000
+},
+{
+	"name":"GARVY, CAROL K.S.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803018",
+	"amount":25000
+},
+{
+	"name":"GRUSS, MARTIN",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334805119",
+	"amount":25000
+},
+{
+	"name":"DEVORE, DARREN W.",
+	"city":"MARIETTA",
+	"state":"GA",
+	"zip":"300674646",
+	"amount":25000
+},
+{
+	"name":"SINGLETARY, W. ROSS II",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303057601",
+	"amount":25000
+},
+{
+	"name":"DE LA TORRE, RALPH DR.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"021163740",
+	"amount":25000
+},
+{
+	"name":"SHIVERICK, PAUL",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804745",
+	"amount":25000
+},
+{
+	"name":"FISHER, FRANCESS.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334804724",
+	"amount":25000
+},
+{
+	"name":"KLARMAN, SETH A.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"02117",
+	"amount":25000
+},
+{
+	"name":"BURNHAM, MALIN",
+	"city":"SAN DIEGO",
+	"state":"CA",
+	"zip":"921063346",
+	"amount":25000
+},
+{
+	"name":"HUDSON, EDWARD JR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770562507",
+	"amount":25000
+},
+{
+	"name":"GORGI, HABIB Y.",
+	"city":"PROVIDENCE",
+	"state":"RI",
+	"zip":"02906",
+	"amount":25000
+},
+{
+	"name":"JACOBS, MARK",
+	"city":"WEST DES MOINES",
+	"state":"IA",
+	"zip":"502655388",
+	"amount":25000
+},
+{
+	"name":"DEVOS, SUZANNE CHERYLS.",
+	"city":"GRAND RAPIDS",
+	"state":"MI",
+	"zip":"495032882",
+	"amount":25000
+},
+{
+	"name":"BOVIN, DENIS A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100658141",
+	"amount":25000
+},
+{
+	"name":"FINK, ANDREW A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100655937",
+	"amount":25000
+},
+{
+	"name":"KIMMINS CONTRACTING CORP.",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336055005",
+	"amount":25000
+},
+{
+	"name":"HOEPNER, THEODORE J.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328365440",
+	"amount":25000
+},
+{
+	"name":"LOWE, MARY RALPH",
+	"city":"FORT WORTH",
+	"state":"TX",
+	"zip":"761071538",
+	"amount":25000
+},
+{
+	"name":"HALL, ROBERT",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"329632114",
+	"amount":25000
+},
+{
+	"name":"SMITH, BARBARA STOVALLS.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100224881",
+	"amount":25000
+},
+{
+	"name":"BOYLE, TIMOTHY P.",
+	"city":"PORTLAND",
+	"state":"OR",
+	"zip":"972078307",
+	"amount":25000
+},
+{
+	"name":"FIDELCO MANAGEMENT SERVICES INC.",
+	"city":"MILLBURN",
+	"state":"NJ",
+	"zip":"070411712",
+	"amount":25000
+},
+{
+	"name":"DAWSON, WILLIAM F. JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100132122",
+	"amount":25000
+},
+{
+	"name":"BERNSTEIN, BENJAMIN",
+	"city":"SCARSDALE",
+	"state":"NY",
+	"zip":"105837701",
+	"amount":25000
+},
+{
+	"name":"TIGER INFRASTRUCTURE PARTNERS L.P.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100228101",
+	"amount":25000
+},
+{
+	"name":"BMD MANAGEMENT COMPANY INC.",
+	"city":"POMPANO BEACH",
+	"state":"FL",
+	"zip":"330643552",
+	"amount":25000
+},
+{
+	"name":"BROAD AND CASSEL",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328011687",
+	"amount":25000
+},
+{
+	"name":"HASLAM, SUSAN B.S.",
+	"city":"KNOXVILLE",
+	"state":"TN",
+	"zip":"379390528",
+	"amount":25000
+},
+{
+	"name":"BURCK, WILLIAM A.",
+	"city":"CHEVY CHASE",
+	"state":"MD",
+	"zip":"208153304",
+	"amount":25000
+},
+{
+	"name":"CHADWICK, JOHN",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372053328",
+	"amount":25000
+},
+{
+	"name":"GOLDBERG, KENNY E. DR.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752303059",
+	"amount":25000
+},
+{
+	"name":"DEGIACINTO, CLAYTON",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100132164",
+	"amount":25000
+},
+{
+	"name":"FAUTH, JOHN J.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341027715",
+	"amount":25000
+},
+{
+	"name":"WAGNER, LEON M.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100171823",
+	"amount":25000
+},
+{
+	"name":"TYSON, JOHN",
+	"city":"SPRINGDALE",
+	"state":"AR",
+	"zip":"727626901",
+	"amount":25000
+},
+{
+	"name":"POWELL, LAURENCE H.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303274584",
+	"amount":25000
+},
+{
+	"name":"OLSON, THEODORE B.",
+	"city":"GREAT FALLS",
+	"state":"VA",
+	"zip":"220664016",
+	"amount":25000
+},
+{
+	"name":"TUDEEN, MIKE",
+	"city":"BRENTWOOD",
+	"state":"TN",
+	"zip":"370272612",
+	"amount":25000
+},
+{
+	"name":"BAKER, PAUL L.",
+	"city":"TUCSON",
+	"state":"AZ",
+	"zip":"857163935",
+	"amount":25000
+},
+{
+	"name":"PATRIOT STRATEGY PARTNERS L.L.C.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068313680",
+	"amount":25000
+},
+{
+	"name":"RYAN, ARTHUR F.",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"329633104",
+	"amount":25000
+},
+{
+	"name":"DEL RIO, FRANCISCO",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"331436540",
+	"amount":25000
+},
+{
+	"name":"CHILL, ADAM",
+	"city":"NEW ROCHELLE",
+	"state":"NY",
+	"zip":"108043723",
+	"amount":25000
+},
+{
+	"name":"YOUNG, RODGER HON.",
+	"city":"FARMINGTON HILLS",
+	"state":"MI",
+	"zip":"483343806",
+	"amount":25000
+},
+{
+	"name":"LANE, ERIC",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"102822102",
+	"amount":25000
+},
+{
+	"name":"CHOUEST, GARY",
+	"city":"GALLIANO",
+	"state":"LA",
+	"zip":"703540310",
+	"amount":25000
+},
+{
+	"name":"BEASLEY, THOMAS W.",
+	"city":"BURNS",
+	"state":"TN",
+	"zip":"370295630",
+	"amount":25000
+},
+{
+	"name":"PROCACCI, PHILIP J.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334324840",
+	"amount":25000
+},
+{
+	"name":"CAVEN, H. SCOTT JR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770191511",
+	"amount":25000
+},
+{
+	"name":"SOBEL, SCOTT P.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100130593",
+	"amount":25000
+},
+{
+	"name":"WRIGHT, ROBERT C.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803006",
+	"amount":25000
+},
+{
+	"name":"STANKEY, MICHAEL",
+	"city":"EDEN PRAIRIE",
+	"state":"MN",
+	"zip":"553473471",
+	"amount":25000
+},
+{
+	"name":"GRUNDHOFER, JERRY A.",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"891177528",
+	"amount":25000
+},
+{
+	"name":"NISWONGER, SCOTT M.",
+	"city":"GREENEVILLE",
+	"state":"TN",
+	"zip":"377440938",
+	"amount":25000
+},
+{
+	"name":"DEJOY, LOUIS",
+	"city":"GREENSBORO",
+	"state":"NC",
+	"zip":"274085601",
+	"amount":25000
+},
+{
+	"name":"GOINGS, EVERETT V.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328376600",
+	"amount":25000
+},
+{
+	"name":"TROEN, JON",
+	"city":"WEST DES MOINES",
+	"state":"IA",
+	"zip":"502666687",
+	"amount":25000
+},
+{
+	"name":"PROCTOR, DONALD C.",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"329632934",
+	"amount":25000
+},
+{
+	"name":"BERGER, JONATHAN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100212625",
+	"amount":25000
+},
+{
+	"name":"GROWING FLORIDA'S FUTURE",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336062647",
+	"amount":25000
+},
+{
+	"name":"UNITED REFINING COMPNAY",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":25000
+},
+{
+	"name":"SULLIVAN, FRANK C.",
+	"city":"BAY VILLAGE",
+	"state":"OH",
+	"zip":"441402070",
+	"amount":25000
+},
+{
+	"name":"KELLY, JOHN A.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341191804",
+	"amount":25000
+},
+{
+	"name":"FRITTS, KIMBERLEY D.",
+	"city":"ARLINGTON",
+	"state":"VA",
+	"zip":"222074649",
+	"amount":25000
+},
+{
+	"name":"CARPENTER, CARROLL M.S.",
+	"city":"WILMINGTON",
+	"state":"DE",
+	"zip":"198071502",
+	"amount":25000
+},
+{
+	"name":"KENNEDY, LESA D.S.",
+	"city":"DAYTONA BEACH",
+	"state":"FL",
+	"zip":"321183436",
+	"amount":25000
+},
+{
+	"name":"BAIRD, CHARLES F. JR.",
+	"city":"NEW CANAAN",
+	"state":"CT",
+	"zip":"068402714",
+	"amount":25000
+},
+{
+	"name":"PURDUE LEASING CORPORATION",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100194001",
+	"amount":25000
+},
+{
+	"name":"TRAFELET, REMY WHITE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100656591",
+	"amount":25000
+},
+{
+	"name":"MOSS & ASSOCIATES LLC",
+	"city":"FT. LAUDERDALE",
+	"state":"FL",
+	"zip":"333113940",
+	"amount":25000
+},
+{
+	"name":"SUNDHEIM, DANIEL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100213554",
+	"amount":25000
+},
+{
+	"name":"SCHENKMAN, EUGENE",
+	"city":"BRIDGEWATER",
+	"state":"NJ",
+	"zip":"088075002",
+	"amount":25000
+},
+{
+	"name":"SRI CAPITAL INC.",
+	"city":"TORONTO ON M5J 2S1 CANADA",
+	"state":"",
+	"zip":"99999",
+	"amount":25000
+},
+{
+	"name":"HUDSON, LYNNE JAMES",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770562507",
+	"amount":25000
+},
+{
+	"name":"KETCHUM, STEPHEN J.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100362603",
+	"amount":25000
+},
+{
+	"name":"FMDC",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341033548",
+	"amount":25000
+},
+{
+	"name":"SILVERMAN, DOUGLAS",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100034342",
+	"amount":25000
+},
+{
+	"name":"REEDY, WILLIAM P.",
+	"city":"WINNETKA",
+	"state":"IL",
+	"zip":"600934263",
+	"amount":25000
+},
+{
+	"name":"CLEMENTS, ROBERT",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"322107633",
+	"amount":25000
+},
+{
+	"name":"RUAN CENTER CORPORATION",
+	"city":"DES MOINES",
+	"state":"IA",
+	"zip":"50309",
+	"amount":25000
+},
+{
+	"name":"LEE, DORIS S.S.",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"891696715",
+	"amount":25000
+},
+{
+	"name":"DOVE, REID",
+	"city":"DOTHAN",
+	"state":"AL",
+	"zip":"363031453",
+	"amount":25000
+},
+{
+	"name":"LEE, GREGORY T.",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"891353284",
+	"amount":25000
+},
+{
+	"name":"BROWN, W. LYONS JR.",
+	"city":"GULF STREAM",
+	"state":"FL",
+	"zip":"334837221",
+	"amount":25000
+},
+{
+	"name":"DIGITAL BRIDGE HOLDINGS LLC",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334873621",
+	"amount":25000
+},
+{
+	"name":"PREMIER BEVERAGE COMPANY LLC",
+	"city":"MIRAMAR",
+	"state":"FL",
+	"zip":"330253200",
+	"amount":25000
+},
+{
+	"name":"GILDENHORN, JOSEPH B. HON.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200081608",
+	"amount":25000
+},
+{
+	"name":"MILLSTONE, DAVID",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100655963",
+	"amount":25000
+},
+{
+	"name":"RUPRECHT, WILLIAM",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068313250",
+	"amount":25000
+},
+{
+	"name":"WENDT, RODERICK",
+	"city":"KLAMATH FALLS",
+	"state":"OR",
+	"zip":"976011536",
+	"amount":25000
+},
+{
+	"name":"HARDER, PAUL J.",
+	"city":"LAKE VIEW",
+	"state":"NY",
+	"zip":"140859548",
+	"amount":25000
+},
+{
+	"name":"CENTURY HEALTH INVESTMENTS LLC",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331260024",
+	"amount":25000
+},
+{
+	"name":"EKLUND, DAVID",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341102708",
+	"amount":25000
+},
+{
+	"name":"OLSHAN, MICHAEL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100221657",
+	"amount":25000
+},
+{
+	"name":"MACDONALD, WILLIAM",
+	"city":"BETHESDA",
+	"state":"MD",
+	"zip":"208174579",
+	"amount":25000
+},
+{
+	"name":"KUNKLER, WILLIAM C. III",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606011007",
+	"amount":25000
+},
+{
+	"name":"CUNNINGHAM, RICHARD D. M.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100243080",
+	"amount":25000
+},
+{
+	"name":"SIMON, WILLIAM S.",
+	"city":"ROGERS",
+	"state":"AR",
+	"zip":"727588831",
+	"amount":25000
+},
+{
+	"name":"SOLOMON, STEVE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752011509",
+	"amount":25000
+},
+{
+	"name":"GOLDSTEIN, RODNEY L.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606034177",
+	"amount":25000
+},
+{
+	"name":"JLR LONG ISLAND LLC",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"331722761",
+	"amount":25000
+},
+{
+	"name":"HOLLAND, CLYDE",
+	"city":"VANCOUVER",
+	"state":"WA",
+	"zip":"986602970",
+	"amount":25000
+},
+{
+	"name":"PENINSULA IMPROVEMENT CORP.",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341053227",
+	"amount":25000
+},
+{
+	"name":"SINATRA, NICK",
+	"city":"BUFFALO",
+	"state":"NY",
+	"zip":"142031400",
+	"amount":25000
+},
+{
+	"name":"JENNINGS, TONI HON.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328032535",
+	"amount":25000
+},
+{
+	"name":"MILLER, DONALD K.",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"334803638",
+	"amount":25000
+},
+{
+	"name":"AMALIE OIL COMPANY",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"336056731",
+	"amount":25000
+},
+{
+	"name":"RSC EQUITY LLC",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328011687",
+	"amount":25000
+},
+{
+	"name":"VINCENT, FAY",
+	"city":"PONTE VEDRA BEACH",
+	"state":"FL",
+	"zip":"320823943",
+	"amount":25000
+},
+{
+	"name":"O'HARA, TIMOTHY P.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100750202",
+	"amount":25000
+},
+{
+	"name":"WALDORF, MICHAEL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"102821256",
+	"amount":25000
+},
+{
+	"name":"EDWARDSON, JOHN",
+	"city":"BOCA GRANDE",
+	"state":"FL",
+	"zip":"33921",
+	"amount":25000
+},
+{
+	"name":"FURMAN, WILLIAM A.",
+	"city":"LAKE OSWEGO",
+	"state":"OR",
+	"zip":"970358612",
+	"amount":25000
+},
+{
+	"name":"WILSON, GARY L.",
+	"city":"MALIBU",
+	"state":"CA",
+	"zip":"902652638",
+	"amount":25000
+},
+{
+	"name":"SCHWARTZ, ALAN D.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100175001",
+	"amount":25000
+},
+{
+	"name":"MESERVE, JOHN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100133844",
+	"amount":25000
+},
+{
+	"name":"PARKER, JOHN H.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303272449",
+	"amount":25000
+},
+{
+	"name":"MARANTZ, ALAN J.",
+	"city":"HARRISON",
+	"state":"NY",
+	"zip":"105281321",
+	"amount":25000
+},
+{
+	"name":"WARTMAN, KIRK",
+	"city":"RIVERSIDE",
+	"state":"CT",
+	"zip":"068782520",
+	"amount":25000
+},
+{
+	"name":"GUIDRY, SHANE J.",
+	"city":"NEW ORLEANS",
+	"state":"LA",
+	"zip":"701397704",
+	"amount":25000
+},
+{
+	"name":"WALKER, JEFFREY C.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100237714",
+	"amount":25000
+},
+{
+	"name":"STORCH, ARI",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100280808",
+	"amount":25000
+},
+{
+	"name":"PELSON, MARK",
+	"city":"BARRINGTON",
+	"state":"RI",
+	"zip":"028064900",
+	"amount":25000
+},
+{
+	"name":"COLLINS FOR CONGRESS",
+	"city":"CLARENCE",
+	"state":"NY",
+	"zip":"140311576",
+	"amount":25000
+},
+{
+	"name":"MICHAUD, THOMAS B.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068304755",
+	"amount":25000
+},
+{
+	"name":"MATZNER, HAROLD",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334281906",
+	"amount":25000
+},
+{
+	"name":"AUSTIN, GEORGE K.",
+	"city":"NEWBERG",
+	"state":"OR",
+	"zip":"971320209",
+	"amount":25000
+},
+{
+	"name":"WEILER, ROBERT K.",
+	"city":"WAYLAND",
+	"state":"MA",
+	"zip":"017782420",
+	"amount":25000
+},
+{
+	"name":"KASH, PETER DR.",
+	"city":"NEW CITY",
+	"state":"NY",
+	"zip":"109566354",
+	"amount":25000
+},
+{
+	"name":"KOTTS, JOHN P.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770191115",
+	"amount":25000
+},
+{
+	"name":"ARONSTEIN, MICHAEL",
+	"city":"RYE",
+	"state":"NY",
+	"zip":"105801816",
+	"amount":25000
+},
+{
+	"name":"FALIK, BRIAN A.",
+	"city":"STAMFORD",
+	"state":"CT",
+	"zip":"069023834",
+	"amount":25000
+},
+{
+	"name":"PELOPIDAS LLC",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"34119",
+	"amount":25000
+},
+{
+	"name":"DEVOS, RICHARD M. JR.",
+	"city":"GRAND RAPIDS",
+	"state":"MI",
+	"zip":"495032882",
+	"amount":25000
+},
+{
+	"name":"MOSIER, FRANK",
+	"city":"SAINT MICHAELS",
+	"state":"MD",
+	"zip":"216632950",
+	"amount":24975
+},
+{
+	"name":"SOHR, JAMES",
+	"city":"NASHVILLE",
+	"state":"TN",
+	"zip":"372154705",
+	"amount":24000
+}
+	]
+},
+{
+	"id":"C00401224",
+	"name":"ACTBLUE",
+	"city":"SOMERVILLE",
+	"state":"MA",
+	"zip":"02144",
+	"type":"W",
+	"affiliation":15,
+	"association":"Democratic Candidates",
+	"funds":20225855,
+	"contributors": [
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":19283846
+},
+{
+	"name":"SIMMONS, IAN",
+	"city":"CAMBRIDGE",
+	"state":"MA",
+	"zip":"02138",
+	"amount":96600
+},
+{
+	"name":"HOGAN, WAYNE",
+	"city":"JACKSONVILLE",
+	"state":"FL",
+	"zip":"32202",
+	"amount":75500
+},
+{
+	"name":"BLUE BARON, LISA",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75219",
+	"amount":49000
+},
+{
+	"name":"GRUENER, GARRETT",
+	"city":"SIOUX FALLS",
+	"state":"SD",
+	"zip":"57186",
+	"amount":44000
+},
+{
+	"name":"ZUBERI, IMAAD",
+	"city":"EL MONTE",
+	"state":"CA",
+	"zip":"91733",
+	"amount":42800
+},
+{
+	"name":"CASTAGNETTI, DAVID",
+	"city":"BETHESDA",
+	"state":"MD",
+	"zip":"20816",
+	"amount":41000
+},
+{
+	"name":"KAUFMAN, DEREK",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"06831",
+	"amount":38800
+},
+{
+	"name":"SCHUSTER, ELAINE",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"33480",
+	"amount":38800
+},
+{
+	"name":"LAVINE, JONATHAN",
+	"city":"LEXINGTON",
+	"state":"MA",
+	"zip":"02421",
+	"amount":38800
+},
+{
+	"name":"LAVINE, JEANNE",
+	"city":"LEXINGTON",
+	"state":"MA",
+	"zip":"02421",
+	"amount":38800
+},
+{
+	"name":"SINGHAL, AMITABH",
+	"city":"PALO ALTO",
+	"state":"CA",
+	"zip":"94303",
+	"amount":38400
+},
+{
+	"name":"LECHNER, IRA",
+	"city":"ESCONDIDO",
+	"state":"CA",
+	"zip":"92029",
+	"amount":36100
+},
+{
+	"name":"LOVELACE, JIM",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90064",
+	"amount":36100
+},
+{
+	"name":"KOWALSKI, MICHAEL",
+	"city":"KINNELON",
+	"state":"NJ",
+	"zip":"07405",
+	"amount":32400
+},
+{
+	"name":"MORRIS PHD ATP, DONALD",
+	"city":"KENSINGTON",
+	"state":"CA",
+	"zip":"94707",
+	"amount":32400
+},
+{
+	"name":"MUNGER, PHILIP",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10011",
+	"amount":32400
+},
+{
+	"name":"ELLING, MARTIN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10016",
+	"amount":32400
+},
+{
+	"name":"RANDLETT, WADE",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"94115",
+	"amount":31850
+},
+{
+	"name":"MERCADO, MOSES",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20002",
+	"amount":29250
+},
+{
+	"name":"LAUDER, LAURA",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"94027",
+	"amount":29100
+},
+{
+	"name":"LAWRENCE, KAREN",
+	"city":"MCLEAN",
+	"state":"VA",
+	"zip":"22102",
+	"amount":28750
+},
+{
+	"name":"JONES, JONATHON",
+	"city":"FALLS CHURCH",
+	"state":"VA",
+	"zip":"22043",
+	"amount":27900
+},
+{
+	"name":"LITTLE, WILL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10128",
+	"amount":26099
+},
+{
+	"name":"KARGMAN, WILLIAM",
+	"city":"CAMBRIDGE",
+	"state":"MA",
+	"zip":"02138",
+	"amount":24760
+}
+	]
+},
+{
+	"id":"C00576108",
+	"name":"UNINTIMIDATED PAC INC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20003",
+	"type":"O",
+	"affiliation":85,
+	"association":"Scott Walker",
+	"funds":20018493,
+	"contributors": [
+{
+	"name":"HENDRICKS, DIANE M.",
+	"city":"AFTON",
+	"state":"WI",
+	"zip":"53501",
+	"amount":5000000
+},
+{
+	"name":"RICKETTS, MARLENE M.",
+	"city":"OMAHA",
+	"state":"NE",
+	"zip":"68131",
+	"amount":4900000
+},
+{
+	"name":"UIHLEIN, RICHARD",
+	"city":"LAKE FOREST",
+	"state":"IL",
+	"zip":"600451147",
+	"amount":1750000
+},
+{
+	"name":"ACCESS INDUSTRIES, INC.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":1000000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":752893
+},
+{
+	"name":"UIHLEIN, ELIZABETH",
+	"city":"LAKE FOREST",
+	"state":"IL",
+	"zip":"600451147",
+	"amount":750000
+},
+{
+	"name":"MARCUS, BERNARD",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303272306",
+	"amount":500000
+},
+{
+	"name":"MCNAIR, ROBERT C. SR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77054",
+	"amount":500000
+},
+{
+	"name":"UNIVERSAL TRUCKLOAD SERVICES I.",
+	"city":"WARREN",
+	"state":"MI",
+	"zip":"480892621",
+	"amount":300000
+},
+{
+	"name":"WESTCOTT, CHART H.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752016916",
+	"amount":200000
+},
+{
+	"name":"SERVICES GROUP OF AMERICA",
+	"city":"SCOTTSDALE",
+	"state":"AZ",
+	"zip":"852542232",
+	"amount":200000
+},
+{
+	"name":"ETC CAPITAL LLC",
+	"city":"FARMINGTON HILLS",
+	"state":"MI",
+	"zip":"48331",
+	"amount":150000
+},
+{
+	"name":"TANNENBAUM, LEONARD",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068305014",
+	"amount":150000
+},
+{
+	"name":"HF SECURITIES LLC",
+	"city":"BROOKFIELD",
+	"state":"WI",
+	"zip":"530455842",
+	"amount":150000
+},
+{
+	"name":"SMITH, THOMAS W.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334317453",
+	"amount":100000
+},
+{
+	"name":"ZIEGLER, ANDREW A.",
+	"city":"BROOKFIELD",
+	"state":"WI",
+	"zip":"530455866",
+	"amount":100000
+},
+{
+	"name":"SIMMONS, ANNETTE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752253006",
+	"amount":100000
+},
+{
+	"name":"DUNN, ELIZABETH M.S.",
+	"city":"KEY LARGO",
+	"state":"FL",
+	"zip":"330375267",
+	"amount":100000
+},
+{
+	"name":"JONES, MICHAEL R.",
+	"city":"HERNDON",
+	"state":"VA",
+	"zip":"201705346",
+	"amount":100000
+},
+{
+	"name":"MCMAHON, JOHN",
+	"city":"BETHESDA",
+	"state":"MD",
+	"zip":"208143019",
+	"amount":100000
+},
+{
+	"name":"ROBERTS, RICHARD H.",
+	"city":"LAKEWOOD",
+	"state":"NJ",
+	"zip":"087010018",
+	"amount":100000
+},
+{
+	"name":"PETIT, PARKER H.",
+	"city":"MARIETTA",
+	"state":"GA",
+	"zip":"300622254",
+	"amount":100000
+},
+{
+	"name":"RICKETTS, JOE",
+	"city":"LITTLE JACKSON HOL",
+	"state":"WY",
+	"zip":"82922",
+	"amount":100000
+},
+{
+	"name":"PAULSON, JOHN A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100201104",
+	"amount":100000
+},
+{
+	"name":"KOHLER, TERRY J.",
+	"city":"SHEBOYGAN",
+	"state":"WI",
+	"zip":"530814629",
+	"amount":100000
+},
+{
+	"name":"LUDDY, ROBERT",
+	"city":"RALEIGH",
+	"state":"NC",
+	"zip":"276163406",
+	"amount":100000
+},
+{
+	"name":"ST. JOHN, EDWARD",
+	"city":"BALTIMORE",
+	"state":"MD",
+	"zip":"212442677",
+	"amount":100000
+},
+{
+	"name":"LINDEMANN, GEORGE L.",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334015948",
+	"amount":100000
+},
+{
+	"name":"MALONE, JOHN C.",
+	"city":"ENGLEWOOD",
+	"state":"CO",
+	"zip":"801127009",
+	"amount":100000
+},
+{
+	"name":"JENSEN, JAY",
+	"city":"MADISON",
+	"state":"WI",
+	"zip":"537188342",
+	"amount":100000
+},
+{
+	"name":"CUDAHY, MICHAEL J.",
+	"city":"MILWAUKEE",
+	"state":"WI",
+	"zip":"53202",
+	"amount":75000
+},
+{
+	"name":"CATSIMATIDIS, JOHN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100657254",
+	"amount":70000
+},
+{
+	"name":"ARNOLD, DANIEL J.",
+	"city":"ROCKFORD",
+	"state":"IL",
+	"zip":"611082289",
+	"amount":51000
+},
+{
+	"name":"PECK JR, JOHN",
+	"city":"RANCHO SANTA FE",
+	"state":"CA",
+	"zip":"920670829",
+	"amount":50000
+},
+{
+	"name":"KUESTER, JONATHAN",
+	"city":"PALM HARBOR",
+	"state":"FL",
+	"zip":"34685",
+	"amount":50000
+},
+{
+	"name":"MCMAHON, E. BRETT",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200164139",
+	"amount":50000
+},
+{
+	"name":"MASTERSON, JOE",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"341024911",
+	"amount":50000
+},
+{
+	"name":"KELLNER, TED",
+	"city":"MILWAUKEE",
+	"state":"WI",
+	"zip":"532024110",
+	"amount":50000
+},
+{
+	"name":"CZUKER, EDWARD",
+	"city":"BEVERLY HILLS",
+	"state":"CA",
+	"zip":"902123002",
+	"amount":50000
+},
+{
+	"name":"JMF INVESTMENT HOLDINGS INC.",
+	"city":"HILLSBORO BEACH",
+	"state":"FL",
+	"zip":"330621902",
+	"amount":50000
+},
+{
+	"name":"LEIPOLD, CRAIG",
+	"city":"RACINE",
+	"state":"WI",
+	"zip":"534022322",
+	"amount":50000
+},
+{
+	"name":"ROBERTSON, JULIAN H. JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101780002",
+	"amount":50000
+},
+{
+	"name":"SSI TECHNOLOGIES INC.",
+	"city":"JANESVILLE",
+	"state":"WI",
+	"zip":"535475011",
+	"amount":50000
+},
+{
+	"name":"WEBER, DONALD J.",
+	"city":"LA CROSSE",
+	"state":"WI",
+	"zip":"546014255",
+	"amount":50000
+},
+{
+	"name":"COLBURN, RICHARD W.",
+	"city":"NORTHBROOK",
+	"state":"IL",
+	"zip":"600622854",
+	"amount":50000
+},
+{
+	"name":"COURI INSURANCE AGENCY",
+	"city":"WAUKESHA",
+	"state":"WI",
+	"zip":"531864613",
+	"amount":50000
+},
+{
+	"name":"KUESTER, KERRI",
+	"city":"PALM HARBOR",
+	"state":"FL",
+	"zip":"34685",
+	"amount":50000
+},
+{
+	"name":"HAACK, WILLIAM",
+	"city":"ELM GROVE",
+	"state":"WI",
+	"zip":"531221627",
+	"amount":50000
+},
+{
+	"name":"HUBBARD, STANLEY S.",
+	"city":"ST. PAUL",
+	"state":"MN",
+	"zip":"551141019",
+	"amount":50000
+},
+{
+	"name":"STAYER-MALONEY, LAUNA",
+	"city":"SHEBOYGAN",
+	"state":"WI",
+	"zip":"530833072",
+	"amount":50000
+},
+{
+	"name":"STEPHENS, WARREN",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72201",
+	"amount":50000
+},
+{
+	"name":"SHIELY, JOHN S.",
+	"city":"ELM GROVE",
+	"state":"WI",
+	"zip":"531222003",
+	"amount":50000
+},
+{
+	"name":"MAGUIRE, CARY M",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75225",
+	"amount":50000
+},
+{
+	"name":"LUBER, FRED",
+	"city":"MILWAUKEE",
+	"state":"WI",
+	"zip":"532024000",
+	"amount":44600
+},
+{
+	"name":"DUCHOSSOIS, RICHARD L.",
+	"city":"BARRINGTON",
+	"state":"IL",
+	"zip":"600109636",
+	"amount":35000
+},
+{
+	"name":"DOORNINK REVOCABLE TRUST",
+	"city":"MANHATTAN BEACH",
+	"state":"CA",
+	"zip":"902665856",
+	"amount":30000
+},
+{
+	"name":"WELDALL MFG INC",
+	"city":"WAUKESHA",
+	"state":"WI",
+	"zip":"531897307",
+	"amount":30000
+},
+{
+	"name":"GALLAGHER, MAURICE J.",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"891134473",
+	"amount":30000
+},
+{
+	"name":"HUDSON, CRAIG J.",
+	"city":"BARRINGTON",
+	"state":"IL",
+	"zip":"600102224",
+	"amount":25000
+},
+{
+	"name":"HNTB CORPORATION",
+	"city":"PLANO",
+	"state":"TX",
+	"zip":"750932203",
+	"amount":25000
+},
+{
+	"name":"TRT HOLDINGS",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752193241",
+	"amount":25000
+},
+{
+	"name":"GOULD, MARY T.",
+	"city":"LAUREL",
+	"state":"MD",
+	"zip":"207235716",
+	"amount":25000
+},
+{
+	"name":"HOULE, HELENE",
+	"city":"ST. PAUL",
+	"state":"MN",
+	"zip":"551021640",
+	"amount":25000
+},
+{
+	"name":"MILK SOURCE LLC",
+	"city":"KAUKAUNA",
+	"state":"WI",
+	"zip":"541307648",
+	"amount":25000
+},
+{
+	"name":"MOTOR WERKS AUTO GROUP",
+	"city":"HOFFMAN ESTATES",
+	"state":"IL",
+	"zip":"601691340",
+	"amount":25000
+},
+{
+	"name":"CZUKER, ELISSA",
+	"city":"BEVERLY HILLS",
+	"state":"CA",
+	"zip":"902123002",
+	"amount":25000
+},
+{
+	"name":"TOLL, NANCY",
+	"city":"FRANKLIN",
+	"state":"WI",
+	"zip":"531322708",
+	"amount":25000
+},
+{
+	"name":"GOODNIGHT, JAMES",
+	"city":"CARY",
+	"state":"NC",
+	"zip":"275133000",
+	"amount":25000
+},
+{
+	"name":"FOGLIA, PATRICIA A.S.",
+	"city":"BARRINGTON",
+	"state":"IL",
+	"zip":"600106930",
+	"amount":25000
+},
+{
+	"name":"C.K. HOLDINGS LTD",
+	"city":"DE PERE",
+	"state":"WI",
+	"zip":"541152917",
+	"amount":25000
+},
+{
+	"name":"DIRECT SUPPLY",
+	"city":"MILWAUKEE",
+	"state":"WI",
+	"zip":"532235815",
+	"amount":25000
+},
+{
+	"name":"DRINKARD, ROY H.",
+	"city":"CULLMAN",
+	"state":"AL",
+	"zip":"350560996",
+	"amount":25000
+},
+{
+	"name":"PATRICK, THOMAS",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"34108",
+	"amount":25000
+},
+{
+	"name":"MORGAN, MICHAEL M.",
+	"city":"DEERFIELD",
+	"state":"IL",
+	"zip":"600152713",
+	"amount":25000
+},
+{
+	"name":"GOLDMAN, MARC",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334328529",
+	"amount":25000
+},
+{
+	"name":"HART, J STEVEN",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200013965",
+	"amount":25000
+},
+{
+	"name":"ISAAC, PAUL J.",
+	"city":"LARCHMONT",
+	"state":"NY",
+	"zip":"105383634",
+	"amount":25000
+},
+{
+	"name":"FITZGERALD, THOMAS",
+	"city":"INVERNESS",
+	"state":"IL",
+	"zip":"60067",
+	"amount":25000
+},
+{
+	"name":"HILLIS, JENNIFER",
+	"city":"MILWAUKEE",
+	"state":"WI",
+	"zip":"532173649",
+	"amount":25000
+},
+{
+	"name":"WILKEY, RICHARD L.",
+	"city":"HARTLAND",
+	"state":"WI",
+	"zip":"530299306",
+	"amount":25000
+},
+{
+	"name":"TISBO, TOM A.",
+	"city":"BATAVIA",
+	"state":"IL",
+	"zip":"605101433",
+	"amount":25000
+},
+{
+	"name":"HUIZENGA, PETER H.",
+	"city":"OAK BROOK",
+	"state":"IL",
+	"zip":"60523",
+	"amount":25000
+},
+{
+	"name":"HILLS, PAUL",
+	"city":"BARRINGTON HILLS",
+	"state":"IL",
+	"zip":"60010",
+	"amount":25000
+},
+{
+	"name":"MIDWEST COMPOSITE TECHNOLOGIES",
+	"city":"HARTLAND",
+	"state":"WI",
+	"zip":"530298303",
+	"amount":25000
+},
+{
+	"name":"DARROW, RUSSELL",
+	"city":"WEST BEND",
+	"state":"WI",
+	"zip":"530959147",
+	"amount":25000
+},
+{
+	"name":"PALEOLOGOS, NICHOLAS G.",
+	"city":"POTOMAC",
+	"state":"MD",
+	"zip":"208541519",
+	"amount":25000
+},
+{
+	"name":"ANDERSON, JOHN R.",
+	"city":"ROCKFORD",
+	"state":"IL",
+	"zip":"611071035",
+	"amount":25000
+},
+{
+	"name":"HILLIS, ROBERT J.",
+	"city":"MILWAUKEE",
+	"state":"WI",
+	"zip":"532235815",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00495861",
+	"name":"PRIORITIES USA ACTION",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20005",
+	"type":"O",
+	"affiliation":20,
+	"association":"Hillary Clinton",
+	"funds":16402919,
+	"contributors": [
+{
+	"name":"SABAN, CHERYL",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900674000",
+	"amount":1000000
+},
+{
+	"name":"SPIELBERG, STEVEN",
+	"city":"PACIFIC PALISADES",
+	"state":"CA",
+	"zip":"902722754",
+	"amount":1000000
+},
+{
+	"name":"KATZENBERG, JEFFREY",
+	"city":"BEVERLY HILLS",
+	"state":"CA",
+	"zip":"902102620",
+	"amount":1000000
+},
+{
+	"name":"SABAN, HAIM",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900674000",
+	"amount":1000000
+},
+{
+	"name":"FAIR SHARE ACTION",
+	"city":"DENVER",
+	"state":"CO",
+	"zip":"802122107",
+	"amount":1000000
+},
+{
+	"name":"SOROS, GEORGE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101060001",
+	"amount":1000000
+},
+{
+	"name":"SUSSMAN, DONALD",
+	"city":"RYE BROOK",
+	"state":"NY",
+	"zip":"105731365",
+	"amount":1000000
+},
+{
+	"name":"UA POLITICAL EDUCATION COMMITTEE",
+	"city":"ANNAPOLIS",
+	"state":"MD",
+	"zip":"214013687",
+	"amount":1000000
+},
+{
+	"name":"SANDLER, HERBERT M.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941114113",
+	"amount":1000000
+},
+{
+	"name":"SILBERSTEIN, STEPHEN",
+	"city":"BELVEDERE",
+	"state":"CA",
+	"zip":"94920",
+	"amount":800000
+},
+{
+	"name":"SHAW, DAVID E.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100364041",
+	"amount":750000
+},
+{
+	"name":"PROGRESSIVE WOMEN SILICON VALLEY FEDERAL PAC",
+	"city":"SACRAMENTO",
+	"state":"CA",
+	"zip":"958154404",
+	"amount":750000
+},
+{
+	"name":"WOODS, LAURE",
+	"city":"PORTOLA VALLEY",
+	"state":"CA",
+	"zip":"940287265",
+	"amount":750000
+},
+{
+	"name":"LEE, BARBARA F.",
+	"city":"CAMBRIDGE",
+	"state":"MA",
+	"zip":"021385752",
+	"amount":716919
+},
+{
+	"name":"HEISING, MARK",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940276456",
+	"amount":500000
+},
+{
+	"name":"STRYKER, PAT",
+	"city":"FORT COLLINS",
+	"state":"CO",
+	"zip":"805242835",
+	"amount":500000
+},
+{
+	"name":"MCGRATH, KATHLEEN",
+	"city":"SUITE 900",
+	"state":"CA",
+	"zip":"91436",
+	"amount":500000
+},
+{
+	"name":"ABRAMS, JEFFREY",
+	"city":"ENCINO",
+	"state":"CA",
+	"zip":"91436",
+	"amount":500000
+},
+{
+	"name":"PUGH, JAMES",
+	"city":"WINTER PARK",
+	"state":"FL",
+	"zip":"327893145",
+	"amount":250000
+},
+{
+	"name":"ALTMAN, ROGER C.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100550002",
+	"amount":250000
+},
+{
+	"name":"TOAN, BARRETT A",
+	"city":"SANTA FE",
+	"state":"NM",
+	"zip":"875052833",
+	"amount":250000
+},
+{
+	"name":"NATHANSON, MARC",
+	"city":"BEVERLY HILLS",
+	"state":"CA",
+	"zip":"902121607",
+	"amount":250000
+},
+{
+	"name":"HALE, ROBERT",
+	"city":"HINGHAM",
+	"state":"MA",
+	"zip":"020432651",
+	"amount":100000
+},
+{
+	"name":"GOLDMAN, MARCIA L.",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940273934",
+	"amount":100000
+},
+{
+	"name":"MULLEN, DONALD R. JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100235961",
+	"amount":100000
+},
+{
+	"name":"FUKUSHIMA, GLEN S",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200373321",
+	"amount":100000
+},
+{
+	"name":"GOLDMAN, JOHN D",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940273934",
+	"amount":100000
+},
+{
+	"name":"GUZEL, MURAT M",
+	"city":"BETHLEHEM",
+	"state":"PA",
+	"zip":"180179308",
+	"amount":50000
+},
+{
+	"name":"INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200065301",
+	"amount":50000
+},
+{
+	"name":"ADLER, ROBERT",
+	"city":"GLENDORA",
+	"state":"CA",
+	"zip":"917412000",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00541292",
+	"name":"CONSERVATIVE SOLUTIONS PAC",
+	"city":"TAMPA",
+	"state":"FL",
+	"zip":"33606",
+	"type":"O",
+	"affiliation":80,
+	"association":"Marco Rubio",
+	"funds":16057600,
+	"contributors": [
+{
+	"name":"BRAMAN, NORMAN",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"33137",
+	"amount":5000000
+},
+{
+	"name":"ELLISON, LAWRENCE J.",
+	"city":"WALNUT CREEK",
+	"state":"CA",
+	"zip":"94596",
+	"amount":3000000
+},
+{
+	"name":"BESILU STABLES, LLC",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"33165",
+	"amount":2500000
+},
+{
+	"name":"PERLMUTTER, LAURA",
+	"city":"LAKE WORTH",
+	"state":"FL",
+	"zip":"33460",
+	"amount":2000000
+},
+{
+	"name":"RUBRIGHT, JAMES A.",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"30305",
+	"amount":500000
+},
+{
+	"name":"DEGEORGE, LAWRENCE F.",
+	"city":"JUPITER",
+	"state":"FL",
+	"zip":"33477",
+	"amount":500000
+},
+{
+	"name":"TRAVEL RETAIL GROUP HOLDINGS, LLC",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"33238",
+	"amount":200000
+},
+{
+	"name":"COLLUM'S ADMIN. & MAINT., LLC",
+	"city":"ALLENDALE",
+	"state":"SC",
+	"zip":"29810",
+	"amount":150000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":137600
+},
+{
+	"name":"RUST, ROBERT W.",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"33146",
+	"amount":110000
+},
+{
+	"name":"STOFIN CO., INC.",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"33401",
+	"amount":100000
+},
+{
+	"name":"FLORIDA CRYSTALS CORPORATION",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"33401",
+	"amount":100000
+},
+{
+	"name":"HIRSCH, LAURENCE E.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75201",
+	"amount":100000
+},
+{
+	"name":"AGRO-INDUSTRIAL MANAGEMENT",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"33401",
+	"amount":100000
+},
+{
+	"name":"AMERICAS EXPORT CORPORATION",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"33401",
+	"amount":100000
+},
+{
+	"name":"GRIFFIN, KENNETH C.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"60603",
+	"amount":100000
+},
+{
+	"name":"GEO CORRECTIONS HOLDINGS, INC.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"33487",
+	"amount":100000
+},
+{
+	"name":"HERRO, DAVID",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"60610",
+	"amount":100000
+},
+{
+	"name":"GROFF, SUSAN L.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75202",
+	"amount":100000
+},
+{
+	"name":"KENDRICK, RANDY",
+	"city":"PARADISE VALLEY",
+	"state":"AZ",
+	"zip":"85253",
+	"amount":100000
+},
+{
+	"name":"AMERICAN HEALTHWORKS, LLC",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"33316",
+	"amount":50000
+},
+{
+	"name":"MARGOLIS, RICHARD A.",
+	"city":"MALIBU",
+	"state":"CA",
+	"zip":"90265",
+	"amount":50000
+},
+{
+	"name":"ARNOTT, ROBERT D.",
+	"city":"NEWPORT BEACH",
+	"state":"CA",
+	"zip":"926608038",
+	"amount":50000
+},
+{
+	"name":"SEAY, GEORGE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75201",
+	"amount":50000
+},
+{
+	"name":"LION FINANCIAL, LLC",
+	"city":"MIAMI BEACH",
+	"state":"FL",
+	"zip":"33140",
+	"amount":50000
+},
+{
+	"name":"NORTH CYPRESS MEDICAL CTR. OPER. CO., LTD.",
+	"city":"CYPRESS",
+	"state":"TX",
+	"zip":"77429",
+	"amount":50000
+},
+{
+	"name":"SWEZY, LEWIS",
+	"city":"MIAMI LAKES",
+	"state":"FL",
+	"zip":"33016",
+	"amount":50000
+},
+{
+	"name":"HERTOG, ROGER",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10151",
+	"amount":50000
+},
+{
+	"name":"ZIPPER, JEFFREY A.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"33496",
+	"amount":50000
+},
+{
+	"name":"CITIZENS FIRST",
+	"city":"JUPITER",
+	"state":"FL",
+	"zip":"33458",
+	"amount":40000
+},
+{
+	"name":"AMERICAN DIALOGUE",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"33433",
+	"amount":30000
+},
+{
+	"name":"HAINES, JEFFREY R.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90049",
+	"amount":30000
+},
+{
+	"name":"WENGER, EDWARD",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"33432",
+	"amount":30000
+},
+{
+	"name":"FREE SPEECH PAC",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334072032",
+	"amount":30000
+},
+{
+	"name":"IN FLIGHT LEASING GROUP, LLC",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"33179",
+	"amount":25000
+},
+{
+	"name":"MEUCHADIM OF FLORIDA, LTD.",
+	"city":"HOLLYWOOD",
+	"state":"FL",
+	"zip":"33024",
+	"amount":25000
+},
+{
+	"name":"JORDAN, DARLENE",
+	"city":"PALM BEACH",
+	"state":"FL",
+	"zip":"33480",
+	"amount":25000
+},
+{
+	"name":"TITAN FARMS, INC.",
+	"city":"RIDGE SPRING",
+	"state":"SC",
+	"zip":"29129",
+	"amount":25000
+},
+{
+	"name":"KATZ, EZRA",
+	"city":"COCONUT GROVE",
+	"state":"FL",
+	"zip":"331335468",
+	"amount":25000
+},
+{
+	"name":"DIENER, ROBERT",
+	"city":"INDIAN CREEK VILLAGE",
+	"state":"FL",
+	"zip":"33154",
+	"amount":25000
+},
+{
+	"name":"PEREZ, WILLIAM D.",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"60610",
+	"amount":25000
+},
+{
+	"name":"RICE, GLENN",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"33301",
+	"amount":25000
+},
+{
+	"name":"ALVAREZ, MAXIMO",
+	"city":"DORAL",
+	"state":"FL",
+	"zip":"33172",
+	"amount":25000
+},
+{
+	"name":"SHAPIRO, JERI",
+	"city":"SHERMAN OAKS",
+	"state":"CA",
+	"zip":"91423",
+	"amount":25000
+},
+{
+	"name":"TRT HOLDINGS, INC.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75219",
+	"amount":25000
+},
+{
+	"name":"STANARD, JAMES",
+	"city":"CHATHAM",
+	"state":"NJ",
+	"zip":"079281623",
+	"amount":25000
+},
+{
+	"name":"WACHTELL, ESTHERS.",
+	"city":"OJAI",
+	"state":"CA",
+	"zip":"930239406",
+	"amount":25000
+},
+{
+	"name":"TRUMP, JULIUS",
+	"city":"WILLIAMS ISLAND",
+	"state":"FL",
+	"zip":"33160",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00575423",
+	"name":"KEEP THE PROMISE III",
+	"city":"AUSTIN",
+	"state":"TX",
+	"zip":"787092225",
+	"type":"O",
+	"affiliation":92,
+	"association":"Ted Cruz",
+	"funds":15000000,
+	"contributors": [
+{
+	"name":"WILKS, JO ANN",
+	"city":"CISCO",
+	"state":"TX",
+	"zip":"76437",
+	"amount":5000000
+},
+{
+	"name":"WILKS, FARRIS",
+	"city":"CISCO",
+	"state":"TX",
+	"zip":"76437",
+	"amount":5000000
+},
+{
+	"name":"WILKS, DANIEL",
+	"city":"CISCO",
+	"state":"TX",
+	"zip":"76437",
+	"amount":2500000
+},
+{
+	"name":"WILKS, STACI",
+	"city":"CISCO",
+	"state":"TX",
+	"zip":"76437",
+	"amount":2500000
+}
+	]
+},
+{
+	"id":"C00573055",
+	"name":"AMERICA LEADS",
+	"city":"ALEXANDRIA",
+	"state":"VA",
+	"zip":"22313",
+	"type":"O",
+	"affiliation":75,
+	"association":"Chris Christie",
+	"funds":11003304,
+	"contributors": [
+{
+	"name":"COHEN, ALEXANDRA MARIE",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"06831",
+	"amount":1000000
+},
+{
+	"name":"WINECUP-GAMBLE, INC.",
+	"city":"MONTELLO",
+	"state":"NV",
+	"zip":"89830",
+	"amount":1000000
+},
+{
+	"name":"COHEN, STEVEN A.",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"06831",
+	"amount":1000000
+},
+{
+	"name":"GILBERT, DANIEL",
+	"city":"DETROIT",
+	"state":"MI",
+	"zip":"48226",
+	"amount":750000
+},
+{
+	"name":"MIGNONE, ROBERTO",
+	"city":"YONKERS",
+	"state":"NY",
+	"zip":"10708",
+	"amount":500000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":383000
+},
+{
+	"name":"HILL, AL G. JR.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75205",
+	"amount":250000
+},
+{
+	"name":"ANGELO, JOHN M.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10167",
+	"amount":250000
+},
+{
+	"name":"PUBLIC SERVICE ENTERPRISE GROUP",
+	"city":"NEWARK",
+	"state":"NJ",
+	"zip":"07101",
+	"amount":250000
+},
+{
+	"name":"LANGONE, KENNETH G.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10152",
+	"amount":250000
+},
+{
+	"name":"BUCKLEY, WALTER W. JR.",
+	"city":"BETHLEHEM",
+	"state":"PA",
+	"zip":"18015",
+	"amount":250000
+},
+{
+	"name":"MCMAHON, LINDA",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"068312739",
+	"amount":250000
+},
+{
+	"name":"SINQUEFIELD, REX A.",
+	"city":"ST LOUIS",
+	"state":"MO",
+	"zip":"63108",
+	"amount":250000
+},
+{
+	"name":"GANZI, VICTOR F.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":250000
+},
+{
+	"name":"RAPIER, GEORGE M. III",
+	"city":"SAN ANTONIO",
+	"state":"TX",
+	"zip":"78212",
+	"amount":250000
+},
+{
+	"name":"COMPLETE MEDICAL PROJECT MANAGEMENT LLC",
+	"city":"PARK RIDGE",
+	"state":"NJ",
+	"zip":"07656",
+	"amount":250000
+},
+{
+	"name":"FOX, JEFF",
+	"city":"ST. LOUIS",
+	"state":"MO",
+	"zip":"63105",
+	"amount":200000
+},
+{
+	"name":"ETC CAPITAL, LLC",
+	"city":"FARMINGTON HILLS",
+	"state":"MI",
+	"zip":"48331",
+	"amount":150000
+},
+{
+	"name":"BUCKELEW, JOSEPH",
+	"city":"TOMS RIVER",
+	"state":"NJ",
+	"zip":"08754",
+	"amount":150000
+},
+{
+	"name":"SIEGEL, HERBERT J.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214370",
+	"amount":150000
+},
+{
+	"name":"WENTWORTH, FRANCIS X JR.",
+	"city":"MORRISTOWN",
+	"state":"NJ",
+	"zip":"07960",
+	"amount":125000
+},
+{
+	"name":"KOVNER, BRUCE",
+	"city":"HOBE SOUND",
+	"state":"FL",
+	"zip":"33455",
+	"amount":100304
+},
+{
+	"name":"WILPON, FRED",
+	"city":"LOCUST VALLEY",
+	"state":"NY",
+	"zip":"11560",
+	"amount":100000
+},
+{
+	"name":"FERREIRA CONSTRUCTION CO. INC.",
+	"city":"BRANCHBURG",
+	"state":"NJ",
+	"zip":"08876",
+	"amount":100000
+},
+{
+	"name":"KLARMAN, SETH A.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"02117",
+	"amount":100000
+},
+{
+	"name":"HUGIN, ROBERT J.",
+	"city":"SUMMIT",
+	"state":"NJ",
+	"zip":"07901",
+	"amount":100000
+},
+{
+	"name":"BUSCH, AUGUST A. III",
+	"city":"ST PETERS",
+	"state":"MO",
+	"zip":"633764320",
+	"amount":100000
+},
+{
+	"name":"CINQUE, MARC",
+	"city":"NORTH CALDWELL",
+	"state":"NJ",
+	"zip":"07006",
+	"amount":100000
+},
+{
+	"name":"THE FIDELCO GROUP",
+	"city":"MILBURN",
+	"state":"NJ",
+	"zip":"07041",
+	"amount":100000
+},
+{
+	"name":"FRANKLIN, MARTIN E.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"33126",
+	"amount":100000
+},
+{
+	"name":"PONTORIERO, JOSEPH",
+	"city":"GREENWICH",
+	"state":"CT",
+	"zip":"06830",
+	"amount":100000
+},
+{
+	"name":"DRUCKENMILLER, STANLEY F.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":100000
+},
+{
+	"name":"SORENSEN SIEGEL, JEANNE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10022",
+	"amount":100000
+},
+{
+	"name":"BUCKLEY, MARJORIE B.",
+	"city":"BETHLEHEM",
+	"state":"PA",
+	"zip":"18015",
+	"amount":100000
+},
+{
+	"name":"CHRISTIE, TODD J.",
+	"city":"MENDHAM",
+	"state":"NJ",
+	"zip":"07945",
+	"amount":100000
+},
+{
+	"name":"HMP DESTINATION PROPERTIES LLC",
+	"city":"MORRISTOWN",
+	"state":"NJ",
+	"zip":"07069",
+	"amount":100000
+},
+{
+	"name":"DEGEORGE, LAWRENCE F.",
+	"city":"JUPITER",
+	"state":"FL",
+	"zip":"33477",
+	"amount":100000
+},
+{
+	"name":"WHITMAN, MARGARET C.",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"94027",
+	"amount":100000
+},
+{
+	"name":"O'TOOLE FERNANDEZ WEINER VAN LIEU LLC",
+	"city":"VERONA",
+	"state":"NJ",
+	"zip":"07044",
+	"amount":100000
+},
+{
+	"name":"STACHENFELD, BRUCE",
+	"city":"CHATHAM",
+	"state":"NJ",
+	"zip":"07928",
+	"amount":50000
+},
+{
+	"name":"SAKER, RICHARD J.",
+	"city":"RED BANK",
+	"state":"NJ",
+	"zip":"07701",
+	"amount":50000
+},
+{
+	"name":"GUREGHIAN, VAHAN H.",
+	"city":"GLADWYNE",
+	"state":"PA",
+	"zip":"19035",
+	"amount":50000
+},
+{
+	"name":"AMERICAN PILE & FOUNDATION, LLC",
+	"city":"SOMERVILLE",
+	"state":"NJ",
+	"zip":"08876",
+	"amount":50000
+},
+{
+	"name":"SAUNDERS, BRENTON",
+	"city":"FAR HILLS",
+	"state":"NJ",
+	"zip":"07931",
+	"amount":50000
+},
+{
+	"name":"CAYRE, JOE",
+	"city":"DEAL",
+	"state":"NJ",
+	"zip":"07723",
+	"amount":50000
+},
+{
+	"name":"CROW, HOWARD D.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75219",
+	"amount":50000
+},
+{
+	"name":"KOTICK, ROBERT",
+	"city":"SANTA MONICA",
+	"state":"CA",
+	"zip":"90405",
+	"amount":50000
+},
+{
+	"name":"PORT, JASON H.",
+	"city":"AVENTURA",
+	"state":"FL",
+	"zip":"33180",
+	"amount":50000
+},
+{
+	"name":"STEPHENS, WARREN",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72201",
+	"amount":50000
+},
+{
+	"name":"HOLT LOGISTICS CORP.",
+	"city":"GLOUCESTER CITY",
+	"state":"NJ",
+	"zip":"08030",
+	"amount":50000
+},
+{
+	"name":"PUBLIC STRATEGIES IMPACT LLC",
+	"city":"TRENTON",
+	"state":"NJ",
+	"zip":"08611",
+	"amount":50000
+},
+{
+	"name":"MICHAELS, JEFFREY T.",
+	"city":"HILLSBOROUGH",
+	"state":"NJ",
+	"zip":"08844",
+	"amount":35000
+},
+{
+	"name":"NEEDLEMAN, HOWARD E.",
+	"city":"CHERRY HILL",
+	"state":"NJ",
+	"zip":"08034",
+	"amount":35000
+},
+{
+	"name":"LIBERTY NATURAL GAS LLC",
+	"city":"JERSEY CITY",
+	"state":"NJ",
+	"zip":"07302",
+	"amount":25000
+},
+{
+	"name":"LANGER TRANSPORT CORP.",
+	"city":"JERSEY CITY",
+	"state":"NJ",
+	"zip":"07305",
+	"amount":25000
+},
+{
+	"name":"IBEW LOCAL UNION 351",
+	"city":"HAMMONTON",
+	"state":"NJ",
+	"zip":"08037",
+	"amount":25000
+},
+{
+	"name":"FERREIRA, ANTONIO",
+	"city":"BRANCHBURG",
+	"state":"NJ",
+	"zip":"08876",
+	"amount":25000
+},
+{
+	"name":"CAPEHART & SCATCHARD, PA",
+	"city":"MT LAUREL",
+	"state":"NJ",
+	"zip":"08054",
+	"amount":25000
+},
+{
+	"name":"SILLS, CUMMIS & GROSS P.C.",
+	"city":"NEWARK",
+	"state":"NJ",
+	"zip":"07102",
+	"amount":25000
+},
+{
+	"name":"ANDERSON JACKSON METTS, INC.",
+	"city":"MT. LAUREL",
+	"state":"NJ",
+	"zip":"08054",
+	"amount":25000
+},
+{
+	"name":"KELLOGG, PETER R.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10005",
+	"amount":25000
+},
+{
+	"name":"HERRO, DAVID",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"60610",
+	"amount":25000
+},
+{
+	"name":"VANGUARD ENERGY PARTNERS LLC",
+	"city":"BRANCHBURG",
+	"state":"NJ",
+	"zip":"08876",
+	"amount":25000
+},
+{
+	"name":"PATEL, TUSHAR B.",
+	"city":"NEWPORT COAST",
+	"state":"CA",
+	"zip":"92657",
+	"amount":25000
+},
+{
+	"name":"WYNN, STEPHEN A.",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"89109",
+	"amount":25000
+},
+{
+	"name":"ANDERSON, DWIGHT",
+	"city":"GARDEN CITY",
+	"state":"NY",
+	"zip":"11530",
+	"amount":25000
+},
+{
+	"name":"BROWN, ANNA L.",
+	"city":"BARRINGTON HILLS",
+	"state":"IL",
+	"zip":"60010",
+	"amount":25000
+},
+{
+	"name":"CHERA, STANLEY I.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10153",
+	"amount":25000
+},
+{
+	"name":"REMINGTON, VERNICK & ARANGO ENGINEERS, INC.",
+	"city":"CINNAMINSON",
+	"state":"NJ",
+	"zip":"08077",
+	"amount":25000
+},
+{
+	"name":"PATEL, CHIRAG",
+	"city":"PINE BROOK",
+	"state":"NJ",
+	"zip":"07058",
+	"amount":25000
+},
+{
+	"name":"STEWARD, DAVID L.",
+	"city":"MARYLAND HEIGHTS",
+	"state":"MO",
+	"zip":"63043",
+	"amount":25000
+},
+{
+	"name":"GEORGE HARMS CONSTRUCTION CO., INC.",
+	"city":"FARMINGDALE",
+	"state":"NJ",
+	"zip":"07727",
+	"amount":25000
+},
+{
+	"name":"HOLMES, STEPHEN P.",
+	"city":"POMPTON LAKES",
+	"state":"NJ",
+	"zip":"07444",
+	"amount":25000
+},
+{
+	"name":"O'NEILL PROPERTIES GROUP, INC.",
+	"city":"KING OF PRUSSIA",
+	"state":"PA",
+	"zip":"19406",
+	"amount":25000
+},
+{
+	"name":"BRADBURY, CURTIS F.",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72207",
+	"amount":25000
+},
+{
+	"name":"MCELROY, DEUTSCH, MULVANEY, & CARPENTER LLP",
+	"city":"MORRISTOWN",
+	"state":"NJ",
+	"zip":"07962",
+	"amount":25000
+},
+{
+	"name":"PENNONI ASSOCIATES INC.",
+	"city":"PHILADELPHIA",
+	"state":"PA",
+	"zip":"19104",
+	"amount":25000
+},
+{
+	"name":"O'CONNOR, DAVID P.",
+	"city":"WESTFIELD",
+	"state":"NJ",
+	"zip":"07090",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00575431",
+	"name":"KEEP THE PROMISE II",
+	"city":"AUSTIN",
+	"state":"TX",
+	"zip":"787092225",
+	"type":"O",
+	"affiliation":92,
+	"association":"Ted Cruz",
+	"funds":10000000,
+	"contributors": [
+{
+	"name":"NEUGEBAUER, TOBY",
+	"city":"DORADO",
+	"state":"PR",
+	"zip":"00646",
+	"amount":10000000
+}
+	]
+},
+{
+	"id":"C00580092",
+	"name":"OPPORTUNITY AND FREEDOM I",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20006",
+	"type":"O",
+	"affiliation":83,
+	"association":"Rick Perry",
+	"funds":10000000,
+	"contributors": [
+{
+	"name":"WARREN, KELCY L.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75219",
+	"amount":5000000
+},
+{
+	"name":"DEASON, DARWIN",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75225",
+	"amount":5000000
+}
+	]
+},
+{
+	"id":"C00547349",
+	"name":"NEXTGEN CLIMATE ACTION COMMITTEE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20005",
+	"type":"O",
+	"affiliation":10,
+	"association":"Environmental Advocacy",
+	"funds":5230166,
+	"contributors": [
+{
+	"name":"STEYER, THOMAS F.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941049007",
+	"amount":5000000
+},
+{
+	"name":"NEXTGEN CLIMATE ACTION COMMITTEE - MICHIGAN",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200053960",
+	"amount":157414
+},
+{
+	"name":"NEXTGEN CLIMATE ACTION COMMITTEE-MAINE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200053960",
+	"amount":49843
+}
+	]
+},
+{
+	"id":"C00492140",
+	"name":"AMERICAN BRIDGE 21ST CENTURY",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20001",
+	"type":"O",
+	"affiliation":15,
+	"association":"Liberal Attack Ads",
+	"funds":5028800,
+	"contributors": [
+{
+	"name":"SOROS, GEORGE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101060001",
+	"amount":1000000
+},
+{
+	"name":"BUELL, SUSIE T.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"94129",
+	"amount":400000
+},
+{
+	"name":"EGERMAN, PAUL",
+	"city":"WESTON",
+	"state":"MA",
+	"zip":"02493",
+	"amount":350000
+},
+{
+	"name":"HEISING, MARK",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940276456",
+	"amount":250000
+},
+{
+	"name":"RAGON, PHILLIP T.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"02108",
+	"amount":250000
+},
+{
+	"name":"NEXTGEN CLIMATE ACTION COMMITTEE-MAINE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200053960",
+	"amount":250000
+},
+{
+	"name":"SILBERSTEIN, STEPHEN",
+	"city":"BELVEDERE",
+	"state":"CA",
+	"zip":"94920",
+	"amount":200000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":131300
+},
+{
+	"name":"STIEFEL, BARBARA A.",
+	"city":"MIAMI",
+	"state":"FL",
+	"zip":"33134",
+	"amount":125000
+},
+{
+	"name":"FOWLER, AMY GOLDMAN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10065",
+	"amount":125000
+},
+{
+	"name":"BERGER, DANIEL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10007",
+	"amount":125000
+},
+{
+	"name":"HAGEN, TOM B",
+	"city":"ERIE",
+	"state":"PA",
+	"zip":"16506",
+	"amount":100000
+},
+{
+	"name":"LEE, BARBARA F.",
+	"city":"CAMBRIDGE",
+	"state":"MA",
+	"zip":"021385752",
+	"amount":100000
+},
+{
+	"name":"GREENLEAF TRUST",
+	"city":"KALAMAZOO",
+	"state":"MI",
+	"zip":"49007",
+	"amount":100000
+},
+{
+	"name":"LEWIS, DANIEL",
+	"city":"CORAL GABLES",
+	"state":"FL",
+	"zip":"33146",
+	"amount":100000
+},
+{
+	"name":"SEIU COPE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20036",
+	"amount":100000
+},
+{
+	"name":"WORKERS' VOICE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20006",
+	"amount":100000
+},
+{
+	"name":"VAN AMERINGEN, HENRY",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10022",
+	"amount":100000
+},
+{
+	"name":"DESJARDINS, DAVID L.",
+	"city":"BURLINGAME",
+	"state":"CA",
+	"zip":"94010",
+	"amount":100000
+},
+{
+	"name":"NATIONAL EDUCATION ASSOCIATION",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20036",
+	"amount":100000
+},
+{
+	"name":"WALLACE, HENRY S.",
+	"city":"BETHESDA",
+	"state":"MD",
+	"zip":"20817",
+	"amount":100000
+},
+{
+	"name":"JORDAN, WAYNE D.",
+	"city":"OAKLAND",
+	"state":"CA",
+	"zip":"94612",
+	"amount":100000
+},
+{
+	"name":"AMERICAN FEDERATION OF STATE, COUNTY & MUNICIPAL EMPLOYEES",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20036",
+	"amount":100000
+},
+{
+	"name":"STRAUS, SANDOR",
+	"city":"LAFAYETTE",
+	"state":"CA",
+	"zip":"945491811",
+	"amount":100000
+},
+{
+	"name":"FIKES, LEE",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75201",
+	"amount":75000
+},
+{
+	"name":"LITTLE, WILL",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10128",
+	"amount":62500
+},
+{
+	"name":"GURAL, JEFFREY",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100175525",
+	"amount":50000
+},
+{
+	"name":"MARCUS, GEORGE M.",
+	"city":"PALO ALTO",
+	"state":"CA",
+	"zip":"94304",
+	"amount":50000
+},
+{
+	"name":"WINOGRAD, TERRY",
+	"city":"STANFORD",
+	"state":"CA",
+	"zip":"94305",
+	"amount":50000
+},
+{
+	"name":"MULLEN, DONALD R. JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100235961",
+	"amount":50000
+},
+{
+	"name":"AMERICAN ASSOCIATION FOR JUSTICE PAC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20001",
+	"amount":50000
+},
+{
+	"name":"ROTH, LARRY",
+	"city":"MELVILLE",
+	"state":"NY",
+	"zip":"11747",
+	"amount":35000
+},
+{
+	"name":"KOUNALAKIS, ELENI",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"94115",
+	"amount":25000
+},
+{
+	"name":"FAULKNER, SARAH D. K.",
+	"city":"LOOKOUT MOUNTAIN",
+	"state":"TN",
+	"zip":"37350",
+	"amount":25000
+},
+{
+	"name":"CORNFELD, ARTHUR",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":25000
+},
+{
+	"name":"ROBERTSON, SANFORD",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"94109",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00571703",
+	"name":"SENATE LEADERSHIP FUND",
+	"city":"WARRENTON",
+	"state":"VA",
+	"zip":"20186",
+	"type":"O",
+	"affiliation":85,
+	"association":"Republican Senators",
+	"funds":4923500,
+	"contributors": [
+{
+	"name":"MARCUS, BERNARD",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303272306",
+	"amount":1000000
+},
+{
+	"name":"MCNAIR, ROBERT C. SR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77054",
+	"amount":1000000
+},
+{
+	"name":"SINGER, PAUL E.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":1000000
+},
+{
+	"name":"SCHWARZMANN, STEPHEN A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10154",
+	"amount":500000
+},
+{
+	"name":"NEXTERA ENERGY",
+	"city":"JUNO BEACH",
+	"state":"FL",
+	"zip":"33408",
+	"amount":250000
+},
+{
+	"name":"FLORES, JAMES",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"772511083",
+	"amount":100000
+},
+{
+	"name":"KANEB, JOHN A.",
+	"city":"LYNNFIELD",
+	"state":"MA",
+	"zip":"019402682",
+	"amount":100000
+},
+{
+	"name":"CARSON, RUSSELL L",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10022",
+	"amount":100000
+},
+{
+	"name":"MCINERNEY, THOMAS E",
+	"city":"WESTPORT",
+	"state":"CT",
+	"zip":"06880",
+	"amount":100000
+},
+{
+	"name":"NAU, JOHN L. III",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"772190130",
+	"amount":100000
+},
+{
+	"name":"SMITH, THOMAS W.",
+	"city":"BOCA RATON",
+	"state":"FL",
+	"zip":"334317453",
+	"amount":100000
+},
+{
+	"name":"CHILDS, JOHN",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"32963",
+	"amount":100000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":98500
+},
+{
+	"name":"AMERICAN CROSSROADS",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20043",
+	"amount":50000
+},
+{
+	"name":"KINDER, NANCY",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770191301",
+	"amount":50000
+},
+{
+	"name":"KENTUCKIANS FOR STRONG LEADERSHIP",
+	"city":"LOUISVILLE",
+	"state":"KY",
+	"zip":"40257",
+	"amount":50000
+},
+{
+	"name":"PATTERSON, JAMES A.",
+	"city":"WEST PALM BEACH",
+	"state":"FL",
+	"zip":"334014026",
+	"amount":50000
+},
+{
+	"name":"FRALIN, W. HEYWOOD",
+	"city":"ROANOKE",
+	"state":"VA",
+	"zip":"240180796",
+	"amount":50000
+},
+{
+	"name":"COX, HOWARD",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"021093605",
+	"amount":50000
+},
+{
+	"name":"BERMAN, WAYNE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200083613",
+	"amount":25000
+},
+{
+	"name":"FAISON, JAY W",
+	"city":"CHARLOTTE",
+	"state":"NC",
+	"zip":"28204",
+	"amount":25000
+},
+{
+	"name":"HILL III, JAMES TOMLINSON",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10154",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00571711",
+	"name":"BELIEVE AGAIN",
+	"city":"ALEXANDRIA",
+	"state":"VA",
+	"zip":"22314",
+	"type":"O",
+	"affiliation":85,
+	"association":"Bobby Jindal",
+	"funds":3685324,
+	"contributors": [
+{
+	"name":"CHOUEST, GARY",
+	"city":"GALLIANO",
+	"state":"LA",
+	"zip":"703540310",
+	"amount":1000000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":360376
+},
+{
+	"name":"KROHN, TRACY W.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770460908",
+	"amount":250000
+},
+{
+	"name":"MERCER, ROBERT",
+	"city":"EAST SETAUKET",
+	"state":"NY",
+	"zip":"11733",
+	"amount":250000
+},
+{
+	"name":"AIR MED SERVICES",
+	"city":"LAFAYETTE",
+	"state":"LA",
+	"zip":"705014705",
+	"amount":174748
+},
+{
+	"name":"ISAAC, PAUL J.",
+	"city":"LARCHMONT",
+	"state":"NY",
+	"zip":"105383634",
+	"amount":100000
+},
+{
+	"name":"ETC CAPITAL LLC",
+	"city":"FARMINGTON HILLS",
+	"state":"MI",
+	"zip":"48331",
+	"amount":100000
+},
+{
+	"name":"MCNA HEALTH CARE HOLDINGS",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"33309",
+	"amount":100000
+},
+{
+	"name":"BOLLINGER, DONALD",
+	"city":"HOUMA",
+	"state":"LA",
+	"zip":"703614097",
+	"amount":100000
+},
+{
+	"name":"COPART",
+	"city":"FAIRFIELD",
+	"state":"CA",
+	"zip":"94534",
+	"amount":100000
+},
+{
+	"name":"JOHNSON, WILLIS J.",
+	"city":"FRANKLIN",
+	"state":"TN",
+	"zip":"370696310",
+	"amount":100000
+},
+{
+	"name":"CANDIES, OTTO JR.",
+	"city":"DES ALLEMANDS",
+	"state":"LA",
+	"zip":"700300025",
+	"amount":100000
+},
+{
+	"name":"CELTIC MARINE",
+	"city":"BATON ROUGE",
+	"state":"LA",
+	"zip":"70816",
+	"amount":50000
+},
+{
+	"name":"CENTRAL MANAGEMENT COMPANY LLC",
+	"city":"WINNFIELD",
+	"state":"LA",
+	"zip":"714831438",
+	"amount":50000
+},
+{
+	"name":"LEVY, EDWARD C. JR.",
+	"city":"BIRMINGHAM",
+	"state":"MI",
+	"zip":"480093730",
+	"amount":50000
+},
+{
+	"name":"KOHLER, MARY S.",
+	"city":"SHEBOYGAN",
+	"state":"WI",
+	"zip":"530820897",
+	"amount":50000
+},
+{
+	"name":"TAYLOR, PHYLLIS",
+	"city":"NEW ORLEANS",
+	"state":"LA",
+	"zip":"701303931",
+	"amount":50000
+},
+{
+	"name":"EASTERN SEABOARD INC.",
+	"city":"BRADFORD",
+	"state":"PA",
+	"zip":"167016506",
+	"amount":50000
+},
+{
+	"name":"KOHLER, TERRY J.",
+	"city":"SHEBOYGAN",
+	"state":"WI",
+	"zip":"530814629",
+	"amount":50000
+},
+{
+	"name":"JAMES, VIRGINIA",
+	"city":"LAMBERTVILLE",
+	"state":"NJ",
+	"zip":"085300060",
+	"amount":50000
+},
+{
+	"name":"DUCHOSSOIS, RICHARD L.",
+	"city":"BARRINGTON",
+	"state":"IL",
+	"zip":"600109636",
+	"amount":50000
+},
+{
+	"name":"COOPER/T SMITH CORPORATION",
+	"city":"MOBILE",
+	"state":"AL",
+	"zip":"36633",
+	"amount":50000
+},
+{
+	"name":"RUSTON AVIATION",
+	"city":"RUSTON",
+	"state":"LA",
+	"zip":"712708838",
+	"amount":25200
+},
+{
+	"name":"DAVIE, CLIFFORD M.",
+	"city":"DEERFIELD BEACH",
+	"state":"FL",
+	"zip":"334414146",
+	"amount":25000
+},
+{
+	"name":"ZUSCHLAG, RICHARD",
+	"city":"LAFAYETTE",
+	"state":"LA",
+	"zip":"705098000",
+	"amount":25000
+},
+{
+	"name":"MOORE, JAMES WALTER JR.",
+	"city":"MONROE",
+	"state":"LA",
+	"zip":"712012030",
+	"amount":25000
+},
+{
+	"name":"MILLER, ROBERT E.",
+	"city":"MORGAN CITY",
+	"state":"LA",
+	"zip":"703813616",
+	"amount":25000
+},
+{
+	"name":"GUEST CARE MANAGEMENT LLC",
+	"city":"SHREVEPORT",
+	"state":"LA",
+	"zip":"711055654",
+	"amount":25000
+},
+{
+	"name":"MARTIN, ROY III",
+	"city":"ALEXANDRIA",
+	"state":"LA",
+	"zip":"713012340",
+	"amount":25000
+},
+{
+	"name":"WAMPOLD, MIKE",
+	"city":"BATON ROUGE",
+	"state":"LA",
+	"zip":"708092157",
+	"amount":25000
+},
+{
+	"name":"BARRETT, RONNIE",
+	"city":"MURFREESBORO",
+	"state":"TN",
+	"zip":"371304230",
+	"amount":25000
+},
+{
+	"name":"BENSON, TOM",
+	"city":"METAIRIE",
+	"state":"LA",
+	"zip":"70003",
+	"amount":25000
+},
+{
+	"name":"HUIZENGA, J C",
+	"city":"GRAND RAPIDS",
+	"state":"MI",
+	"zip":"495123146",
+	"amount":25000
+},
+{
+	"name":"HAMER, GREGORY",
+	"city":"MORGAN CITY",
+	"state":"LA",
+	"zip":"703813608",
+	"amount":25000
+},
+{
+	"name":"CLARK, ELLOINE H.S.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752052827",
+	"amount":25000
+},
+{
+	"name":"LARGE UROLOGY GROUP PRACTICE ASSN",
+	"city":"SCHAUMBURG",
+	"state":"IL",
+	"zip":"60173",
+	"amount":25000
+},
+{
+	"name":"ANDREEFF, DANE",
+	"city":"SANTA ROSA BEACH",
+	"state":"FL",
+	"zip":"324597609",
+	"amount":25000
+},
+{
+	"name":"MADDEN CONTRACTING CO LLC",
+	"city":"MINDEN",
+	"state":"LA",
+	"zip":"710580856",
+	"amount":25000
+},
+{
+	"name":"HERTOG, ROGER",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10151",
+	"amount":25000
+},
+{
+	"name":"GRAY & COMPANY INC",
+	"city":"METAIRIE",
+	"state":"LA",
+	"zip":"700096202",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00573923",
+	"name":"PURSUING AMERICA'S GREATNESS",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72212",
+	"type":"O",
+	"affiliation":90,
+	"association":"Mike Huckabee",
+	"funds":3604000,
+	"contributors": [
+{
+	"name":"CAMERON, RONALD M",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72221",
+	"amount":3000000
+},
+{
+	"name":"HERSCHEND, SHARON",
+	"city":"BRANSON",
+	"state":"MO",
+	"zip":"65616",
+	"amount":500000
+},
+{
+	"name":"GIBSON, JON K",
+	"city":"MCCOOK",
+	"state":"NE",
+	"zip":"69001",
+	"amount":50000
+},
+{
+	"name":"MAGUIRE, CARY M",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75225",
+	"amount":50000
+}
+	]
+},
+{
+	"id":"C00573154",
+	"name":"CONSERVATIVE, AUTHENTIC, RESPONSIVE LEADERSHIP FOR YOU AND FOR AMERICA",
+	"city":"ALEXANDRIA",
+	"state":"VA",
+	"zip":"22313",
+	"type":"O",
+	"affiliation":70,
+	"association":"Carly Fiorina",
+	"funds":3378683,
+	"contributors": [
+{
+	"name":"PERENCHIO, A JERROLD",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900674613",
+	"amount":1567127
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":518556
+},
+{
+	"name":"KEEP THE PROMISE I",
+	"city":"PORT JEFFERSON STA",
+	"state":"NY",
+	"zip":"117763337",
+	"amount":500000
+},
+{
+	"name":"MUGEL, MICHAEL",
+	"city":"SANTA ANA",
+	"state":"CA",
+	"zip":"927012612",
+	"amount":100000
+},
+{
+	"name":"CLARK, ELLOINE H.S.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752052827",
+	"amount":100000
+},
+{
+	"name":"JONES, CHARLES SNOWDEN",
+	"city":"BEDFORD HILLS",
+	"state":"NY",
+	"zip":"10507",
+	"amount":100000
+},
+{
+	"name":"MUNGER, CHARLES T. JR.",
+	"city":"PALO ALTO",
+	"state":"CA",
+	"zip":"943013150",
+	"amount":100000
+},
+{
+	"name":"DAY, ROBERT",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900773005",
+	"amount":100000
+},
+{
+	"name":"BEAN, LINDA",
+	"city":"FREEPORT",
+	"state":"ME",
+	"zip":"040327129",
+	"amount":35000
+},
+{
+	"name":"SHAPIRO, ROBERT",
+	"city":"SHERMAN OAKS",
+	"state":"CA",
+	"zip":"91423",
+	"amount":33000
+},
+{
+	"name":"LYON, WILLIAM GEN.",
+	"city":"NEW PORT BEACH",
+	"state":"CA",
+	"zip":"92660",
+	"amount":25000
+},
+{
+	"name":"PERKINS, THOMAS J.",
+	"city":"PLEASANTON",
+	"state":"CA",
+	"zip":"945883106",
+	"amount":25000
+},
+{
+	"name":"SONSINI, LARRY W.",
+	"city":"WOODSIDE",
+	"state":"CA",
+	"zip":"940622559",
+	"amount":25000
+},
+{
+	"name":"WOODBRIDGE CAPITAL INVESTMENTS LLC",
+	"city":"LA",
+	"state":"CA",
+	"zip":"914232758",
+	"amount":25000
+},
+{
+	"name":"LEE, RICHARD T.",
+	"city":"ORLANDO",
+	"state":"FL",
+	"zip":"328022113",
+	"amount":25000
+},
+{
+	"name":"PERENCHIO, MARGARET A.S.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"900711532",
+	"amount":25000
+},
+{
+	"name":"SAPERSTEIN, DAVID",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770563545",
+	"amount":25000
+},
+{
+	"name":"WILSEY, DIANE B.",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"941151121",
+	"amount":25000
+},
+{
+	"name":"LIEBHERZ, PHIL",
+	"city":"SAN MATEO",
+	"state":"CA",
+	"zip":"944023768",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00532572",
+	"name":"AMERICA'S LIBERTY PAC",
+	"city":"WARRENTON",
+	"state":"VA",
+	"zip":"20186",
+	"type":"O",
+	"affiliation":65,
+	"association":"Rand Paul",
+	"funds":3117824,
+	"contributors": [
+{
+	"name":"MACRICOSTAS, GEORGE",
+	"city":"INCLINE VILLAGE",
+	"state":"NV",
+	"zip":"89451",
+	"amount":1100000
+},
+{
+	"name":"YASS, JEFF",
+	"city":"BALA CYNWYD",
+	"state":"PA",
+	"zip":"19004",
+	"amount":1000000
+},
+{
+	"name":"GARSCHINA, KENNETH M",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10003",
+	"amount":250000
+},
+{
+	"name":"ARNOTT, ROBERT",
+	"city":"CORONA DEL MAR",
+	"state":"TX",
+	"zip":"75225",
+	"amount":100000
+},
+{
+	"name":"NAJAFI, FRANCIS",
+	"city":"PHOENIX",
+	"state":"AZ",
+	"zip":"85018",
+	"amount":100000
+},
+{
+	"name":"AGLIALORO, JOHN",
+	"city":"HADDONFIELD",
+	"state":"NJ",
+	"zip":"08033",
+	"amount":84000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":73824
+},
+{
+	"name":"BYRNE, PATRICK",
+	"city":"PARK CITY",
+	"state":"UT",
+	"zip":"84098",
+	"amount":60000
+},
+{
+	"name":"BEAL, D. ANDREW",
+	"city":"PLANO",
+	"state":"TX",
+	"zip":"75024",
+	"amount":50000
+},
+{
+	"name":"MACKEY, JOHN",
+	"city":"AUSTIN",
+	"state":"TX",
+	"zip":"78703",
+	"amount":50000
+},
+{
+	"name":"KUKRAL, JOHN",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10017",
+	"amount":50000
+},
+{
+	"name":"JOST, PAUL",
+	"city":"MIAMI BEACH",
+	"state":"FL",
+	"zip":"33139",
+	"amount":50000
+},
+{
+	"name":"HUFFINES, PHILIP",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75205",
+	"amount":25000
+},
+{
+	"name":"HUFFNIES, DONALD",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75225",
+	"amount":25000
+},
+{
+	"name":"SCHIFF, PETER",
+	"city":"WESTPORT",
+	"state":"CT",
+	"zip":"06880",
+	"amount":25000
+},
+{
+	"name":"RAVIKANT, NAVAL",
+	"city":"SAN FRANCISCO",
+	"state":"CA",
+	"zip":"94108",
+	"amount":25000
+},
+{
+	"name":"COOK, LEE",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77036",
+	"amount":25000
+},
+{
+	"name":"RUFER, CHRIS",
+	"city":"WOODLAND",
+	"state":"CA",
+	"zip":"95695",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00573733",
+	"name":"SECURITY IS STRENGTH PAC",
+	"city":"HILTON HEAD ISLAND",
+	"state":"SC",
+	"zip":"29926",
+	"type":"O",
+	"affiliation":80,
+	"association":"Lindesy Graham",
+	"funds":2896675,
+	"contributors": [
+{
+	"name":"MCNAIR, ROBERT C. SR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77054",
+	"amount":500000
+},
+{
+	"name":"PERELMAN, RONALD O.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10065",
+	"amount":500000
+},
+{
+	"name":"ACCESS INDUSTRIES, INC.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":500000
+},
+{
+	"name":"FORD, SCOTT T.",
+	"city":"LITTLE ROCK",
+	"state":"AR",
+	"zip":"72211",
+	"amount":250000
+},
+{
+	"name":"JACOBSON, JONATHON S.",
+	"city":"WAYLAND",
+	"state":"MA",
+	"zip":"01778",
+	"amount":250000
+},
+{
+	"name":"WEST MAIN STREET VALUE PAC INC.",
+	"city":"LEXINGTON",
+	"state":"SC",
+	"zip":"29071",
+	"amount":200000
+},
+{
+	"name":"HERTOG, ROGER",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10151",
+	"amount":100000
+},
+{
+	"name":"BLOOM, BRADLEY M.",
+	"city":"WELLESLEY",
+	"state":"MA",
+	"zip":"02481",
+	"amount":100000
+},
+{
+	"name":"FAISON, JAY W",
+	"city":"CHARLOTTE",
+	"state":"NC",
+	"zip":"28204",
+	"amount":99975
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":91700
+},
+{
+	"name":"JOHNSON, GEORGE DEAN JR.",
+	"city":"SPARTANBURG",
+	"state":"SC",
+	"zip":"29304",
+	"amount":50000
+},
+{
+	"name":"JONAS, HOWARD",
+	"city":"BRONX",
+	"state":"NY",
+	"zip":"10463",
+	"amount":50000
+},
+{
+	"name":"WENDT, GREGORY W.",
+	"city":"SAN FRANSISCO",
+	"state":"CA",
+	"zip":"94105",
+	"amount":50000
+},
+{
+	"name":"RHEUMATOLOGY DIAGNOSTICS LAB., INC.",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90034",
+	"amount":30000
+},
+{
+	"name":"CUTLER, THEODORE H.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"02116",
+	"amount":25000
+},
+{
+	"name":"REAUD, REAGAN",
+	"city":"AUSTIN",
+	"state":"TX",
+	"zip":"78701",
+	"amount":25000
+},
+{
+	"name":"WINN, ARTHUR M.",
+	"city":"BOSTON",
+	"state":"MA",
+	"zip":"02109",
+	"amount":25000
+},
+{
+	"name":"IMMELT, JEFFREY R.",
+	"city":"NEW CANAAN",
+	"state":"CT",
+	"zip":"06840",
+	"amount":25000
+},
+{
+	"name":"SIMONS, JAMES",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10010",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00573634",
+	"name":"OPPORTUNITY AND FREEDOM PAC",
+	"city":"AUSTIN",
+	"state":"TX",
+	"zip":"78734",
+	"type":"O",
+	"affiliation":83,
+	"association":"Rick Perry",
+	"funds":2815000,
+	"contributors": [
+{
+	"name":"WARREN, KELCY L.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75219",
+	"amount":1000000
+},
+{
+	"name":"HOLT, PETER M.",
+	"city":"BLANCO",
+	"state":"TX",
+	"zip":"78606",
+	"amount":250000
+},
+{
+	"name":"RYAN, G. BRINT",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"75380",
+	"amount":250000
+},
+{
+	"name":"HOLT, JULIANNA HAWN",
+	"city":"BLANCO",
+	"state":"TX",
+	"zip":"78606",
+	"amount":250000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":170000
+},
+{
+	"name":"MITCHELL, LEE ROY",
+	"city":"PLANO",
+	"state":"TX",
+	"zip":"75093",
+	"amount":100000
+},
+{
+	"name":"PITCOCK, JAMES D JR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77096",
+	"amount":100000
+},
+{
+	"name":"NORTH CYPRESS MEDICAL CENTER OPERATING COMPANY LTD",
+	"city":"CYPRESS",
+	"state":"TX",
+	"zip":"77429",
+	"amount":100000
+},
+{
+	"name":"TROUTT, LISAS.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752295424",
+	"amount":75000
+},
+{
+	"name":"TROUTT, KENNETH",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752295424",
+	"amount":75000
+},
+{
+	"name":"FRIEDKIN, THOMAS D.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77077",
+	"amount":60000
+},
+{
+	"name":"MCKERNAN, THOMAS V.",
+	"city":"ARCADIA",
+	"state":"CA",
+	"zip":"91006",
+	"amount":50000
+},
+{
+	"name":"TRAYLOR, MARY WEST",
+	"city":"CRYSTAL CITY",
+	"state":"TX",
+	"zip":"78839",
+	"amount":45000
+},
+{
+	"name":"PAULSON, JOHN A.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100201104",
+	"amount":45000
+},
+{
+	"name":"TRAYLOR, RICHARD C.",
+	"city":"CRYSTAL CITY",
+	"state":"TX",
+	"zip":"78839",
+	"amount":45000
+},
+{
+	"name":"ALLEN, CARLETON ALBERT",
+	"city":"ROANOKE",
+	"state":"TX",
+	"zip":"76262",
+	"amount":25000
+},
+{
+	"name":"KING, AMY",
+	"city":"MIDLAND",
+	"state":"TX",
+	"zip":"79702",
+	"amount":25000
+},
+{
+	"name":"LONG, RENEE",
+	"city":"MIDLAND",
+	"state":"TX",
+	"zip":"79702",
+	"amount":25000
+},
+{
+	"name":"SHAPIRO, ROBERT",
+	"city":"SHERMAN OAKS",
+	"state":"CA",
+	"zip":"91423",
+	"amount":25000
+},
+{
+	"name":"LONG, MICKEY",
+	"city":"MIDLAND",
+	"state":"TX",
+	"zip":"79705",
+	"amount":25000
+},
+{
+	"name":"CAMPBELL, RICK L.",
+	"city":"CENTER",
+	"state":"TX",
+	"zip":"75935",
+	"amount":25000
+},
+{
+	"name":"AUSTIN PRECISION PRODUCTS INC.",
+	"city":"LEANDER",
+	"state":"TX",
+	"zip":"78641",
+	"amount":25000
+},
+{
+	"name":"ELLIS, J. RALPH JR.",
+	"city":"IRVING",
+	"state":"TX",
+	"zip":"75062",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00525899",
+	"name":"CONCERNED AMERICAN VOTERS",
+	"city":"ALEXANDRIA",
+	"state":"VA",
+	"zip":"22314",
+	"type":"O",
+	"affiliation":65,
+	"association":"Rand Paul",
+	"funds":1879750,
+	"contributors": [
+{
+	"name":"BANISTER, SCOTT",
+	"city":"HALF MOON BAY",
+	"state":"CA",
+	"zip":"94019",
+	"amount":1250000
+},
+{
+	"name":"YASS, JEFFREY S.",
+	"city":"BALA CYNWYD",
+	"state":"PA",
+	"zip":"19004",
+	"amount":250000
+},
+{
+	"name":"YOUNG AMERICANS FOR LIBERTY INC.",
+	"city":"ARLINGTON",
+	"state":"VA",
+	"zip":"22201",
+	"amount":150000
+},
+{
+	"name":"RUFER, CHRIS",
+	"city":"WOODLAND",
+	"state":"CA",
+	"zip":"95695",
+	"amount":120000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":34750
+},
+{
+	"name":"WELSH, KERRY",
+	"city":"RANCHO PALOS VERDES",
+	"state":"CA",
+	"zip":"90275",
+	"amount":25000
+},
+{
+	"name":"LEVIN, FRAYDA",
+	"city":"MOUNTAIN LAKES",
+	"state":"NJ",
+	"zip":"07046",
+	"amount":25000
+},
+{
+	"name":"ARNOTT, ROBERT D.",
+	"city":"NEWPORT BEACH",
+	"state":"CA",
+	"zip":"926608038",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00575415",
+	"name":"KEEP THE PROMISE PAC",
+	"city":"AUSTIN",
+	"state":"TX",
+	"zip":"787092225",
+	"type":"O",
+	"affiliation":92,
+	"association":"Ted Cruz",
+	"funds":1826300,
+	"contributors": [
+{
+	"name":"MCNAIR, ROBERT C. SR.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77054",
+	"amount":500000
+},
+{
+	"name":"CHILDS, JOHN W.",
+	"city":"WALTHAM",
+	"state":"MA",
+	"zip":"02451",
+	"amount":250000
+},
+{
+	"name":"PATRICK, THOMAS",
+	"city":"NAPLES",
+	"state":"FL",
+	"zip":"34108",
+	"amount":250000
+},
+{
+	"name":"MITCHELL, LEE ROY",
+	"city":"PLANO",
+	"state":"TX",
+	"zip":"75093",
+	"amount":190000
+},
+{
+	"name":"WRIGHT, KAREN",
+	"city":"MOUNT VERNON",
+	"state":"OH",
+	"zip":"43050",
+	"amount":150000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":137500
+},
+{
+	"name":"CONTRACTING CORP, HERZOG",
+	"city":"ST. JOSEPH",
+	"state":"MO",
+	"zip":"64507",
+	"amount":50000
+},
+{
+	"name":"RESOURCES, INC., DIVERSIFIED",
+	"city":"PEPPER PIKE",
+	"state":"OH",
+	"zip":"44122",
+	"amount":50000
+},
+{
+	"name":"MONCRIEF, W.A. JR.",
+	"city":"FORT WORTH",
+	"state":"TX",
+	"zip":"76102",
+	"amount":50000
+},
+{
+	"name":"MCINGVALE, JAMES",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77056",
+	"amount":50000
+},
+{
+	"name":"MARLING, ROBERT",
+	"city":"THE WOODLANDS",
+	"state":"TX",
+	"zip":"77380",
+	"amount":50000
+},
+{
+	"name":"RESCHINI, JOSEPH",
+	"city":"INDIANA",
+	"state":"PA",
+	"zip":"15701",
+	"amount":40000
+},
+{
+	"name":"PEACOCK, DAVID",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77090",
+	"amount":33800
+},
+{
+	"name":"DEVELOPMENT, LLC, K3",
+	"city":"ANDOVER",
+	"state":"MA",
+	"zip":"01810",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00540997",
+	"name":"READY PAC",
+	"city":"MCLEAN",
+	"state":"VA",
+	"zip":"22106",
+	"type":"V",
+	"affiliation":20,
+	"association":"Hillary Clinton",
+	"funds":1821117,
+	"contributors": [
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":1057117
+},
+{
+	"name":"GOLDMAN FOWLER, AMY",
+	"city":"RHINEBECK",
+	"state":"NY",
+	"zip":"125722820",
+	"amount":250000
+},
+{
+	"name":"LEE, BARBARA F.",
+	"city":"CAMBRIDGE",
+	"state":"MA",
+	"zip":"021385752",
+	"amount":189000
+},
+{
+	"name":"CORZINE, JON",
+	"city":"NEWARK",
+	"state":"NJ",
+	"zip":"071020307",
+	"amount":50000
+},
+{
+	"name":"SHAW, DAVID E.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100364041",
+	"amount":50000
+},
+{
+	"name":"BONNER, MARY PAT",
+	"city":"FAIRFAX STATION",
+	"state":"VA",
+	"zip":"220392036",
+	"amount":25000
+},
+{
+	"name":"DISNEY, ABIGAIL",
+	"city":"BURBANK",
+	"state":"CA",
+	"zip":"915054628",
+	"amount":25000
+},
+{
+	"name":"BRONFMAN, EDGAR JR.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100101606",
+	"amount":25000
+},
+{
+	"name":"HALL, KATHRYN",
+	"city":"FRISCO",
+	"state":"TX",
+	"zip":"750348557",
+	"amount":25000
+},
+{
+	"name":"GUND, LOUISE LAIDLAW",
+	"city":"CLEVELAND",
+	"state":"OH",
+	"zip":"441141217",
+	"amount":25000
+},
+{
+	"name":"ATTWOOD, JAMES",
+	"city":"BEDFORD HILLS",
+	"state":"NY",
+	"zip":"105072411",
+	"amount":25000
+},
+{
+	"name":"SOROS, GEORGE",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"101060001",
+	"amount":25000
+},
+{
+	"name":"MSP COMMUNICATIONS",
+	"city":"MINNEAPOLIS",
+	"state":"MN",
+	"zip":"554024501",
+	"amount":25000
+},
+{
+	"name":"RUDMAN, TARA",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752017325",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00542464",
+	"name":"JOHN BOLTON SUPER PAC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20036",
+	"type":"O",
+	"affiliation":80,
+	"association":"John Bolton",
+	"funds":1552475,
+	"contributors": [
+{
+	"name":"MERCER, ROBERT LEROY",
+	"city":"ST. JAMES",
+	"state":"NY",
+	"zip":"117801113",
+	"amount":1000000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":102475
+},
+{
+	"name":"PALMER, GEOFF",
+	"city":"BEVERLY HILLS",
+	"state":"CA",
+	"zip":"902105312",
+	"amount":100000
+},
+{
+	"name":"MARCUS, BERNARD",
+	"city":"ATLANTA",
+	"state":"GA",
+	"zip":"303272306",
+	"amount":100000
+},
+{
+	"name":"CHILDS, JOHN",
+	"city":"VERO BEACH",
+	"state":"FL",
+	"zip":"32963",
+	"amount":100000
+},
+{
+	"name":"ZELL, SAM",
+	"city":"CHICAGO",
+	"state":"IL",
+	"zip":"606062627",
+	"amount":50000
+},
+{
+	"name":"KADISH, LAWRENCE",
+	"city":"OLD WESTBURY",
+	"state":"NY",
+	"zip":"115681508",
+	"amount":50000
+},
+{
+	"name":"STONE, ROGER W.",
+	"city":"NORTHBROOK",
+	"state":"IL",
+	"zip":"600624124",
+	"amount":25000
+},
+{
+	"name":"COORS, PETER H.",
+	"city":"GOLDEN",
+	"state":"CO",
+	"zip":"804011312",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00541037",
+	"name":"FUND FOR LOUISIANA'S FUTURE; THE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20004",
+	"type":"O",
+	"affiliation":80,
+	"association":"David Vitter",
+	"funds":1542836,
+	"contributors": [
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":323500
+},
+{
+	"name":"RASTIN, THOMAS",
+	"city":"MOUNT VERNON",
+	"state":"OH",
+	"zip":"43050",
+	"amount":150000
+},
+{
+	"name":"CHENIERE ENERGY, INC.",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"77002",
+	"amount":100000
+},
+{
+	"name":"F.A. RICHARD AND ASSOCIATES",
+	"city":"MANDEVILLE",
+	"state":"LA",
+	"zip":"70471",
+	"amount":69336
+},
+{
+	"name":"BARRIERE CONSTRUCTION",
+	"city":"METAIRIE",
+	"state":"LA",
+	"zip":"70001",
+	"amount":50000
+},
+{
+	"name":"CANIZARO, JOSEPH",
+	"city":"NEW ORLEANS",
+	"state":"LA",
+	"zip":"70112",
+	"amount":50000
+},
+{
+	"name":"DORE, WILLIAM SR.",
+	"city":"LAKE CHARLES",
+	"state":"LA",
+	"zip":"70601",
+	"amount":50000
+},
+{
+	"name":"MCNA DENTAL",
+	"city":"FORT LAUDERDALE",
+	"state":"FL",
+	"zip":"33309",
+	"amount":50000
+},
+{
+	"name":"RIVERBIRCH, LLC",
+	"city":"RESERVE",
+	"state":"LA",
+	"zip":"70084",
+	"amount":50000
+},
+{
+	"name":"RISPONE, EDWARD",
+	"city":"BATON ROUGE",
+	"state":"LA",
+	"zip":"70810",
+	"amount":50000
+},
+{
+	"name":"MORRIS DICKINSON CO., LLC",
+	"city":"SHREVEPORT",
+	"state":"LA",
+	"zip":"71135",
+	"amount":50000
+},
+{
+	"name":"KOCH INDUSTRIES, INC.",
+	"city":"WICHITA",
+	"state":"KS",
+	"zip":"67220",
+	"amount":25000
+},
+{
+	"name":"BUSBICE, BILL JR.",
+	"city":"BROUSSARD",
+	"state":"LA",
+	"zip":"70518",
+	"amount":25000
+},
+{
+	"name":"MALLETT, LEE",
+	"city":"IOWA",
+	"state":"LA",
+	"zip":"70647",
+	"amount":25000
+},
+{
+	"name":"SMITH, MARY",
+	"city":"SHREVEPORT",
+	"state":"LA",
+	"zip":"71106",
+	"amount":25000
+},
+{
+	"name":"MFC, LLC",
+	"city":"SCOTT",
+	"state":"LA",
+	"zip":"70583",
+	"amount":25000
+},
+{
+	"name":"ATCO INVESTMENT COMPANY",
+	"city":"SHREVEPORT",
+	"state":"LA",
+	"zip":"71101",
+	"amount":25000
+},
+{
+	"name":"PLAISANCE, CLAY",
+	"city":"LAFAYETTE",
+	"state":"LA",
+	"zip":"70503",
+	"amount":25000
+},
+{
+	"name":"CALLAIS, COREY",
+	"city":"HOUMA",
+	"state":"LA",
+	"zip":"70360",
+	"amount":25000
+},
+{
+	"name":"CONDOS, JOHN",
+	"city":"LAKE CHARLES",
+	"state":"LA",
+	"zip":"70629",
+	"amount":25000
+},
+{
+	"name":"MY ROUSES",
+	"city":"THIBODAUX",
+	"state":"LA",
+	"zip":"70301",
+	"amount":25000
+},
+{
+	"name":"ELLSWORTH CORPORATION",
+	"city":"METAIRIE",
+	"state":"LA",
+	"zip":"70011",
+	"amount":25000
+},
+{
+	"name":"KRISPY KRUNCHY FOODS",
+	"city":"ALEXANDRIA",
+	"state":"LA",
+	"zip":"71301",
+	"amount":25000
+},
+{
+	"name":"DOMINGUEZ, EDWARD",
+	"city":"NEW IBERIA",
+	"state":"LA",
+	"zip":"70560",
+	"amount":25000
+},
+{
+	"name":"RIVERVIEW CORP.",
+	"city":"MORGAN CITY",
+	"state":"LA",
+	"zip":"70380",
+	"amount":25000
+},
+{
+	"name":"SIMPSON, MICHAEL",
+	"city":"COUSHATTA",
+	"state":"LA",
+	"zip":"71019",
+	"amount":25000
+},
+{
+	"name":"YOUNG, REX",
+	"city":"COUSHATTA",
+	"state":"LA",
+	"zip":"71019",
+	"amount":25000
+},
+{
+	"name":"WAMPOLD & COMPANY",
+	"city":"BATON ROUGE",
+	"state":"LA",
+	"zip":"70809",
+	"amount":25000
+},
+{
+	"name":"234 TERMINAL CORP.",
+	"city":"LIVINGSTON",
+	"state":"LA",
+	"zip":"70754",
+	"amount":25000
+},
+{
+	"name":"OUACHITA INDEPENDENT BANK",
+	"city":"SHREVEPORT",
+	"state":"LA",
+	"zip":"71105",
+	"amount":25000
+},
+{
+	"name":"CASON, EDGAR",
+	"city":"COUSHATTA",
+	"state":"LA",
+	"zip":"71019",
+	"amount":25000
+},
+{
+	"name":"SIETA ARRIBA, LLC",
+	"city":"COUSHATTA",
+	"state":"LA",
+	"zip":"71019",
+	"amount":25000
+},
+{
+	"name":"BRIARWOOD GROUP LLC",
+	"city":"MANSFIELD",
+	"state":"LA",
+	"zip":"71052",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00490847",
+	"name":"WORKING FOR WORKING AMERICANS - FEDERAL",
+	"city":"LAS VEGAS",
+	"state":"NV",
+	"zip":"89119",
+	"type":"O",
+	"affiliation":10,
+	"association":"Unions",
+	"funds":1507973,
+	"contributors": [
+{
+	"name":"UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20001",
+	"amount":1507973
+}
+	]
+},
+{
+	"id":"C00578997",
+	"name":"CORRECT THE RECORD",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20001",
+	"type":"V",
+	"affiliation":20,
+	"association":"Hillary Clinton",
+	"funds":1435092,
+	"contributors": [
+{
+	"name":"HILLARY FOR AMERICA",
+	"city":"BROOKLYN",
+	"state":"NY",
+	"zip":"11201",
+	"amount":275615
+},
+{
+	"name":"STRYKER, PAT",
+	"city":"FORT COLLINS",
+	"state":"CO",
+	"zip":"805242835",
+	"amount":250000
+},
+{
+	"name":"SILBERSTEIN, STEPHEN",
+	"city":"BELVEDERE",
+	"state":"CA",
+	"zip":"94920",
+	"amount":200000
+},
+{
+	"name":"LEE, BARBARA F.",
+	"city":"CAMBRIDGE",
+	"state":"MA",
+	"zip":"021385752",
+	"amount":150000
+},
+{
+	"name":"GILL, TIMOTHY",
+	"city":"DENVER",
+	"state":"CO",
+	"zip":"80206",
+	"amount":125000
+},
+{
+	"name":"GOLDMAN, MARCIA L.",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940273934",
+	"amount":125000
+},
+{
+	"name":"GOLDMAN, JOHN D",
+	"city":"ATHERTON",
+	"state":"CA",
+	"zip":"940273934",
+	"amount":125000
+},
+{
+	"name":"LEE, THOMAS H",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10153",
+	"amount":100000
+},
+{
+	"name":"COONEY, JOAN G",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10065",
+	"amount":50000
+},
+{
+	"name":"MEHIEL, DENNIS",
+	"city":"WHITE PLAINS",
+	"state":"NY",
+	"zip":"10601",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00487470",
+	"name":"CLUB FOR GROWTH ACTION",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20036",
+	"type":"O",
+	"affiliation":85,
+	"association":"Conservative Economic Policy",
+	"funds":1402000,
+	"contributors": [
+{
+	"name":"UIHLEIN, RICHARD",
+	"city":"LAKE FOREST",
+	"state":"IL",
+	"zip":"600451147",
+	"amount":500000
+},
+{
+	"name":"MERCER, ROBERT",
+	"city":"EAST SETAUKET",
+	"state":"NY",
+	"zip":"11733",
+	"amount":250000
+},
+{
+	"name":"PFEIFER, STEVEN",
+	"city":"HOUSTON",
+	"state":"TX",
+	"zip":"770562008",
+	"amount":150000
+},
+{
+	"name":"KOHLER, TERRY",
+	"city":"SHEBOYGAN",
+	"state":"WI",
+	"zip":"530820897",
+	"amount":110000
+},
+{
+	"name":"YOUNG, FRED M. JR.",
+	"city":"RACINE",
+	"state":"WI",
+	"zip":"534023819",
+	"amount":100000
+},
+{
+	"name":"ARNOTT, ROBERT D.",
+	"city":"NEWPORT BEACH",
+	"state":"CA",
+	"zip":"926608038",
+	"amount":100000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":67000
+},
+{
+	"name":"RICH, HOWARD S.",
+	"city":"PHILADELPHIA",
+	"state":"PA",
+	"zip":"191062264",
+	"amount":50000
+},
+{
+	"name":"LANGER, HARRY A.",
+	"city":"NORTHFIELD",
+	"state":"IL",
+	"zip":"600932706",
+	"amount":50000
+},
+{
+	"name":"WINTERSTEEN, JIM",
+	"city":"MILL VALLEY",
+	"state":"CA",
+	"zip":"949411023",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00495028",
+	"name":"HOUSE MAJORITY PAC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20005",
+	"type":"O",
+	"affiliation":15,
+	"association":"Democratic Congressmen",
+	"funds":1379118,
+	"contributors": [
+{
+	"name":"SUSSMAN, S. DONALD",
+	"city":"NORTH HAVEN",
+	"state":"ME",
+	"zip":"048533216",
+	"amount":500000
+},
+{
+	"name":"STRYKER, JON",
+	"city":"KALAMAZOO",
+	"state":"MI",
+	"zip":"490074713",
+	"amount":400000
+},
+{
+	"name":"SCHWARTZ, BERNARD L.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100212656",
+	"amount":250000
+},
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":104118
+},
+{
+	"name":"AIR LINE PILOTS ASSOCIATION PAC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"200362204",
+	"amount":100000
+},
+{
+	"name":"AMERICAS'S FAMILIES FIRST ACTION FUND",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20007",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00492116",
+	"name":"COOPERATIVE OF AMERICAN PHYSICIANS IE COMMITTEE",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90071",
+	"type":"O",
+	"affiliation":55,
+	"association":"Physicians",
+	"funds":1360435,
+	"contributors": [
+{
+	"name":"COOPERATIVE OF AMERICAN PHYSICIANS",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90071",
+	"amount":1310245
+},
+{
+	"name":"COOPERATIVE OF AMERICAN PHYSICIANS FEDERAL POLITICAL ACTION COMMITTEE",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90071",
+	"amount":50000
+}
+	]
+},
+{
+	"id":"C00540443",
+	"name":"AMERICANS FOR RESPONSIBLE SOLUTIONS-PAC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20003",
+	"type":"O",
+	"affiliation":10,
+	"association":"Gun Control",
+	"funds":1292715,
+	"contributors": [
+{
+	"name":"Smaller Doners (< $24000 each)",
+	"city":"Small Town",
+	"state":"US",
+	"zip":"00000",
+	"amount":657715
+},
+{
+	"name":"BALLMER, CONNIE E.",
+	"city":"HUNTS POINT",
+	"state":"WA",
+	"zip":"980041110",
+	"amount":250000
+},
+{
+	"name":"RUDIN, ERIC C.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100288031",
+	"amount":75000
+},
+{
+	"name":"SIMMONS, LISA K.",
+	"city":"DALLAS",
+	"state":"TX",
+	"zip":"752202121",
+	"amount":50000
+},
+{
+	"name":"PRADY, WILLIAM S.",
+	"city":"ENCINO",
+	"state":"CA",
+	"zip":"91436",
+	"amount":50000
+},
+{
+	"name":"MCINERNEY, J. WILLIAM",
+	"city":"PARK RIDGE",
+	"state":"IL",
+	"zip":"600684110",
+	"amount":50000
+},
+{
+	"name":"WARSCHAW, HOPE",
+	"city":"SANTA MONICA",
+	"state":"CA",
+	"zip":"90402",
+	"amount":35000
+},
+{
+	"name":"ROSS, JANET C.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"100214193",
+	"amount":25000
+},
+{
+	"name":"DONOFRIO, ANITA",
+	"city":"RIDGEFIELD",
+	"state":"CT",
+	"zip":"06877",
+	"amount":25000
+},
+{
+	"name":"CARSEY, MARCY",
+	"city":"LOS ANGELES",
+	"state":"CA",
+	"zip":"90025",
+	"amount":25000
+},
+{
+	"name":"GORFAINE, MICHAEL",
+	"city":"BURBANK",
+	"state":"CA",
+	"zip":"91505",
+	"amount":25000
+},
+{
+	"name":"LYNCH, KEVIN",
+	"city":"WOODSIDE",
+	"state":"CA",
+	"zip":"940622441",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00484287",
+	"name":"WORKERS' VOICE",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20006",
+	"type":"O",
+	"affiliation":10,
+	"association":"Unions",
+	"funds":1285000,
+	"contributors": [
+{
+	"name":"AFL-CIO COPE TREASURY",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20006",
+	"amount":1085000
+},
+{
+	"name":"AMERICAN FEDERATION OF TEACHERS AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20001",
+	"amount":200000
+}
+	]
+},
+{
+	"id":"C00556274",
+	"name":"USW WORKS",
+	"city":"PITTSBURGH",
+	"state":"PA",
+	"zip":"15222",
+	"type":"O",
+	"affiliation":10,
+	"association":"Unions",
+	"funds":1224941,
+	"contributors": [
+{
+	"name":"UNITED STEELWORKERS",
+	"city":"PITTSBURGH",
+	"state":"PA",
+	"zip":"15222",
+	"amount":1224941
+}
+	]
+},
+{
+	"id":"C00544569",
+	"name":"PURPLE PAC INC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20006",
+	"type":"O",
+	"affiliation":65,
+	"association":"Rand Paul",
+	"funds":1180000,
+	"contributors": [
+{
+	"name":"YASS, JEFFREY S.",
+	"city":"BALA CYNWYD",
+	"state":"PA",
+	"zip":"19004",
+	"amount":1000000
+},
+{
+	"name":"HARVEY, PHILIP D.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20006",
+	"amount":150000
+},
+{
+	"name":"RICH, HOWARD",
+	"city":"PHILADELPHIA",
+	"state":"PA",
+	"zip":"19102",
+	"amount":25000
+}
+	]
+},
+{
+	"id":"C00526673",
+	"name":"FAIR SHARE ACTION",
+	"city":"DENVER",
+	"state":"CO",
+	"zip":"80212",
+	"type":"O",
+	"affiliation":15,
+	"association":"Progressive Causes",
+	"funds":1100000,
+	"contributors": [
+{
+	"name":"ENVIRONMENT AMERICA, INC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20003",
+	"amount":800000
+},
+{
+	"name":"FAIR SHARE, INC.",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20003",
+	"amount":300000
+}
+	]
+},
+{
+	"id":"C00523589",
+	"name":"AMERICAN UNITY PAC INC",
+	"city":"WASHINGTON",
+	"state":"DC",
+	"zip":"20009",
+	"type":"O",
+	"affiliation":45,
+	"association":"Republic Gay Rights Advocacy",
+	"funds":1006013,
+	"contributors": [
+{
+	"name":"SINGER, PAUL E.",
+	"city":"NEW YORK",
+	"state":"NY",
+	"zip":"10019",
+	"amount":1005513
+}
+	]
+},
+{
+	"id":"C00572933",
+	"name":"PROGRESSIVE WOMEN SILICON VALLEY FEDERAL PAC",
+	"city":"SACRAMENTO",
+	"state":"CA",
+	"zip":"95815",
+	"type":"V",
+	"affiliation":5,
+	"association":"Women's Causes",
+	"funds":985000,
+	"contributors": [
+{
+	"name":"WOODS, LAURE",
+	"city":"PORTOLA VALLEY",
+	"state":"CA",
+	"zip":"940287265",
+	"amount":955000
+},
+{
+	"name":"POLASH, DOROTHY",
+	"city":"PORTOLA VALLEY",
+	"state":"CA",
+	"zip":"94028",
+	"amount":30000
+}
+	]
+}
+]
+}

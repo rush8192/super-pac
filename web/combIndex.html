@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+p {
+  font: 10px sans-serif;
+  font-family: helvetica;
+}
+
+text {
+  font: 10px sans-serif;
+  font-family: helvetica;
+}
+
+input {
+  font: 10px sans-serif;
+  font-family: helvetica;
+}
+
+</style>
+<body>
+
+<div id="pac" style="position: absolute;left: 0px; top: 50px; display: block; z-index: 1"></div>
+<div id="ind" style="position: absolute;left: 0px; top: 50px; z-index:0 "></div>
+<div style="position: absolute; margin-left: 2%; top: 0px; display: block; z-index: 10">
+	<p id="title" style="text-align: center; font-size: 24px; margin: 10px;">All ($302,315,433)</p>
+</div>
+<div style="position: absolute; margin-left: 2%; top: 36px; display: block; z-index: 10">
+	<p id="searchTitle"><input id="filterBox" style="text-align: left; font-size: 24px; margin: 10px;" type="search" value="All"></input></p>
+</div>
+
+<script src="https://s3.amazonaws.com/www.buyingyourfuture.org/js/d3.js"></script>
+<script src="https://s3.amazonaws.com/www.buyingyourfuture.org/js/colorbrewer.v1.min.js"></script>
+
+<script>
+
+var w_width = (window.innerWidth >  (window.innerHeight - 50) ? (window.innerHeight - 50)	 : window.innerWidth);
+w_width = w_width > 600 ? w_width : 600;
+
+// string used to filter PACs
+var fs = document.getElementById("filterBox").value;
+var N_COLORS = 11;
+var LEGEND_WIDTH = 320;
+var LEGEND_HEIGHT = 80;
+
+var activeDisplay;
+
+var diameter = w_width,
+    format = d3.format(",d"),
+    color = d3.scale.linear()
+      .domain([100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 0])
+      .range(colorbrewer.RdYlBu[N_COLORS]);
+
+var bubble = d3.layout.pack()
+    .sort(null)
+    .size([diameter, diameter])
+    .padding(1.5);
+
+var svg = d3.select("#pac").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter)
+    .attr("class", "bubble");
+
+var diameterC = w_width,
+    format = d3.format(",d"),
+    colorC1 = d3.scale.category20()
+    colorC2 = d3.scale.category20b()
+    colorC3 = d3.scale.category20c();
+
+var bubbleC = d3.layout.pack()
+    .sort(null)
+    .size([diameterC, diameterC])
+    .padding(1.5);
+
+var svgC = d3.select("#ind").append("svg")
+    .attr("width", diameterC)
+    .attr("height", diameterC)
+    .attr("class", "bubble");
+
+activeDisplay = svg;
+
+d3.json("http://www.buyingyourfuture.org/data/sampleIndData.json", function(error, root) {
+  	if (error) throw error;
+  root.x = 0;
+  root.y = 0;
+  addSinglePacData(root, 1, true);
+  d3.transition().duration(10).select("#ind").selectAll("g").style("opacity",0);
+});
+
+function matchesFilterString(pac, filterString) {
+	if ("" == filterString || "all" == filterString.toLowerCase()) {
+		return true;
+	}
+	if(typeof pac.contributors !== 'undefined'){
+		contribs = pac.contributors;
+		var index;
+		for (index = 0; index < contribs.length; ++index) {
+	    	if (contribs[index].name.toUpperCase().indexOf(filterString.toUpperCase()) > -1) {
+	    		//console.log("contrib match: " + filterString);
+	    		//console.log(contribs[index].name);
+	    		return true;
+	    	}
+	    	if (contribs[index].state.toUpperCase().indexOf(filterString.toUpperCase()) > -1) {
+	    		return true;
+	    	}
+		}
+	} else {
+		if (pac.state.toUpperCase().indexOf(filterString.toUpperCase()) > -1) {
+			return true;
+		}
+	}
+	
+	if (pac.name.toUpperCase().indexOf(filterString.toUpperCase()) > -1) {
+		//console.log("name match: " + filterString);
+		return true;
+	}
+	if (typeof pac.association !== 'undefined' && pac.association.toUpperCase().indexOf(filterString.toUpperCase()) > -1) {
+		//console.log("association match: " + filterString);
+		return true;
+	}
+	return false;
+}
+
+function addSinglePacData(root, scaleFac, enlarge) {
+	svgC.activeNode = root;
+	changeX = root.x - (diameter / 2);
+    changeY = root.y - (diameter / 2);
+   	scaleFactor = 1 / scaleFac;
+
+	var N_STATES = 10;
+	var stateCounts = {};
+
+	var node = svgC.selectAll(".node")
+      .data(bubbleC.nodes(getContributors(root))
+      .filter(function(d) { return !d.children; }))
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d1) { 
+      			if (d1.state in stateCounts) {
+      				stateCounts[d1.state] = (stateCounts[d1.state] + 1);
+      			} else {
+      				stateCounts[d1.state] = 1;
+      			}
+      			var xdiff = d1.x - diameter/2;
+      			var ydiff = d1.y - diameter/2;
+      			return "translate(" + (d1.x + changeX + (scaleFactor - 1)*xdiff) + "," + (d1.y + changeY + (scaleFactor - 1)*ydiff) + ")";
+       		});
+       		
+  addSinglePacMouseEvents(node, root, scaleFac);
+  
+  node.append("title")
+      .text(function(d) { return d.name + " (" + d.city + ", " + d.state + "): $" + format(d.amount); });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r*scaleFactor; })
+      .style("fill", function(d) { return colorForState(d.state); });
+
+  node.append("text")
+      .attr("dy", ".3em")
+      .style("text-anchor", "middle")
+      .style("opacity", 0)
+      .text(function(d) { return d.name.substring(0, d.r / 3); });
+     
+  var sortedCounts = getSortedStateCounts(stateCounts, N_STATES);
+  addSinglePacLegend(sortedCounts, N_STATES);
+     
+  if (enlarge) {	
+      svgC.legend.style("opacity", 1);
+      svgC.selectAll("g text").style("opacity", 1);
+	  svgC.transition().duration(2000).selectAll("g")
+	      .attr("transform", function(d1) {
+	      		return "translate(" + (d1.x) + "," + (d1.y) + ")";
+	      }).selectAll("g circle").attr("r", function(d1) { return d1.r; });      
+  }
+}
+
+function addSinglePacMouseEvents(node, root, scaleFac) {
+	var filterBox = d3.select("#filterBox");
+	filterBox.on('input', function() {
+		fs = document.getElementById("filterBox").value;
+		if (activeDisplay != null) {
+			refreshFilter(activeDisplay, 0);
+		}
+	}).on('focus', function() {
+		fs = document.getElementById("filterBox").value;
+		if (activeDisplay != null) {
+			refreshFilter(activeDisplay, 0);
+		}
+	});
+	
+	// per-node function: use name of donor as new filter, then transition
+	node.on('click', function(d) {
+		if (activeDisplay == null) {
+			return;
+		}
+		document.getElementById("filterBox").value = d.name;
+		svgC.processedClick = true;
+      	fs = d.name;
+      	delay = 1000;
+      	document.getElementById("title").innerHTML = "All ($302,315,433)";
+      	// re-add all pac data
+      	if (typeof d.allPacData.allPacData != 'undefined') {
+      		transitionSingleToAllPacs(root, scaleFac, d);
+      	} else {
+      		console.log(d);
+      	}
+      });
+
+  // background click function: transition to all-pac view
+  svgC.on('click', function() {
+  		if (svgC.processedClick == true) { // already handled transition
+  			svgC.processedClick = false;
+  		    return;
+  		}
+  		if (activeDisplay == null) {
+			return;
+		}
+  		delay = 1000;
+  		  		
+      	document.getElementById("title").innerHTML = "All ($302,315,433)";
+  		if (typeof root.allPacData != 'undefined') {
+      		transitionSingleToAllPacs(root, scaleFac, {name : "none"});
+      	} else {
+      		console.log(root);
+      	}
+  });
+}
+
+// adds a legend to single-pac data that shows the coloring for
+// states with the most contributors
+function addSinglePacLegend(sortedCounts, maxEntries) {
+  var PADDING = 5;
+  var BOX_WIDTH = LEGEND_WIDTH/maxEntries - PADDING;
+  var BOX_HEIGHT = 50;
+  
+  var xOffset = sortedCounts.length == maxEntries ? 0 :
+  		(maxEntries - sortedCounts.length)*(BOX_WIDTH + PADDING);
+  
+  var legendCanvas = d3.select("#ind").append("svg").style("position", "absolute")
+  	  .style("left", (diameter - LEGEND_WIDTH + xOffset) + "px")
+  	  .style("top",  (diameter - LEGEND_HEIGHT))
+  	  .attr("width", diameter).attr("height", diameter)
+  	  .style("z-index", 2); 
+  
+  var legend = legendCanvas.append("g")
+  	  .attr("transform", "translate(" + (-1*xOffset) + ", 0)")
+      .attr("class", "node");
+  
+  for (var i = 0; i < sortedCounts.length; i++) {
+  	var pos = sortedCounts.length - i;
+  	var xPos = LEGEND_WIDTH - (pos)*(BOX_WIDTH + PADDING);
+  	var yPos = 15;
+  	legend.append("rect").attr("width", BOX_WIDTH).attr("height", BOX_HEIGHT).attr("fill", colorForState(sortedCounts[i]['state']))
+  		.attr("x", xPos).attr("y", yPos)
+  		.on('click', function(stateName) {
+  			return function() {
+  				fs = stateName;
+  				document.getElementById("filterBox").value = fs;
+  				if (activeDisplay != null) {
+					refreshFilter(activeDisplay, 0);
+				}
+  			}
+  		} (sortedCounts[i]['state']) );
+  	legend.append("text").attr("x", xPos).attr("y", BOX_HEIGHT + 25 + PADDING).style("font-size", "15px").text(sortedCounts[i]['state']);
+  }
+  
+  legend.style("opacity", 0);
+  
+  svgC.legend = legend;
+  svgC.legendCanvas = legendCanvas;
+}
+
+// given a dictionary containing counts for all present states, sorted and return
+// up to maxResults entries in an array of entries of the form { state: CA, count: 5 }
+function getSortedStateCounts(stateCounts, maxResults) {
+	var topCounts = [];
+	for (var i = 0; i < maxResults && Object.keys(stateCounts).length > 0; i++) {
+		var highestCount = 0;
+		var highestKey;
+		for (var state in stateCounts) {
+		  if (stateCounts.hasOwnProperty(state)) {
+		    if (stateCounts[state] > highestCount) {
+		    	highestCount = stateCounts[state];
+		    	highestKey = state;
+		    }
+		  }
+		}
+		delete stateCounts[highestKey];
+		var stateCount = { "state" : highestKey, "count" : highestCount };
+		topCounts.push(stateCount);
+	}
+	return topCounts;
+}
+
+// transitions from the single-pac donor view to the all-pac view
+function transitionSingleToAllPacs(root, scaleFac, donor) {
+	changeX = root.x - (diameter / 2);
+	changeY = root.y - (diameter / 2);
+	scaleFactor = 1 / scaleFac;
+	
+	donorMatches = false;
+	activeDisplay = null;
+	
+	// remove single-pac legend and move nodes to position under relevant pac
+	svgC.legend.style("opacity", 0.0);
+	d3.transition().duration(delay).select("#ind").selectAll("g").style("opacity",function(d1) { 
+		if (typeof(d1) !== "undefined" && d1.name == donor.name) {
+			donorMatches = true;
+			return 0;
+			//return 1; // if we want to make this donor opaque
+		} else {
+			return 0;
+		}})
+	.filter(function(d1) {
+		return typeof(d1) !== "undefined"; // only apply translate to data nodes (filter out legend)
+	}).attr("transform", function(d1) { 
+		if (typeof(d1) !== "undefined") {
+			var xdiff = d1.x - diameter/2;
+			var ydiff = d1.y - diameter/2;
+			return "translate(" + (d1.x + changeX + (scaleFactor - 1)*xdiff) + "," + (d1.y + changeY + (scaleFactor - 1)*ydiff) + ")";
+		}
+	}).selectAll("g circle")
+		.attr("r", function(d1) { return "" + d1.r*scaleFactor; });
+	
+	// restore all-pac view
+	d3.transition().delay(500).duration(delay).select("#pac").style("opacity", 1.0);
+	refreshFilter(svg, 0);
+	svg.transitioned = false;
+	svg.transition().duration(delay).selectAll("g")
+		.attr("transform", function(d1) {
+				return "translate(" + (d1.x) + "," + (d1.y) + ")";
+		}).selectAll("g circle").attr("r", function(d1) { return d1.r; });
+	svg.legend.style("opacity", 1.0);
+	
+	// switch active display after transition completes
+	setTimeout(function() {
+		activeDisplay = svg;
+		document.getElementById("ind").style['z-index'] = 0; 
+		document.getElementById("pac").style['z-index'] = 1;
+	}, delay);
+}
+
+// re-apply filter to selectively adjust opacity on the given svg canvas
+function refreshFilter(canvas, transition) {
+	baseOpacity = 1;
+	if (transition == 0) {
+		canvas.selectAll("g").style("opacity", baseOpacity).filter(function(d1)  { return !matchesFilterString(d1, fs); })
+	        		.style("opacity", 0.125);
+    } else {
+    	canvas.transition().delay(transition).selectAll("g").style("opacity", baseOpacity).filter(function(d1)  { return !matchesFilterString(d1, fs); })
+	        		.style("opacity", 0.125);
+    }
+}
+
+// Returns a flattened hierarchy containing all leaf nodes under the root.
+function getContributors(root) {
+  var contributors = [];
+  
+  function addContributors(rootObj) {
+  	rootObj.contributors.forEach(function(contributor) { contributor.value = contributor.amount;
+  										 contributor.allPacData = rootObj;
+  										 contributor.name = contributor.name.replace(/\w\S*/g, function(txt) {
+  										 	  return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  										 }); 
+  										 contributors.push(contributor); });
+  }
+  
+  addContributors(root);
+  return {children: contributors};
+}
+
+d3.select(self.frameElement).style("height", diameterC + "px");
+
+d3.json("http://www.buyingyourfuture.org/data/pacData.json", function(error, root) {
+  if (error) throw error;
+    addAllPacData(root);
+});
+
+function addAllPacData(root) {
+	//console.log(root);
+	var maxY = 0;
+	var maxX = 0;
+	
+	var node = svg.selectAll(".node")
+      .data(bubble.nodes(getPacs(root))
+      .filter(function(d) { d.allPacData = root; return !d.children && matchesFilterString(d, fs); }))
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("id", function(d) { return d.id; })
+      .attr("transform", function(d) { 
+      	if ((d.x + d.r) > maxX) maxX = (d.x + d.r); 
+      	if ((d.y + d.r) > maxY) maxY = (d.y + d.r); 
+      	return "translate(" + d.x + "," + d.y + ")"; });
+      
+  addAllPacMouseEvents(node);
+
+  node.append("title")
+      .text(function(d) { return d.name + ": $" + format(d.funds) + " (" + d.association + ")"; });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; })
+      .style("fill", function(d) { return color(d.affiliation); });
+
+  node.append("text")
+      .attr("dy", ".3em")
+      .style("text-anchor", "middle")
+      .text(function(d) { return d.name.substring(0, d.r / 3); });
+      
+  var legend = d3.select("#pac").append("svg").style("position", "absolute").style("left", "0px")
+  	  .attr("width", diameter).attr("height", diameter)
+  	  .style("z-index", -1)
+  	  .append("g")
+  	  .attr("transform", "translate(" + (diameter - LEGEND_WIDTH) + "," + (diameter - LEGEND_HEIGHT) +")")
+      .attr("class", "node");
+  
+  var PADDING = 5;
+  var BOX_WIDTH = LEGEND_WIDTH/N_COLORS - PADDING;
+  var BOX_HEIGHT = 50;
+  
+  for (var i = 0; i < N_COLORS; i++) {
+  	var xPos = i*(BOX_WIDTH + PADDING);
+  	var yPos = 0;
+  	legend.append("rect").attr("width", BOX_WIDTH).attr("height", 50).attr("fill",colorbrewer.RdYlBu[N_COLORS][i]).attr("x", xPos).attr("y", yPos);
+  }
+  
+  legend.append("text").attr("x", LEGEND_WIDTH - 52).attr("y", BOX_HEIGHT + 10 + PADDING).style("font-size", "15px").text("Liberal");
+  legend.append("text").attr("x", 0).attr("y", BOX_HEIGHT + 10 + PADDING).style("font-size", "15px").text("Conservative");
+  
+  svg.legend = legend;      
+}
+
+function addAllPacMouseEvents(node, root) {
+	node.on('click', function(d) { 
+      	if (svg.select("#" + d.id).style("opacity") == 0 || activeDisplay == null) {
+      		return;
+      	}
+      	
+      	delay = 2000;
+      	svg.processedClick = true;
+      	svg.transitioned = true;
+      	activeDisplay = null;
+      	
+      	changeX = (diameter / 2) - d.x;
+      	changeY = (diameter / 2) - d.y;
+      	scaleFactor = (diameter) / (d.r * 2);
+      	
+      	svg.transition().duration(delay).selectAll("g")
+      		.attr("transform", function(d1) { 
+      			var xdiff = d1.x - d.x;
+      			var ydiff = d1.y - d.y;
+      			return "translate(" + (d1.x + changeX + (scaleFactor - 1)*xdiff) + "," + (d1.y + changeY + (scaleFactor - 1)*ydiff) + ")";
+       		}).selectAll("g circle")
+       		.attr("r", function(d1) { return "" + d1.r*scaleFactor; });
+        d3.transition().duration(delay).select("#pac").style("opacity",0.1);
+      	
+      	document.getElementById("title").innerHTML = d.name + ": $" + format(d.funds) + " (" + d.association + ")";
+      	
+      	var filterBox = document.getElementById("filterBox");
+      	svg.savedFilterString = filterBox.value;
+      	fs = filterBox.value;
+      	
+      	svg.legend.style("opacity", 0);
+      	if (svgC.activeNode != d) {
+      		svgC.selectAll(".node").remove();
+      		svgC.legendCanvas.remove();
+      		addSinglePacData(d, scaleFactor, true);      		
+      	} else {
+      		svgC.legend.transition().duration(delay).style("opacity", 1);
+      		svgC.selectAll("g text").style("opacity", 1);
+      		svgC.transition().duration(delay).selectAll("g").attr("transform", function(d1) {
+      				return "translate(" + (d1.x) + "," + (d1.y) + ")";
+       			}).selectAll("g circle").attr("r", function(d1) { return d1.r; });
+      	}
+      	refreshFilter(svgC, delay);
+      	
+      	setTimeout(function() {
+      		activeDisplay = svgC;
+      		document.getElementById("ind").style['z-index'] = 1; 
+      		document.getElementById("pac").style['z-index'] = 0;
+      	}, delay);
+      	
+      }).on('mouseover', function(d) {
+      	if (activeDisplay == null) {
+      		return;
+      	}
+      	svg.storedOpacity = svg.select("#"+d.id).style("opacity");
+      	svg.select("#"+d.id).style("opacity", 0.5);
+      	if (svgC.activeNode != d) {
+      		scaleFactor = (diameter) / (d.r * 2);
+      		svgC.selectAll(".node").remove();
+      		svgC.legendCanvas.remove();
+      		addSinglePacData(d, scaleFactor, false);
+      		svg.processedClick = true;
+      	} else {
+      		svgC.selectAll("g").style("opacity", 1.0);
+      	}
+      }).on('mouseout', function(d) {
+        if (svg.transitioned || activeDisplay == null) {
+        	
+        } else {
+      		svg.select("#"+d.id).style("opacity", svg.storedOpacity);
+      		svgC.selectAll("g").style("opacity", 0);
+      	}
+      });
+      
+  	  svg.on('click', function() {
+  	  	if (svg.processedClick == true) {
+  	  		svg.processedClick = false;
+  	  		return;
+  	  	}
+  	  	if (activeDisplay == null) {
+      		return;
+      	}
+  		fs = "";
+  		delay = 1000;
+		svgC.selectAll("g").style("opacity", 0);
+		svg.transition().duration(delay).selectAll("g").style("opacity",1);
+ 	  }).on('mouseover', function() {
+  		if (svg.processedClick == true) {
+  	  		svg.processedClick = false;
+  	  		return;
+  	  	}
+ 	  });
+}
+
+// Returns a flattened hierarchy containing all leaf nodes under the root.
+function getPacs(root) {
+  var pacs = [];
+
+  //function recurse(name, node) {
+  //  if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
+  //  else classes.push({packageName: name, className: node.name, value: node.size});
+  //}
+
+  //recurse(null, root);
+  
+  function addPacs(rootObj) {
+  	rootObj.pacs.forEach(function(pac) { pac.value = pac.funds;
+  										 pac.name = pac.name.replace(/\w\S*/g, function(txt){
+  										 	if (["ACTBLUE"].indexOf(txt) != -1) {
+  										 	  return "ActBlue";
+  										 	} else if (["USA","PAC","III","II","USW"].indexOf(txt) == -1) {
+  										 	  return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  										 	} else if (["USA","PAC","III","II","USW"].indexOf(txt) == -1) {
+  										 	  return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  										 	} else {
+  										 	  return txt;
+  										 	}
+  										 }); 
+  										 pacs.push(pac); });
+  }
+  
+  addPacs(root);
+  return {children: pacs};
+}
+
+d3.select(self.frameElement).style("height", diameter + "px");
+
+function colorForState(stateName) {
+	if (stateName >= "AL" && stateName < "MA") {
+		return colorC1(stateName);
+	} else if (stateName >= "MA" && stateName < "SD") {
+		return colorC2(stateName);
+	} else {
+		return colorC3(stateName);
+	}
+}
+
+</script>
+</body>
+</html>

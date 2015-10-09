@@ -1,0 +1,9 @@
+Super-PAC Contribution Data
+
+Contains code for downloading, parsing, and then displaying super-PAC
+contribution data.
+
+Current working draft viewable at:
+http://www.buyingyourfuture.org/scratch/combIndex.html
+
+To refresh data from FEC servers, run './update.sh -d'
